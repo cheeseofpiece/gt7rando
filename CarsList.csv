@@ -1,478 +1,478 @@
-﻿Make,Model,Year,PP,Tyres,Dirt,Region,Drivetrain,Aspiration,Price,Power,Weight,Length,Width,Height,Engine Model,Displacement,Engine Type,Group,Type,#Hyper,#VGT,#Concept,#Safety,#Kei,#Electric,#Hybrid,#GTAward,#GT300,#GT500,#Le Mans,#N24,#WRC,#Kart,#Pikes Peak,#Midship,#Pickup,#GTTrophy,Special
-Abarth,1500 Biposto Bertone B.A.T 1​ '52​,1952,259.63,CH,Y,Italy,FR,NA,1000000,73,870,4520,1650,1380,101,,--,,Road Car,,,,,,,,,,,,,,,,,,Y,
-Abarth,500​ '09​,2009,403.72,CS,Y,Italy,FF,T,29500,133,1035,3657,1627,1485,312A1,1368,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Abarth,595​ '70​,1970,171.25,CH,Y,Italy,RR,NA,48900,30,470,2970,1320,1325,110F.000-ABA205,594,Inline 2 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Alfa Romeo,155 2.5 V6 TI​ '93​,1993,655.5,RH,,Italy,4WD,NA,800000,413,1010,4576,1750,1375,V6-155-V6Ti,2498,V-type 6 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Alfa Romeo,4C​ '14​,2014,524.46,SH,Y,Italy,MR,T,89100,235,950,3990,1870,1185,960A1,1742,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Alfa Romeo,4C Gr.3​,0,714.51,RH,,Italy,MR,T,450000,528,1220,4340,1950,1182,Alfa-4C-Gr.3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Alfa Romeo,4C Gr.3 Road Car​,0,566.36,SH,Y,Italy,MR,T,300000,443,1320,4340,1950,1182,Alfa-4C-Gr.3-Road,,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Alfa Romeo,4C Gr.4​,0,620.1,RH,,Italy,MR,T,350000,295,1020,3990,1870,1152,Alfa-4C-Gr.4,,--,Gr.4,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Alfa Romeo,8C 2900B Touring Berlinetta​ '37​,1937,390.64,CM,Y,Italy,FR,SC,20000000,179,1310,5000,1700,1500,8C-2900,2905,Inline 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Alfa Romeo,8C Competizione​ '08​,2008,553.73,SH,Y,Italy,FR,NA,350000,442,1585,4381,1894,1341,F136YC,4691,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Alfa Romeo,Giulia GTAm '20,2020,580.88,SH,Y,Italy,FR,T,220000,532,1580,4669,1923,1397,690T,2891,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Alfa Romeo,Giulia TZ2 carrozzata da Zagato​ '65​,1965,489.13,CS,,Italy,FR,NA,3450000,168,620,3680,1600,1075,AR00502/A,1570,Inline 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,Y,
-Alfa Romeo,MiTo​ '09​,2009,422.13,CS,Y,Italy,FF,T,28500,152,1145,4070,1720,1475,199A8,1368,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Alpine,A110​ '17​,2017,517.93,SH,Y,France,MR,T,80000,248,1103,4180,1798,1252,Tce-M5P,1800,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Alpine,A110​ '72​,1972,415.35,CM,Y,France,RR,NA,140000,138,715,3850,1520,1130,807-24,1565,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Alpine,A220​ '68​,1968,585.9,CS,,France,MR,NA,330000,319,690,4080,1740,1030,T62,2996,V-type 8 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Alpine,VGT​,2015,678.48,SM,,France,MR,NA,1000000,443,900,4620,2100,940,V8-Alpine-VGT,4494,V-type 8 Cylinders,,Road Car,,Y,,,,,,,,,,,,,,Y,,,
-Alpine,VGT​ '17​,2017,878.29,RM,,France,RR,NA,1000000,594,930,5282,2100,9400,V8-Alpine-VGT-'17,4200,V-type 8 Cylinders,Gr.1,Racing Car,,Y,,,,,,,,,,,,,,,,,
-Alpine,VGT Race​,2015,742.44,RH,,France,MR,NA,1000000,443,900,5047,2100,940,V8-Alpine-VGT,4494,V-type 8 Cylinders,,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-AMG,300 SEL 6.8 AMG​ '71​,1971,517.98,SH,,Germany,FR,NA,700000,422,1635,5000,1810,1320,M100,6835,V-type 8 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-AMG,A 45 AMG​ '13​,2013,518.55,SH,Y,Germany,4WD,T,64000,355,1555,4359,1780,1417,M133,1991,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-AMG,Mercedes-AMG C 63 S​ '15​,2015,568.26,SH,Y,Germany,FR,T,135800,503,1725,4750,1877,1402,M177,3982,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-AMG,Mercedes-AMG GT Black Series​ '20​,2020,652.14,SM,,Germany,FR,T,420000,719,1540,4604,2075,1280,M178,3982,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-AMG,Mercedes-AMG GT R​ '17​,2017,601.54,SH,,Germany,FR,T,184000,576,1660,4550,2005,1285,M178,3982,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-AMG,Mercedes-AMG GT S​ '15​,2015,592.03,SH,,Germany,FR,T,120000,502,1570,4550,1940,1290,M178,3982,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-AMG,Mercedes-AMG GT Safety Car​,0,587.65,SH,,Germany,FR,T,200000,502,1570,4550,1940,1290,M178,3982,V-type 8 Cylinders,,Road Car,,,,Y,,,,,,,,,,,,,,,
-AMG,Mercedes-AMG GT3​ '16​,2016,730.51,RH,,Germany,FR,NA,450000,614,1325,4569,2049,1250,M159,6208,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-AMG,Mercedes-Benz AMG VGT​,2013,652.65,SM,,Germany,FR,T,1000000,576,1385,4820,2000,1110,V8-Mercedes-VGT,5461,V-type 8 Cylinders,,Road Car,,Y,,,,,,,,,,,,,,,,,
-AMG,Mercedes-Benz AMG VGT Racing Series​,2014,728.43,RH,,Germany,FR,T,1000000,590,1300,4820,2000,1110,V8-Mercedes-VGT-Racing,5461,V-type 8 Cylinders,,Racing Car,,Y,,,,,,,,,,,,,,,,,
-AMG,SLS AMG​ '10​,2010,585.75,SH,,Germany,FR,NA,360000,570,1620,4638,1939,1262,M156,6208,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-AMG,SLS AMG Gr.4​,0,641.17,RH,,Germany,FR,NA,350000,419,1415,4638,1939,1257,SLS-Gr.4,,--,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-AMG,SLS AMG GT3​ '11​,2011,728.06,RH,,Germany,FR,NA,450000,614,1350,4710,1990,1195,M159,,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Amuse,NISMO 380RS Super Leggera​,0,567.34,SH,,Japan,FR,NA,100000,380,1370,4520,1845,1316,VQ38HR,3798,V-type 6 Cylinders,,Professionally Tuned,,,,,,,,,,,,,,,,,,,
-Amuse,S2000 GT1 Turbo​,0,667.51,SM,,Japan,FR,T,250000,616,1120,4226,1829,1198,F20C,,Inline 4 Cylinders,,Professionally Tuned,,,,,,,,,,,,,,,,,,,
-Aston Martin,DB11​ '16​,2016,577.27,SH,,UK,FR,T,238000,599,1770,4739,2060,1279,AE31,5204,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Aston Martin,DB3S​ '53​,1953,481.64,CM,,UK,FR,NA,6000000,224,856,3905,1620,1054,Lagonda-DP101,2922,Inline 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,Y,
-Aston Martin,DB5​ '64​,1964,438.97,CM,,UK,FR,NA,978000,281,1468,4570,1676,1320,Tadek-Marek-R6,3995,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Aston Martin,DBR9 GT1​ '10​,2010,716.81,RH,,UK,FR,NA,800000,599,1100,4687,1978,1195,AM04,5935,V-type 12 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Aston Martin,DP-100 VGT​,2014,703.26,RH,,UK,4WD,T,1000000,799,1375,4576,2007,1112,V12-DP-100,6000,V-type 12 Cylinders,,Road Car,,Y,,,,,,,,,,,,,,Y,,,
-Aston Martin,One-77​ '11​,2011,628.63,SH,,UK,FR,NA,1320000,748,1630,4601,1999,1222,AM21,7312,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Aston Martin,V12 Vantage GT3 '12,2012,718.56,RH,,UK,FR,NA,450000,591,1250,4760,1979,1340,AM08,5935,V-type 12 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Aston Martin,V8 Vantage Gr.4​,0,640.87,RH,,UK,FR,NA,350000,399,1350,4459,1897,1236,V8-Vantage-Gr.4,,V-type 8 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Aston Martin,V8 Vantage S​ '15​,2015,551.89,SH,,UK,FR,NA,180000,429,1610,4385,2022,1260,AJ37,4735,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Aston Martin,Vulcan​ '16​,2016,754.25,RH,,UK,FR,NA,3300000,820,1360,4807,2063,1205,V12-Vulcan,6949,V-type 12 Cylinders,,Road Car,Y,,,,,,,,,,,,,,,,,,
-Audi,e-tron VGT​,2018,842,RM,,Germany,4WD,EV,1000000,803,1450,4704,2126,1107,EV-Audi-e-tron-VGT,,--,,Racing Car,,Y,,,,Y,,,,,,,,,,,,,
-Audi,R18​ '16​,2016,881.23,RM,,Germany,4WD,T,1000000,506,875,4650,1900,1050,V6-R18-'16,4000,V-type 6 Cylinders,Gr.1,Racing Car,,,,,,,Y,,,,Y,,,,,Y,,,
-Audi,R18 TDI​ '11​,2011,859.41,RM,,Germany,MR,T,3000000,532,900,4650,2000,1100,V6-R18-'11,3700,V-type 6 Cylinders,Gr.1,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Audi,R8 4.2​ '07​,2007,556.57,SH,,Germany,4WD,NA,166700,414,1560,4431,1904,1249,BYH,4163,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Audi,R8 LMS​ '15​,2015,740.24,RH,,Germany,MR,NA,800000,585,1225,4583,1997,1171,DAR,5200,V-type 10 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,Y,,,,Y,,,
-Audi,R8 LMS Evo​ '19​,2019,738.33,RH,,Germany,MR,NA,450000,576,1235,4573,1997,1171,DAR,5200,V-type 10 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Audi,RS 5 Turbo DTM '19,2019,812.75,RH,,Germany,FR,T,1000000,603,986,4958,1950,1150,RC8-2.0-TFSI,2000,Inline 4 Cylinders,Gr.2,Racing Car,,,,,,,,,,,,,,,,,,,
-Audi,Sport quattro S1​ '87​,1987,676.35,RH,Y,Germany,4WD,T,2150000,588,1000,4240,1860,1344,R5-20vT,2110,Inline 5 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,,,Y,,,,
-Audi,TT Coupe 3.2 quattro​ '03​,2003,466.25,CS,Y,Germany,4WD,NA,57800,239,1520,4041,1764,1345,BHE,3189,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Audi,TT Cup​ '16​,2016,628.87,RH,,Germany,FF,T,350000,335,1125,4260,1994,1279,DNU,1984,Inline 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Audi,TTS Coupe​ '14​,2014,530.57,SH,Y,Germany,4WD,T,76800,305,1385,4191,1832,1343,DNU,1984,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Audi,VGT​,2018,894.61,RM,,Germany,4WD,T,1000000,735,1250,4704,2126,1107,V6-Audi-VGT,3400,V-type 6 Cylinders,Gr.1,Racing Car,,Y,,,,,Y,,,,,,,,,,,,
-Autobianchi,A112​ '85​,1985,300.63,CM,Y,Italy,FF,NA,31100,71,710,3268,1480,1360,A112A2.000,1050,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BAC,Mono​ '16​,2016,625.81,SM,,UK,MR,NA,240000,304,580,3952,1836,1110,Duratec-2.5-L4,2488,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-BMW,3.0 CSL​ '71​,1971,407.46,CM,,Germany,FR,NA,146700,177,1165,4660,1710,1370,M30B30V,2986,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,3.0 CSL​ '73​,1973,418.63,CM,,Germany,FR,NA,206500,202,1250,4660,1730,1370,M30B32,3153,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,i3​ '15​,2015,394.72,CS,,Germany,MR,EV,49900,166,1260,4010,1775,1550,P250,,--,,Road Car,,,,,,Y,,,,,,,,,,Y,,,
-BMW,M2 Competition '18,2018,543.6,SH,,Germany,FR,T,91000,405,1575,4461,1854,1410,S55B30A,2979,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,M3​ '03​,2003,519.26,SH,,Germany,FR,NA,84000,339,1560,4490,1780,1360,32-6S4,3246,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,M3​ '07​,2007,536.27,SH,,Germany,FR,NA,93000,415,1655,4615,1804,1418,S65B40A,3999,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,M3​ '89​,1989,459.1,CS,,Germany,FR,NA,89000,212,1200,4345,1680,1370,S14B23,2302,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,M3 GT​ '11​,2011,693.92,RH,,Germany,FR,NA,600000,500,1245,4714,1917,1289,P65B40,4000,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,Y,,,,,,,
-BMW,M3 Sport Evolution​ '89​,1989,467.16,CS,,Germany,FR,NA,178950,234,1200,4345,1680,1385,S14B25-EVO3,2467,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,M4​ '14​,2014,557.78,SH,,Germany,FR,T,120000,425,1497,4671,1869,1381,S55B30A,2979,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-BMW,M4 Gr.4​,0,622.91,RH,,Germany,FR,T,350000,394,1365,4777,1869,1350,L6-M4-Gr.4,2979,Inline 6 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-BMW,M4 Safety Car​,0,557.8,SH,,Germany,FR,T,150000,425,1497,4671,1869,1381,S55B30A,2979,Inline 6 Cylinders,,Road Car,,,,Y,,,,,,,,,,,,,,,
-BMW,M6 GT3 Endurance Model​ '16​,2016,720.71,RH,,Germany,FR,T,450000,584,1300,4944,2046,1277,P63B44,,--,Gr.3,Racing Car,,,,,,,,,,,,Y,,,,,,,
-BMW,M6 GT3 Sprint Model​ '16​,2016,721.38,RH,,Germany,FR,T,450000,584,1300,4944,2046,1277,P63B44,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-BMW,McLaren F1 GTR Race Car​ '97​,1997,815.43,RM,,Germany,MR,NA,10000000,602,950,4924,1920,1120,S70/3,,V-type 12 Cylinders,Gr.2,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-BMW,VGT​,2014,709.31,RH,,Germany,FR,T,1000000,541,1180,4558,1922,1332,L6-BMW-VGT,3000,Inline 6 Cylinders,,Racing Car,,Y,,,,,,,,,,,,,,,,,
-BMW,Z4 GT3​ '11​,2011,706.74,RH,,Germany,FR,NA,450000,522,1190,4387,2012,1210,P65B44,4361,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-BMW,Z8​ '01​,2001,534.49,SH,,Germany,FR,NA,300000,395,1610,4400,1830,1315,S62B50,4941,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Bugatti,Chiron '16,2016,696.39,SH,,France,4WD,T,3000000,1479,1995,4544,2038,1212,8.0-WR16-64v4T,7993,W-type 16 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Bugatti,Veyron 16.4​ '13​,2013,653.62,SH,,France,4WD,T,2000000,986,1888,4462,1998,1206,8.0-WR16-64v4T,7993,W-type 16 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Bugatti,Veyron Gr.4​,0,627.04,RH,,France,4WD,T,350000,433,1650,4496,2000,1163,W16-Veyron-Gr.4,7993,W-type 16 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Bugatti,VGT​,2015,910.39,RH,,France,4WD,T,1000000,1626,1400,4752,2123,1133,W16-Bugatti-VGT,7993,W-type 16 Cylinders,,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Bugatti,VGT (Gr.1)​,2015,890.99,RM,,France,4WD,T,1000000,641,980,4752,2123,1133,Bugatti-VGT-Gr.1,,--,Gr.1,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Chaparral,2J​ '70​,1970,863.85,RH,,USA,MR,NA,2500000,683,821,3683,1981,964,Big-Block-465,7600,V-type 8 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Chaparral,2X VGT​,2025,1038.64,RS,,USA,,,1000000,905,405,4150,1974,880,Laser-Pulse-2X,,--,,Racing Car,,Y,,,,,,,,,,,,,,,,,
-Chevrolet,Camaro SS​ '16​,2016,550.08,SH,Y,USA,FR,NA,35000,453,1672,4783,1897,1349,LT1,6162,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Camaro Z28​ '69​,1969,447.13,CM,Y,USA,FR,NA,105000,289,1415,4724,1880,1311,302,4949,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Camaro ZL1 1LE Package​ '18​,2018,621.44,SM,Y,USA,FR,SC,79500,649,1732,4784,1897,1330,LT4,6162,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette (C2)​ '63​,1963,506.25,CS,Y,USA,FR,NA,237000,359,1380,4453,1768,1265,Small-Block-327,5354,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette C7​ '14​,2014,570.92,SH,Y,USA,FR,NA,51000,453,1500,4495,1877,1235,LT1,6162,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette C7 Gr.3​,0,719.47,RH,,USA,FR,NA,450000,571,1300,4779,2050,1161,V8-Corvette-Gr.3,,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette C7 Gr.3 Road Car​,0,573.77,SH,Y,USA,FR,NA,300000,493,1480,4570,2050,1161,V8-Corvette-Gr.3-Road,,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette C7 Gr.4​,0,648.26,RH,,USA,FR,NA,350000,414,1350,4574,1872,1187,V8-Corvette-Gr.4,,V-type 8 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette C7 ZR1​ '19​,2019,644.36,SM,Y,USA,FR,SC,134000,754,1615,4567,1965,1232,LT5,6162,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette C8 '20,2020,585.55,SH,Y,USA,MR,NA,85000,494,1530,4630,1934,1234,LT2,6162,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Chevrolet,Corvette Stingray​ (C3) '69​,1969,505.01,CS,Y,USA,FR,NA,53300,350,1490,4636,1753,1214,Small-Block-350,5735,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette Stingray Concept​ '59​,1959,517.53,CS,,USA,FR,NA,4000000,314,1150,4430,1752,1265,Small-Block-283,,V-type 8 Cylinders,,Racing Car,,,Y,,,,,,,,,,,,,,,,
-Chevrolet,Corvette Stingray Convertible​ (C3) '69​,1969,448.62,CM,Y,USA,FR,NA,47300,298,1552,4636,1753,1217,Small-Block-350,5735,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette ZR-1​ (C4) '89​,1989,520.83,CS,Y,USA,FR,NA,89600,375,1572,4506,1880,1186,LT5,5735,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chevrolet,Corvette ZR1 (C6)​ '09​,2009,608.43,SH,Y,USA,FR,SC,120000,639,1508,4475,1928,1245,LS9,6162,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Chris Holstrom Concepts,CHC 1967 Chevy Nova​,0,616.23,SH,Y,USA,FR,SC,300000,732,1366,4760,1811,1367,LS9,6162,V-type 8 Cylinders,,Professionally Tuned,,,,,,,,Y,,,,,,,,,,,
-Citroen,DS 21 Pallas '70,1970,521.07,CM,Y,France,FF,NA,49600,103,1300,4870,1800,1440,DX2,2175,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Citroen,GT by Citroen Gr.4​,0,648.06,RH,,France,MR,NA,350000,394,1300,4957,2250,1206,GT-by-Citroen-Gr.4,,--,Gr.4,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Citroen,GT by Citroen Race Car (Gr.3)​,0,743.98,RH,,France,MR,NA,450000,599,1200,5208,2120,1116,GT-by-Citroen-Gr.3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Citroen,GT by Citroen Road Car​,0,597.21,SH,Y,France,MR,NA,1000000,500,1450,4954,2075,1089,Modular-5.4L,,--,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Daihatsu,Copen​ '02​,2002,292.88,CM,Y,Japan,FF,T,18000,62,830,3395,1475,1245,JB-DET,659,Inline 4 Cylinders,,Road Car,,,,,Y,,,,,,,,,,,,,,
-Daihatsu,Copen RJ VGT​,2017,494.27,SH,,Japan,FF,T,1000000,146,600,3542,1534,1330,L3-Copen-VGT,660,Inline 3 Cylinders,,Racing Car,,Y,,,,,,,,,,,,,,,,,
-De Tomaso,Mangusta​ '69​,1969,486.05,CM,Y,Italy,MR,NA,245000,300,1185,4275,1830,1100,Windsor-289-HiPo,4727,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-De Tomaso,Mangusta (Christian Dior),0,486.05,CM,Y,Italy,MR,NA,500000,300,1185,4275,1830,1100,Windsor-289-HiPo,4727,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-De Tomaso,Pantera​ '71​,1971,471.08,CM,Y,Italy,MR,NA,165000,325,1420,4270,1830,1100,Cleveland-351-Mcode,5763,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-DMC,DeLorean S2​ '04​,2004,449.51,CS,Y,USA,RR,NA,525000,197,1288,4267,1857,1140,PRV,2849,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Dodge,Challenger R/T​ '70​,1970,488.45,CS,Y,USA,FR,NA,306000,425,1724,4864,1943,1295,Hemi-426,6981,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Dodge,Charger SRT Hellcat​ '15​,2015,596.7,SH,Y,USA,FR,SC,76800,707,1980,5088,1885,1478,Hellcat,6161,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Dodge,Charger SRT Hellcat Safety Car​,0,595.87,SH,,USA,FR,SC,100000,707,1980,5088,1885,1478,Hellcat,6161,V-type 8 Cylinders,,Road Car,,,,Y,,,,,,,,,,,,,,,
-Dodge,SRT Tomahawk GTS-R VGT​,2035,1164.9,RS,,USA,4WD,NA,1000000,1449,663,5039,2250,950,V10-Tomahawk-GTS-R,7000,V-type 10 Cylinders,,Racing Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Dodge,SRT Tomahawk S VGT​,2035,949.94,SM,,USA,4WD,NA,1000000,1006,921,5039,2250,950,V10-Tomahawk-S,7000,V-type 10 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Dodge,SRT Tomahawk VGT (Gr.1)​,0,890.13,RM,,USA,MR,NA,1000000,693,950,5141,2244,974,Tomahawk-Gr.1,,--,Gr.1,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Dodge,SRT Tomahawk X VGT​,2035,1359.35,RS,,USA,4WD,NA,1000000,2586,749,5039,2250,950,V10-Tomahawk-X,7000,V-type 10 Cylinders,,Racing Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Dodge,Super Bee​ '70​,1970,442.8,CM,Y,USA,FR,NA,71200,225,1533,5334,1948,1346,383-Magnum,6277,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Dodge,Viper Gr.4​,0,646.19,RH,,USA,FR,NA,350000,428,1400,4622,1934,1209,V10-Viper-Gr.4,,V-type 10 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Dodge,Viper GTS​ '02​,2002,558.07,SH,Y,USA,FR,NA,120000,448,1569,4488,1923,1219,SR-I,7997,V-type 10 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Dodge,Viper GTS​ '13​,2013,598.27,SH,Y,USA,FR,NA,140000,640,1556,4463,1941,1246,VX-I,,V-type 10 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Dodge,Viper SRT GT3-R​ '15​,2015,740.92,RH,,USA,FR,NA,450000,678,1290,4540,2068,1160,VX-I,8383,V-type 10 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Dodge,Viper SRT10 Coupe​ '06​,2006,573.19,SH,Y,USA,FR,NA,130000,508,1565,4459,1911,1210,ZB-I,8285,V-type 10 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-DS Automobiles,DS 3 Racing​ '11​,2011,459.69,CS,Y,France,FF,T,31000,203,1165,3948,1717,1502,5F04,1.598,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Eckert's Rod & Customs,Mach Forty​,0,630.68,SH,Y,USA,MR,SC,300000,787,1588,4561,1983,1196,Modular-5.4L,5409,V-type 8 Cylinders,,Professionally Tuned,,,,,,,,Y,,,,,,,,Y,,,
-Ferrari,250 GT Berlinetta passo corto '61​,1961,470.36,CM,,Italy,FR,NA,8300000,275,960,4150,1690,1260,Tipo168-comp/61,2953,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ferrari,250 GTO​ '62​,1962,535.17,CS,,Italy,FR,NA,20000000,295,880,4325,1600,1210,Tipo168-comp/62,2953,V-type 12 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-Ferrari,308 GTB​ '75​,1975,469.51,CM,Y,Italy,MR,NA,174500,251,1090,4230,1720,1120,F106AB,2927,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,330 P4​ '67​,1967,703.91,RH,,Italy,MR,NA,9500000,448,792,4185,1810,1000,Tipo237,3967,V-type 12 Cylinders,,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Ferrari,365 GTB4​ '71​,1971,541,CS,,Italy,FR,NA,690000,347,1200,4425,1760,1245,Tipo251,4390,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ferrari,458 Italia​ '09​,2009,612.73,SH,,Italy,MR,NA,283000,563,1485,4527,1937,1213,F136F,4499,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,458 Italia Gr.4​,0,632.71,RH,,Italy,MR,NA,350000,374,1350,4554,1937,1153,V8-458-Gr.4,4499,V-type 8 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,458 Italia GT3​ '13​,2013,730.41,RH,,Italy,MR,NA,450000,542,1215,4599,2034,1157,F136,4497,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,500 Mondial Pinin Farina Coupe​ '54​,1954,486.02,SH,,Italy,FR,NA,2700000,168,720,3937,1638,965,Lampredi,1985,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,Y,
-Ferrari,512BB​ '76​,1976,533.06,CS,,Italy,MR,NA,280600,354,1400,4400,1830,1120,F102B,4942,Flat 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,Dino 246GT​ '71​,1971,440.34,CM,,Italy,MR,NA,352300,191,1080,4235,1700,1135,Tipo135CS,2418,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,Enzo Ferrari​ '02​,2002,652.11,SH,,Italy,MR,NA,2500000,658,1255,4702,2035,1147,F140B,5998,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,F12berlinetta​ '12​,2012,637.13,SH,,Italy,FR,NA,373000,730,1525,4618,1942,1273,F140FC,6262,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ferrari,F40​ '92​,1992,597.31,SH,,Italy,MR,T,3000000,471,1100,4358,1970,1124,F120A,2946,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,F430​ '06​,2006,592.17,SH,,Italy,MR,NA,243200,495,1450,4512,1923,1204,F136E,4308,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,F50​ '95​,1995,610.03,SH,,Italy,MR,NA,4300000,511,1230,4480,1986,1120,F130B,4698,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,F8 Tributo​ '19​,2019,680.12,SM,,Italy,MR,T,330500,710,1330,4611,1979,1206,F154CG,3902,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,FXX K​ '14​,2014,780.25,RH,,Italy,MR,NA,3600000,1034,1165,4896,2051,1116,F140,6262,V-type 12 Cylinders,,Road Car,Y,,,,,,Y,,,,,,,,,Y,,,
-Ferrari,GTO​ '84​,1984,559.21,CS,Y,Italy,MR,T,3550000,393,1160,4290,1910,1120,F114-B000,2855,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,LaFerrari​ '13​,2013,714.96,SM,,Italy,MR,NA,1600000,949,1255,4702,1992,1116,F140FE,6262,V-type 12 Cylinders,,Road Car,,,,,,,Y,,,,,,,,,Y,,,
-Ferrari,Testarossa​ '91​,1991,526.29,CS,,Italy,MR,NA,369300,384,1506,4485,1976,1130,F113B,4943,Flat 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ferrari,VGT,2022,938.35,RM,,Italy,4WD,T,1000000,1363,1250,4688,2330,1045,V6-Ferrari-VGT,3000,V-type 6 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Fiat,500 1.2 8V Lounge SS​ '08​,2008,279.95,CM,Y,Italy,FF,NA,17000,65,1010,3545,1625,1515,169A4,1240,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Fiat,500 F​ '68​,1968,85.97,CH,Y,Italy,RR,NA,16700,16,520,2970,1320,1335,100F.000,499,Inline 2 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,F-150 SVT Raptor​ '11​,2011,434.38,CM,Y,USA,4WD,NA,55000,411,2724,5603,2192,1994,Boss-6.2L,6210,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,Y,,
-Ford,Focus Gr.B Rally Car​,0,670.56,RH,Y,USA,4WD,T,450000,538,1260,4416,2000,1569,L4-Focus-Gr.B,1999,Inline 4 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,,,,,,,
-Ford,Focus RS​ '18​,2018,521.17,SH,Y,USA,4WD,T,41000,350,1557,4389,1821,1473,YVDA,2261,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,Focus ST​ '15​,2015,491.59,SH,Y,USA,FF,T,29250,250,1462,4361,1821,1483,R9DA,1999,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,GT​ '06​,2006,600.06,SH,,USA,MR,SC,460000,550,1451,4643,1953,1125,Modular-5.4L,5409,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ford,GT​ '17​,2017,625.5,SH,,USA,MR,T,550000,646,1385,4763,2004,1110,EcoBoost-D35,3497,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ford,GT LM Race Car Spec II​,0,735.94,RH,,USA,MR,SC,1600000,606,1130,4613,1950,1106,V8-Ford-GT-LM,5400,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Ford,GT LM Spec II Test Car​,0,738.49,RH,,USA,MR,SC,1200000,590,1165,4643,1953,1125,V8-Ford-GT-LM-Test,5409,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Ford,GT Race Car​ '18​,2018,722.87,RH,,USA,MR,T,1000000,527,1200,4763,2045,1030,V6-Ford-GT-Race-'18,3500,V-type 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Ford,GT40 Mk1​ '66​,1966,559.92,CS,,USA,MR,NA,6700000,354,1080,4191,1778,1029,Windsor-289,4727,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Ford,Mark IV Race Car​ '67​,1967,680.98,RH,,USA,MR,NA,6750000,503,1000,4343,1791,978,FE-427,6997,V-type 8 Cylinders,,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Ford,Mustang Boss 429​ '69​,1969,497.21,SH,Y,USA,FR,NA,323000,374,1614,4760,1824,1280,Lima-429,7030,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,Mustang Gr.3​,0,702.69,RH,,USA,FR,NA,450000,568,1300,4923,2000,1280,V8-Mustang-Gr.3,,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Ford,Mustang Gr.3 Road Car​,0,570.53,SH,Y,USA,FR,NA,300000,502,1500,4845,2000,1235,V8-Mustang-Gr.3-Road,,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,Mustang Gr.4​,0,630.69,RH,,USA,FR,NA,350000,395,1400,4834,1915,1320,Mustang-Gr.4,,--,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Ford,Mustang Gr.B Rally Car​,0,647.45,RH,Y,USA,4WD,NA,450000,549,1380,4869,2000,1420,V8-Mustang-Gr.B,,V-type 8 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,,,,,,,
-Ford,Mustang GT​ '15​,2015,537.25,SH,Y,USA,FR,NA,44310,434,1681,4783,1915,1365,Coyote-5.0L,4951,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,Mustang Mach 1​ '71​,1971,438.66,CM,Y,USA,FR,NA,44200,302,1615,4813,1882,1273,Cleveland-351-Mcode,5752,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,Roadster​,1963,411,CM,Y,USA,FR,NA,400000,179,1115,3734,1664,1422,FirePower-331,5424,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,Shelby GT350R​ '16​,2016,571.29,SH,Y,USA,FR,NA,75000,525,1658,4818,1928,1361,Voodoo-5.2L,5163,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Ford,Sierra Cosworth RS 500 '87,1987,464.09,CS,Y,USA,FR,T,200000,223,1207,4459,1728,1376,YBD,1993,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Genesis,G70 3.3T AWD P. Package​ '22​,2022,505.53,SH,Y,South Korea,4WD,T,56500,366,1815,4684,1849,1392,Lambda-II-T-GDi,3342,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Genesis,G70 GR4​,0,639.04,RH,,South Korea,4WD,T,350000,414,1400,4730,1883,1377,V6-G70-Gr.4,3342,V-type 6 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Genesis,Genesis X GR3​,0,711.02,RH,,South Korea,FR,T,450000,547,1280,4924,1992,1330,V6-Genesis-X,3342,V-type 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Gran Turismo,F1500T-A​,0,940.22,RS,,Other,MR,T,1000000,986,540,4235,2146,1003,V6-F1500T-A,,V-type 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Gran Turismo,Racing Kart 125 Shifter​,0,584.07,SS,,Other,MR,NA,10000,49,105,2030,1368,545,Single-Cylinder-Kart-125,,--,,Racing Car,,,,,,,,,,,,,,Y,,Y,,,
-Gran Turismo,Red Bull X2014 Junior​,2014,675.41,RH,,Other,MR,NA,350000,246,550,4399,1824,1000,L4-X2014-Junior,2000,Inline 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Gran Turismo,Red Bull X2014 Standard​,2014,1050.75,RS,,Other,MR,T,3000000,798,650,5098,2164,1000,V6-X2014-Standard,2000,V-type 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Gran Turismo,Red Bull X2019 25th Anniversary,2019,943.84,RM,,Other,MR,NA,3000000,804,650,5098,2164,1000,X2019,,--,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Gran Turismo,Red Bull X2019 Competition​,2019,943.84,RM,,Other,MR,NA,3000000,804,650,5098,2164,1000,X2019,,--,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-GReddy,Fugu Z​,0,532.29,SH,,USA,FR,NA,300000,294,1100,4140,1826,1285,RB26DE,2593,Inline 6 Cylinders,,Professionally Tuned,,,,,,,,Y,,,,,,,,,,,
-Honda,2-4 powered by RC213V​,2015,569.14,SH,,Japan,MR,NA,1000000,211,405,3020,1820,995,SE75E,999,V-type 4 Cylinders,,Road Car,,,Y,,,,,,,,,,,,,Y,,,
-Honda,Beat​ '91​,1991,307.95,CM,Y,Japan,MR,NA,15000,63,760,3295,1395,1175,E07A,656,Inline 3 Cylinders,,Road Car,,,,,Y,,,,,,,,,,,Y,,,
-Honda,Civic Type R (EK)​ '97​,1997,436.09,CS,Y,Japan,FF,NA,51200,176,1050,4180,1695,1360,B16B,1595,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,Civic Type R (EK)​ '98​,1998,437.6,CS,Y,Japan,FF,NA,53500,181,1050,4185,1695,1360,B16B,1595,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,Civic Type R (EK9) Touring Car​,1997,541.08,SH,,Japan,FF,NA,116000,247,845,4180,1695,1305,B16B,1595,Inline 4 Cylinders,,Professionally Tuned,,,,,,,,,,,,,,,,,,,
-Honda,Civic Type R (FK2)​ '15​,2015,515.61,SH,Y,Japan,FF,T,42800,305,1380,4390,1880,1460,K20C1,1995,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,Civic Type R Limited Edition (FK8)​ '20​,2020,523.93,SH,Y,Japan,FF,T,55000,315,1370,4560,1875,1435,K20C1,1995,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,Fit Hybrid​ '14​,2014,339.33,CM,Y,Japan,FF,NA,16800,138,1080,3955,1695,1525,LEB,1496,Inline 4 Cylinders,,Road Car,,,,,,,Y,,,,,,,,,,,,
-Honda,Integra Type R (DC2)​ '95​,1995,462.02,CS,Y,Japan,FF,NA,67300,197,1060,4380,1695,1320,B18C,1787,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,Integra Type R (DC2)​ '98​,1998,463.87,CS,Y,Japan,FF,NA,62500,198,1080,4380,1695,1330,B18C,1797,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,NSX​ '17​,2017,584.48,SH,Y,Japan,4WD,T,230000,570,1780,4490,1940,1215,JNC,3492,V-type 6 Cylinders,,Road Car,,,,,,,Y,,,,,,,,,Y,,,
-Honda,NSX Concept-GT​ '16​,2016,836.21,RM,,Japan,MR,T,800000,603,1049,4675,1950,1210,HR-414E,1995,Inline 4 Cylinders,Gr.2,Racing Car,,,,,,,,,,Y,,,,,,Y,,,
-Honda,NSX Gr.3​,0,720.32,RH,,Japan,MR,T,450000,568,1300,4613,2036,1169,V6-NSX-Gr.3,,V-type 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Honda,NSX Gr.4​,0,639.1,RH,,Japan,MR,T,350000,557,1300,4646,2219,1101,V6-NSX-Gr.4,3492,V-type 6 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Honda,NSX Gr.B Rally Car​,0,666.19,RH,Y,Japan,4WD,T,450000,394,1360,4509,2219,1216,V6-NSX-Gr.B,,V-type 6 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Honda,NSX GT500​ '08​,2008,796.65,RM,,Japan,MR,NA,800000,518,1150,4610,2000,1100,C32B,3494,V-type 6 Cylinders,Gr.2,Racing Car,,,,,,,,,,Y,,,,,,Y,,,
-Honda,NSX Type R​ '02​,2002,533.74,SH,Y,Japan,MR,NA,500000,290,1270,4430,1810,1160,C32B,3179,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Honda,NSX Type R​ '92​,1992,527.96,SH,Y,Japan,MR,NA,398000,284,1230,4430,1810,1160,C30A,2977,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Honda,RA272 '65,1965,626.39,RH,,Japan,MR,NA,2500000,228,498,3950,1675,793,RA272E,1495,V-type 12 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Honda,S2000​ '99​,1999,478.84,CS,Y,Japan,FR,NA,100100,242,1240,4135,1750,1285,F20C,1997,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,S660​ '15​,2015,345.03,CS,Y,Japan,MR,T,19800,63,830,3395,1475,1180,S07A,658,Inline 3 Cylinders,,Road Car,,,,,Y,,,,,,,,,,,Y,,,
-Honda,S800​ '66​,1966,268.43,CH,Y,Japan,FR,NA,44800,68,720,3335,1400,1215,AS800E,791,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Honda,Sports VGT​,2017,668.14,SM,,Japan,MR,T,1000000,403,899,4250,1845,1195,L4-Honda-VGT,1998,Inline 4 Cylinders,,Road Car,,Y,,,,,,,,,,,,,,Y,,,
-Hyundai,Genesis Coupe 3.8​ '13​,2013,513.19,SH,Y,South Korea,FR,NA,33000,343,1557,4630,1864,1384,Lambda-II-RS-MPi,3778,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Hyundai,Genesis Gr.3​,0,706.98,RH,,South Korea,FR,NA,450000,575,1250,4945,2018,1282,Genesis-Gr.3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Hyundai,Genesis Gr.4​,0,623.18,RH,,South Korea,FR,NA,350000,384,1350,4735,1864,1339,Genesis-Gr.4,,--,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Hyundai,Genesis Gr.B Rally Car​,0,653.17,RH,Y,South Korea,4WD,NA,450000,499,1250,4806,2080,1424,Genesis-Gr.B,,--,Gr.B,Racing Car,,,,,,,,,,,,,,,,,,,
-Hyundai,N2025 VGT​,2025,939.71,RM,,South Korea,4WD,EV,1000000,870,972,4678,2265,933,EV-Hyundai-VGT,,--,,Racing Car,,Y,,,,Y,,,,,,,,,,Y,,,
-Hyundai,N2025 VGT (Gr.1)​,2025,882.77,RM,,South Korea,4WD,NA,1000000,640,972,4678,2265,933,Hyundai-VGT,,--,Gr.1,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Infiniti,Concept VGT​,2014,651.22,SM,Y,USA,FR,NA,1000000,535,1680,4962,2050,1140,V8-Infiniti-VGT,4494,V-type 8 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,,,,
-Italdesign,VGT Off-road Mode,2023,793.38,RH,Y,Italy,4WD,NA,1000000,1219,1000,4600,2100,1350,V10-Italdesign-VGT,,V-type 10 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Italdesign,VGT Street Mode,2023,800.45,RH,,Italy,4WD,NA,1000000,1219,1000,4600,2100,1200,V10-Italdesign-VGT,,V-type 10 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Jaguar,D-Type​ '54​,1954,489.48,CM,,UK,FR,NA,6000000,249,850,3912,1660,1170,XK6,3442,Inline 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-Jaguar,E-Type Coupe​ '61​,1961,443.62,CM,,UK,FR,NA,247000,264,1300,4455,1657,1222,XK-3.8L,3781,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Jaguar,F-type Gr.3​,0,714.63,RH,,UK,FR,SC,450000,552,1250,4674,1989,1216,V8-F-type-Gr.3,,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Jaguar,F-type Gr.4​,0,638.48,RH,,UK,FR,SC,350000,399,1350,4609,1925,1256,V8-F-type-Gr.4,4999,V-type 8 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Jaguar,F-type R​ '14​,2014,569.02,SH,,UK,FR,SC,128600,542,1650,4470,1925,1312,AJ133,4999,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Jaguar,VGT Coupe​,2019,761.72,SM,,UK,4WD,EV,1000000,1004,1400,4679,2218,1033,EV-Jaguar-VGT,,--,,Road Car,,Y,,,,Y,,,,,,,,,,,,,
-Jaguar,VGT Roadster​,2022,754.51,SM,,UK,4WD,EV,1000000,1004,1400,4679,2218,1033,EV-Jaguar-VGT,,--,,Road Car,,Y,,,,Y,,,,,,,,,,,,,
-Jaguar,VGT SV​,2021,999.22,RM,,UK,4WD,EV,1000000,1876,1400,5540,2218,1081,EV-Jaguar-VGT-SV,,--,,Racing Car,,Y,,,,Y,,,,,,,,,,,,,
-Jaguar,XJ13​ '66​,1966,681,RH,,UK,MR,NA,12000000,510,998,4483,1854,965,V12-XJ13,4994,V-type 12 Cylinders,,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Jaguar,XJR-9​ '88​,1988,863.66,RM,,UK,MR,NA,2200000,749,894,4800,2000,1030,V12-XJR-9,6995,V-type 12 Cylinders,Gr.1,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Jeep,Willys MB​ '45​,1945,180.07,CH,Y,USA,4WD,NA,30100,60,1113,3360,1575,1822,L-Head-134,1113,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-KTM,X-Bow R​ '12​,2012,589.6,SH,Y,Austria,MR,T,100000,298,790,3738,1920,1205,EA888-2.0T,1984,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Aventador LP 700-4​ '11​,2011,622.85,SH,,Italy,4WD,NA,400000,690,1575,4780,2030,1136,L539,6498,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Aventador LP 750-4 SV​ '15​,2015,657.72,SM,,Italy,4WD,NA,500000,739,1525,4835,2030,1136,L539,6498,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Countach 25th Anniversary​ '88​,1988,532.05,CS,,Italy,MR,NA,713300,449,1490,4140,2000,1070,L507-V4,5167,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Countach LP400​ '74​,1974,555.86,CS,,Italy,MR,NA,1250000,373,1065,4140,1890,1070,V406,3929,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Diablo GT​ '00​,2000,598.62,SH,,Italy,MR,NA,847500,571,1490,4430,2040,1115,L532,5992,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Huracan Gr.4​,0,649.3,RH,,Italy,4WD,NA,350000,404,1365,4539,1943,1141,V10-Huracan-Gr.4,5204,V-type 10 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Huracan GT3​ '15​,2015,737.22,RH,,Italy,MR,NA,450000,576,1230,4458,2050,1130,DGF,5204,V-type 10 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Huracan LP 610-4​ '15​,2015,625.48,SH,,Italy,4WD,NA,297000,601,1422,4459,1923,1165,DKB,5204,V-type 10 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Lambo V12 VGT​,2020,792.71,SS,,Italy,4WD,NA,1000000,774,819,4730,2116,960,V12-Lambo-VGT,6498,V-type 12 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Lamborghini,Miura P400 Bertone Prototype CN.0706​ '67​,1967,565.11,SH,,Italy,MR,NA,3500000,349,980,4360,1760,1050,L400,3929,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,Y,
-Lamborghini,Murcielago LP 640​ '09​,2009,604.23,SH,,Italy,4WD,NA,385600,631,1665,4610,2058,1135,L535,6496,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lamborghini,Veneno​ '14​,2014,687.36,SM,,Italy,4WD,NA,3640000,739,1450,5019,2075,1171,L539,6498,V-type 12 Cylinders,,Road Car,Y,,,,,,,,,,,,,,,Y,,,
-Lancia,Delta HF Integrale Evoluzione​ '91​,1991,407.57,CM,Y,Italy,4WD,T,107900,209,1350,3900,1770,1365,831E5.000,1995,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Lancia,Stratos​ '73​,1973,443.96,CM,Y,Italy,MR,NA,532100,185,980,3710,1750,1114,829A.000,2418,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Lexus,LC500​ '17​,2017,547.82,SH,,Japan,FR,NA,150000,469,1940,4770,1920,1345,2UR-GSE,4968,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Lexus,LF-LC GT VGT​,2015,819.33,RM,,Japan,FR,T,1000000,612,1075,5040,2103,1216,LF-LC-GT-VGT,,--,,Racing Car,,Y,,,,,Y,,,,,,,,,,,,
-Lexus,RC F​ '14​,2014,548.77,SH,,Japan,FR,NA,95300,469,1790,4705,1850,1390,2UR-GSE,4968,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Lexus,RC F Gr.4​,0,634.46,RH,,Japan,FR,NA,350000,419,1400,4760,1850,1345,V8-RC-F-Gr.4,4968,V-type 8 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Lexus,RC F GT3​ '17,2017,705.5,RH,,Japan,FR,NA,450000,535,1300,4846,2030,1310,2UR-GSE,5407,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Lexus,RC F GT3 prototype​ '16​,2016,702.77,RH,,Japan,FR,NA,450000,527,1300,4900,2040,1310,2UR-GSE,5327,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Lexus,RC F GT500​ '16​,2016,836.21,RM,,Japan,FR,T,800000,614,1020,5100,1950,1228,RI4AG,2000,Inline 4 Cylinders,Gr.2,Racing Car,,,,,,,,,,Y,,,,,,,,,
-Lexus,SC430 GT500​ '08​,2008,792.55,RM,,Japan,FR,NA,800000,516,1100,4700,1925,1200,3UZ-FE,4480,V-type 8 Cylinders,Gr.2,Racing Car,,,,,,,,,,Y,,,,,,,,,
-Maserati,A6GCS-53 Spyder​ '54​,1954,495.34,CS,,Italy,FR,NA,2900000,166,740,3840,1530,1400,A6TR-2.0,1986,Inline 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,Y,
-Maserati,GranTurismo S​ '08​,2008,539.48,SH,,Italy,FR,NA,167000,439,1780,4881,1915,1353,F136YE,4691,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Maserati,Merak SS '80,1980,417.33,CM,,Italy,MR,NA,75000,216,1420,4330,1768,1134,AM114.53.30,2965,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Mazda,3 X Burgundy Selection '19,2019,418.76,CS,Y,Japan,4WD,NA,37000,177,1480,4460,1795,1440,HF-VPH,1997,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,787B​ '91​,1991,842.5,RM,,Japan,MR,NA,2200000,690,830,4782,1994,1003,R26B,654x4 cc,4 Rotors,Gr.1,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Mazda,Atenza Gr.3​,0,703.82,RH,,Japan,FR,T,450000,567,1280,5080,2050,1380,L4-Atenza-Gr.3,,Inline 4 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Mazda,Atenza Gr.3 Road Car​,0,572.85,SH,Y,Japan,FR,T,300000,483,1450,4990,2050,1380,L4-Atenza-Gr.3-Road,,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,Atenza Gr.4​,0,610.34,RH,,Japan,4WD,T,350000,393,1380,4990,1840,1365,L4-Atenza-Gr.4,2188,Inline 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Mazda,Atenza Sedan XD L Package​ '15​,2015,374.68,CM,Y,Japan,4WD,T,39690,172,1600,4865,1840,1450,SH-VPTR,2188,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,Demio XD Touring​ '15​,2015,322.99,CM,Y,Japan,FF,T,19500,103,1080,4060,1695,1500,S5-DPTS,1498,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,Eunos Roadster (NA​) '89​,1989,369.25,CM,Y,Japan,FR,NA,28400,117,940,3970,1675,1235,B6-ZE[RS],1597,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,LM55 VGT​,2014,926.93,RM,,Japan,4WD,NA,1000000,,,,,,LM55-VGT,,--,,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Mazda,LM55 VGT (Gr.1)​,2014,895.16,RM,,Japan,4WD,NA,1000000,641,880,4750,2035,860,LM55-VGT-Gr.1,,--,Gr.1,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Mazda,Roadster NR-A (ND) '22,2022,417.33,CS,Y,Japan,FR,NA,31000,130,1010,3915,1735,1235,P5-VP[RS],1496,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,Roadster S (ND)​ '15​,2015,414.26,CS,Y,Japan,FR,NA,24950,128,990,3915,1735,1235,P5-VP[RS],1496,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,Roadster Touring Car​,0,526.78,SH,,Japan,FR,NA,90000,205,795,3968,1782,1189,B6-ZE[RS],,Inline 4 Cylinders,,Professionally Tuned,,,,,,,,,,,,,,,,,,,
-Mazda,RX 500​ '70​,1970,469.41,CM,Y,Japan,MR,NA,600000,247,850,4330,1720,1065,10A,491x2 cc,2 Rotors,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Mazda,RX-7 GT-X (FC)​ '90​,1990,456.6,CS,Y,Japan,FR,T,56500,203,1250,4335,1690,1270,13B-T,654x2 cc,2 Rotors,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,RX-7 Spirit R Type A (FD)​ '02​,2002,518.17,SH,Y,Japan,FR,T,250000,292,1270,4285,1760,1230,13B-REW,654x2 cc,2 Rotors,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,RX-8 Spirit R​ '12​,2012,491.22,SH,Y,Japan,FR,NA,32500,230,1350,4470,1770,1340,13B-MSP,654x2 cc,2 Rotors,,Road Car,,,,,,,,,,,,,,,,,,,
-Mazda,RX-Vision​ '15​,2015,618.91,SH,,Japan,FR,NA,1000000,517,1290,4389,1926,1160,4-Rotor-RX-Vision,,4 Rotors,,Road Car,,,Y,,,,,,,,,,,,,,,,
-Mazda,RX-Vision GT3 Concept​,2020,726.17,RH,,Japan,FR,NA,450000,562,1250,4590,2075,1120,RX-Vision-GT3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Mazda,RX-Vision GT3 Concept Stealth Model,0,726.17,RH,,Japan,FR,NA,450000,562,1250,4590,2075,1120,RX-Vision-GT3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-McLaren,650S​ '14​,2014,629.76,SH,,UK,MR,T,340000,641,1330,4512,1908,1199,M838T,3799,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-McLaren,650S Gr.4​,0,635.7,RH,,UK,MR,T,350000,399,1300,4575,1908,1156,V8-650S-Gr.4,3799,V-type 8 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-McLaren,650S GT3​ '15​,2015,714.42,RH,,UK,MR,T,450000,542,1240,4534,2040,1196,M838T,3799,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-McLaren,F1​ '94​,1994,640.95,SH,,UK,MR,NA,20000000,626,1140,4288,1820,1140,S70/2,6064,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-McLaren,F1 GTR - BMW '95​,1995,749.06,RH,,UK,MR,NA,11400000,600,1050,4292,1820,1140,S70/2,6064,V-type 12 Cylinders,Gr.3,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-McLaren,MP4-12C​ '10​,2010,619.65,SH,,UK,MR,T,225000,600,1350,4509,1908,1199,M838T,,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-McLaren,MP4/4 '88,1988,894.74,RM,,UK,MR,T,8000000,675,540,4394,2134,940,RA168E-XE2,1494,V-type 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-McLaren,P1 GTR​ '16​,2016,718.18,RH,,UK,MR,T,3600000,986,1345,4588,1946,1138,M838TQ,3799,V-type 8 Cylinders,,Racing Car,,,,,,,Y,,,,,,,,,Y,,,
-McLaren,VGT​,2017,937.89,RM,,UK,MR,T,1000000,1134,900,4288,1950,989,V8-McLaren-VGT,3998,V-type 8 Cylinders,,Racing Car,,Y,,,,,Y,,,,,,,,,Y,,,
-McLaren,VGT (Gr.1)​,2017,878.55,RM,,UK,MR,T,1000000,936,900,4288,1950,989,V8-McLaren-VGT-Gr.1,3998,V-type 8 Cylinders,Gr.1,Racing Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Mercedes-Benz,300 SL (W194)​ '52​,1952,434.84,CM,,Germany,FR,NA,20000000,178,1080,4220,1790,1265,M194,2996,Inline 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-Mercedes-Benz,300 SL Coupe​ '54​,1954,412.97,CM,,Germany,FR,NA,1700000,212,1295,4520,1790,1300,M198,2996,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mercedes-Benz,CLK-LM​ '98​,1998,809.12,RM,,Germany,MR,NA,6500000,599,940,4900,1999,1129,M119-GT108B,,V-type 8 Cylinders,Gr.2,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Mercedes-Benz,S Barker Tourer​ '29​,1929,342.6,CH,,Germany,FR,SC,13000000,177,1270,4700,1700,1600,M06,6800,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,Y,
-Mercedes-Benz,Sauber Mercedes C9​ '89​,1989,852.2,RM,,Germany,MR,T,3000000,710,893,4700,1980,1050,M119HL,4973,V-type 8 Cylinders,Gr.1,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Mercedes-Benz,Mercedes-Benz​ SLR McLaren​ '09​,2009,596.78,SH,,Germany,FR,SC,600000,616,1768,4656,1908,1261,M155,5439,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-MINI,Clubman VGT​,2015,648.11,RH,Y,Germany,4WD,T,1000000,388,1050,4389,1920,1389,MINI-VGT,,--,,Racing Car,,Y,,,,,,,,,,,,,,,,,
-MINI,Cooper S​ '05​,2005,436.98,CS,Y,Germany,FF,SC,28500,167,1180,3655,1690,1455,Tritec-T16b4,1598,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-MINI,Cooper 'S'​ '65​,1965,257.5,CH,Y,Germany,FF,NA,39900,64,605,3054,1410,1346,9F,970,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Mini
-Mitsubishi,Concept XR-PHEV Evolution VGT​,2014,681.83,RH,Y,Japan,4WD,T,1000000,502,1350,4462,2262,1352,V6-XR-PHEV-Evo-VGT,3000,V-type 6 Cylinders,,Racing Car,,Y,,,,,Y,,,,,,,,,,,,
-Mitsubishi,GTO Twin Turbo​ '91​,1991,473.34,CS,Y,Japan,4WD,T,48900,285,1700,4555,1840,1285,6G72,2972,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution Final​ '15​,2015,511.88,SH,Y,Japan,4WD,T,60000,309,1530,4495,1810,1480,4B11,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution Final Gr.3​,0,710.29,RH,,Japan,FR,T,450000,610,1290,4712,2044,1337,Evo-Gr.3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution Final Gr.4​,0,622.38,RH,,Japan,4WD,T,350000,389,1330,4559,1812,1422,L4-Evo-Final-Gr.4,1998,Inline 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution Final Gr.B Rally Car​,0,650.65,RH,Y,Japan,4WD,T,450000,521,1290,4652,2044,1447,Evo-Final-Gr.B,,--,Gr.B,Racing Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution Final Gr.B Road Car​,0,556.06,SH,Y,Japan,4WD,T,300000,473,1425,4627,2044,1348,Evo-Final-Gr.B-Road,,--,,Road Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution IV​ '96​,1996,478.61,CS,Y,Japan,4WD,T,45300,273,1350,4330,1690,1415,4G63T,1997,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution V GSR​ '98​,1998,500.15,CS,Y,Japan,4WD,T,67100,306,1360,4350,1770,1415,4G63T,1997,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Lancer Evolution VI Tommi Makkinen Edition​ '99​,1999,505.35,SH,Y,Japan,4WD,T,162400,311,1360,4350,1770,1405,4G63T,1997,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,180SX Type X​ '96​,1996,458.14,CS,Y,Japan,FR,T,53500,203,1220,4520,1695,1290,SR20DET,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Silvia
-Nissan,Concept 2020 VGT​,2015,685.71,SM,,Japan,4WD,T,1000000,,,,,,V6-Nissan-VGT,,V-type 6 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,,,,
-Nissan,Fairlady Z (S30) Z432​ '69​,1969,401.29,CM,Y,Japan,FR,NA,190000,157,1040,4115,1630,1290,S20,1989,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,Fairlady Z (Z32) 300ZX TwinTurbo 2seater​ '89​,1989,478.64,CS,Y,Japan,FR,T,52900,276,1510,4310,1790,1250,VG30DETT,2960,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,Fairlady Z (Z34)​ '08​,2008,515.65,SH,Y,Japan,FR,NA,43750,331,1530,4250,1845,1315,VQ36VHR,3696,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,Fairlady Z 240ZG (HS30)​ '71​,1971,397.51,CM,Y,Japan,FR,NA,99100,147,1010,4305,1690,1285,L24,2392,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,Fairlady Z Version S (Z33)​ '07​,2007,516.28,SH,Y,Japan,FR,NA,36300,310,1480,4315,1815,1315,VQ35HR,3498,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,GT-R​ '17​,2017,588.71,SH,Y,Japan,4WD,T,94770,564,1770,4710,1895,1370,VR38DETT,,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,GT-R
-Nissan,GT-R Gr.4​,0,633.21,RH,,Japan,4WD,T,350000,428,1450,4780,1895,1335,V6-GT-R-Gr.4,,V-type 6 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Nissan,GT-R Gr.B Rally Car​,0,656.3,RH,Y,Japan,4WD,T,450000,542,1350,4780,2036,1350,V6-GT-R-Gr.B,3799,V-type 6 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,,,,,,,
-Nissan,GT-R GT500​ '08​,2008,796.61,RM,,Japan,FR,NA,1000000,527,1100,4800,2000,1100,VK45DE,4498,V-type 8 Cylinders,Gr.2,Racing Car,,,,,,,,,,Y,,,,,,,,,
-Nissan,GT-R GT500​ '99​,1999,708,RH,,Japan,FR,T,2700000,498,1200,4600,1885,1220,RB26DETT,2708,Inline 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,Y,,,,,,,,,
-Nissan,GT-R LM NISMO​ '15​,2015,876.51,RM,,Japan,FF,T,1000000,604,880,4650,1896,1050,VRX30A,3000,V-type 6 Cylinders,Gr.1,Racing Car,,,,,,,Y,,,,Y,,,,,,,,
-Nissan,GT-R Nismo​ '17​,2017,616.69,SM,Y,Japan,4WD,T,187000,591,1740,4690,1895,1370,VR38DETT,3799,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,GT-R
-Nissan,GT-R Nismo GT3​ '13​,2013,695.41,RH,,Japan,FR,T,450000,591,1300,4780,2036,1350,VR38DETT,3799,V-type 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,Y,,,,,,,
-Nissan,GT-R Nismo GT3 '18,2018,711.81,RH,,Japan,FR,T,600000,576,1285,4832,2036,1350,VR38DETT,3799,V-type 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Nissan,GT-R NISMO GT500​ '16​,2016,835.67,RM,,Japan,FR,T,800000,612,1020,4775,1950,1190,NR20A,1998,Inline 4 Cylinders,Gr.2,Racing Car,,,,,,,,,,Y,,,,,,,,,
-Nissan,GT-R Safety Car​,0,590.87,SH,,Japan,4WD,T,130000,564,1740,4710,1895,1370,VR38DETT,,V-type 6 Cylinders,,Road Car,,,,Y,,,,,,,,,,,,,,,
-Nissan,R32 GT-R V-Spec II​ '94​,1994,506.64,SH,Y,Japan,4WD,T,176000,306,1500,4545,1755,1340,RB26DETT,2568,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,GT-R
-Nissan,R33 GT-R V-Spec​ '97​,1997,510.49,SH,Y,Japan,4WD,T,158700,319,1540,4675,1780,1360,RB26DETT,2568,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,GT-R
-Nissan,R34 GT-R V-Spec II Nür​ '02​,2002,517.76,SH,Y,Japan,4WD,T,450000,336,1560,4600,1785,1360,RB26DETT,2568,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,GT-R
-Nissan,R92CP​ '92​,1992,850,RM,,Japan,MR,T,3000000,788,900,4800,1990,1100,VRH35Z,3496,V-type 8 Cylinders,Gr.1,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Nissan,Sileighty​ '98​,1998,462.17,CS,Y,Japan,FR,T,78600,203,1170,4470,1690,1290,SR20DET,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Silvia
-Nissan,Silvia K's Aero (S14) '96,1996,470.55,SH,Y,Japan,FR,T,60000,216,1250,4520,1730,1295,SR20DET,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Silvia
-Nissan,Silvia K's Dia Selection (S13)​ '90​,1990,406.74,CM,Y,Japan,FR,T,47000,171,1140,4470,1690,1290,CA18DET,1809,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Silvia
-Nissan,Silvia K's Type S (S14) '94,1994,472.25,SH,Y,Japan,FR,T,60000,216,1220,4500,1730,1295,SR20DET,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Silvia
-Nissan,Silvia Qs​ (S13) '88​,1988,371.71,CM,Y,Japan,FR,T,32700,132,1090,4470,1690,1290,CA18DE,1809,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Silvia
-Nissan,Silvia spec-R Aero (S15)​ '02​,2002,489.42,SH,Y,Japan,FR,T,68000,246,1240,4445,1695,1285,SR20DET,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,Silvia
-Nissan,Silvia spec-R Aero (S15) Touring Car​,0,635.88,RH,,Japan,FR,T,350000,355,1000,4445,1695,1280,SR20DET,1998,Inline 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Nissan,Skyline 2000GT-R (KPGC110) '73,1973,381.49,CM,Y,Japan,FR,NA,542000,157,1145,4460,1695,1380,S20,1989,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,Skyline Hard Top 2000 GT-R (KPGC10)​ '70​,1970,389.09,CM,Y,Japan,FR,NA,170000,157,1100,4330,1665,1370,S20,1989,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Nissan,Skyline Super Silhouette​ '84​,1984,688.5,RH,,Japan,FR,T,1150000,561,1005,5065,1980,1239,LZ20B,2083,Inline 4 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Nissan,Z Performance​ '23​,2023,541.29,SH,Y,Japan,FR,T,69660,399,1543,4380,1845,1315,VR30DDTT,2997,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Pagani,Huayra​ '13​,2013,674.78,SH,,Italy,MR,T,1350000,730,1350,4605,2036,1169,M158,5980,V-type 12 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Pagani,Zonda R​ '09​,2009,764.67,RH,,Italy,MR,NA,1800000,737,1070,4886,2014,1141,M120-E60,5987,V-type 12 Cylinders,,Racing Car,,,Y,,,,,,,,,,,,,Y,,,
-Peugeot,205 T16 Evolution II Rally Car​ '86​,1986,657.29,RH,Y,France,4WD,T,1100000,448,910,3820,1700,1353,PSA-XU8T,1775,Inline 4 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,Y,,,Y,,,
-Peugeot,208 GTi by Peugeot Sport​ '14​,2014,457.4,CS,Y,France,FF,T,30000,204,1200,3975,1740,1460,PSA-EP6,1598,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Peugeot,908 HDI FAP​ '10​,2010,895.34,RM,,France,MR,T,1000000,700,930,4610,2000,1030,V12-908HDi-FAP,5500,V-type 12 Cylinders,Gr.1,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Peugeot,L500R HYbrid VGT​ 2017,2017,667.82,SH,,France,4WD,T,1000000,509,1000,4936,2000,1003,L500R-VGT,,--,,Road Car,,Y,,,,,Y,,,,,,,,,,,,
-Peugeot,L750R HYbrid VGT​ 2017,2017,888.68,RM,,France,4WD,T,1000000,693,825,5045,2000,1053,L750R-VGT,,--,Gr.1,Racing Car,,Y,,,,,Y,,,,,,,,,Y,,,
-Peugeot,RCZ Gr.3​,0,712.03,RH,,France,MR,T,450000,520,1200,4751,2053,1324,L4-RCZ-Gr.3,,Inline 4 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Peugeot,RCZ Gr.3 Road Car​,0,556.62,SH,Y,France,MR,T,300000,468,1400,4751,2053,1324,L4-RCZ-Gr.3-Road,,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Peugeot,RCZ Gr.4​,0,623.28,RH,,France,FF,T,350000,345,1225,4304,1868,1328,L4-RCZ-Gr.4,1598,Inline 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Peugeot,RCZ Gr.B Rally Car​,0,659.9,RH,Y,France,4WD,T,450000,516,1200,4864,2053,1423,L4-RCZ-Gr.B,,Inline 4 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Peugeot,RCZ GT Line​ '15​,2015,432.26,CS,Y,France,FF,T,46600,152,1350,4290,1845,1360,PSA-EP6,1598,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Peugeot,VGT​,2015,758.21,RH,,France,4WD,T,1000000,873,875,4640,2280,1040,V6-Peugeot-VGT,3200,V-type 6 Cylinders,,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Peugeot,VGT (Gr.3)​,0,704.46,RH,,France,MR,T,450000,542,1250,4788,2204,969,V6-Peugeot-VGT-Gr.3,3200,V-type 6 Cylinders,Gr.3,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Plymouth,Superbird​ '70​,1970,456.18,CM,Y,USA,FR,NA,510000,425,1755,5588,1941,1560,Hemi-426,6981,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Plymouth,XNR Ghia Roadster​ '60​,1960,416.93,CM,Y,USA,FR,NA,1600000,250,1500,4902,1854,1092,Slant-6-170,2790,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,Y,
-Pontiac,Firebird Trans Am​ '78​,1978,403.53,CM,Y,USA,FR,NA,96200,219,1640,4999,1864,1257,4A,6558,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Pontiac,GTO 'The Judge' '69,1969,458.42,CM,Y,USA,FR,NA,210000,364,1610,5118,1925,1328,400-Ram-Air-III,6558,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,356 A/1500 GS Carrera​ '56​,1956,355.73,CM,Y,Germany,RR,NA,615000,97,840,3950,1670,1310,547/1,1498,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,356 A/1500 GS GT Carrera Speedster​ '56​,1956,371.1,CM,Y,Germany,RR,NA,1500000,107,840,3950,1670,1220,547/1,1498,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 996 GT1 Strassenversion​ '97​,1997,633.98,SH,,Germany,MR,T,9000000,533,1200,4710,1950,1173,M96/80,3164,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,911 Carrera RS (901) '73,1973,481.31,CS,,Germany,RR,NA,745000,206,1075,4102,1652,1320,911/83,2687,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 Carrera RS (964)​ '92​,1992,520.29,SH,Y,Germany,RR,NA,221000,255,1230,4250,1660,1270,M64/03,3600,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 Carrera RS (993)​ '95​,1995,530.21,SH,Y,Germany,RR,NA,226000,295,1270,4245,1730,1270,M64/20,3746,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 Carrera RS CS (993)​ '95​,1995,529.56,SH,Y,Germany,RR,NA,421000,295,1235,4245,1735,1270,M64/20,3746,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 GT3 (996)​ '01​,2001,548.92,SH,Y,Germany,RR,NA,180000,354,1350,4430,1765,1270,M96/76,3600,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 GT3 (997)​ '09​,2009,573.43,SH,Y,Germany,RR,NA,160000,428,1395,4465,1808,1280,M97/77,3797,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 GT3 RS (991)​ '16​,2016,627.66,SM,Y,Germany,RR,NA,253000,491,1420,4545,1900,1290,MA1.76,3996,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,911 RSR (991)​ '17​,2017,709.76,RH,,Germany,MR,NA,450000,509,1243,4557,2048,1290,M97/80,4000,Flat 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,911 Turbo (930)​ '81​,1981,507.12,CS,Y,Germany,RR,NA,215500,295,1300,4291,1775,1280,930/60,3299,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,917 Living Legend​,0,800.8,RH,,Germany,MR,T,1000000,976,1220,4776,2056,1025,F8-917LL,5000,Flat 8 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,917K​ '70​,1970,744.18,RH,,Germany,MR,NA,18000000,598,800,4120,1980,940,912/10,4907,Flat 12 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,918 Spyder​ '13​,2013,682.61,SM,Y,Germany,4WD,NA,1600000,874,1674,4645,1940,1168,M18.00,4593,V-type 8 Cylinders,,Road Car,,,,,,,Y,,,,,,,,,Y,,,
-Porsche,919 Hybrid​ '16​,2016,887.48,RM,,Germany,4WD,T,3000000,499,875,4650,1990,1150,V4-919,2000,V-type 4 Cylinders,Gr.1,Racing Car,,,,,,,Y,,,,,,,,,Y,,,
-Porsche,959 '87,1987,557.43,SH,Y,Germany,4WD,T,1750000,443,1450,4260,1840,1280,959.5,2850,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Porsche,962 C​ '88​,1988,843.53,RM,,Germany,MR,T,1500000,690,850,4770,1990,1080,935/82,2649,Flat 6 Cylinders,,Racing Car,,,,,,,,,,,Y,,,,,Y,,,
-Porsche,Carrera GT​ '04​,2004,623.37,SH,,Germany,MR,NA,2300000,603,1380,4613,1921,1166,M80/01,5733,V-type 10 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,Carrera GTS (904) '64,1964,511.64,CS,,Germany,MR,NA,2500000,179,650,4090,1540,1065,587/3,1966,Flat 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,Cayman GT4 '16,2016,570.2,SH,,Germany,MR,NA,130000,379,1340,4438,1817,1266,MDB.XA,3800,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,Cayman GT4 Clubsport​ '16​,2016,643.36,RH,,Germany,MR,NA,350000,379,1300,4438,2002,1261,MDB.XA,3800,Flat 6 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,Spyder Type 550/1500 RS​ '55​,1955,436.48,CS,,Germany,MR,NA,4500000,108,590,3600,1550,1015,547,1498,Flat 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Porsche,Taycan Turbo S​ '19​,2019,600.84,SH,,Germany,4WD,EV,230000,751,2295,4963,1966,1356,EBG-EBE,,--,,Road Car,,,,,,Y,,,,,,,,,,,,,
-Porsche,VGT​,2021,799.71,RH,,Germany,4WD,EV,1000000,1098,1390,4325,1890,1020,EV-Porsche-VGT,,--,,Road Car,,Y,,,,Y,,,,,,,,,,,,,
-Porsche,VGT Spyder,2022,794.27,RH,,Germany,4WD,EV,1000000,1098,1390,4325,1890,1020,EV-Porsche-VGT,,--,,Road Car,,Y,,,,Y,,,,,,,,,,,,,
-Radical,SR3 SL​ '13​,2013,551.22,SH,,UK,MR,T,126500,239,775,4100,1790,1130,R9DA,2000,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-RE Amemiya,FD3S RX-7​,0,566.42,SH,,Japan,FR,T,100000,366,1240,4300,1760,1200,13B-REW,654x2 cc,2 Rotors,,Professionally Tuned,,,,,,,,,,,,,,,,,,,
-Renault,Clio R.S. 220 Trophy​ '15​,2015,471.6,CS,Y,France,FF,T,32000,216,1179,4090,1732,1432,M5M,1618,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Renault,Clio R.S. 220 Trophy​ '16​,2016,470.11,CS,Y,France,FF,T,32000,216,1204,4090,1732,1434,M5M,1618,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Renault,Clio V6 24v​ '00​,2000,468.83,CS,Y,France,MR,NA,89600,229,1335,3803,1810,1365,L7X,2946,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Renault,Megane Gr.4,0,639.92,RH,,France,FF,T,350000,350,1100,4299,1848,1388,L4-Megane-Gr.4,1998,Inline 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Renault,Megane R.S. Trophy​ '11​,2011,498.65,SH,Y,France,FF,T,38500,261,1387,4299,1848,1435,F4R,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Renault,Megane R.S. Trophy Safety Car​,0,499.17,SH,,France,FF,T,50000,261,1387,4299,1848,1435,F4R,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Renault,Megane Trophy​ '11​,2011,651.39,RH,,France,MR,NA,350000,359,955,4375,1910,1235,V4Y,3498,V-type 6 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Renault,R.S.01​ '16​,2016,731.27,RH,,France,MR,T,500000,542,1144,4705,2000,1230,VR38DETT,3799,V-type 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Renault,R.S.01 GT3​ '16​,2016,721.61,RH,,France,MR,T,450000,534,1220,4705,2000,1230,VR38DETT,3799,V-type 6 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,Y,,,
-Renault,R5 Turbo​ '80​,1980,405.28,CM,Y,France,MR,T,154200,159,970,3665,1750,1325,Cleon-Fonte-C6J,1397,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Renault,R8 Gordini​ '66​,1966,351.93,CM,Y,France,RR,NA,32500,101,850,3988,1486,1308,Gordini-812,1255,Inline 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-Roadster Shop,Rampage​,0,654.35,SM,Y,USA,FR,NA,300000,748,1406,4724,2057,1311,LS7,6997,V-type 8 Cylinders,,Professionally Tuned,,,,,,,,Y,,,,,,,,,,,
-RUF,CTR3​ '07​,2007,655.13,SM,,Germany,MR,T,900000,690,1400,4445,1944,1200,CTR38,3746,Flat 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Shelby,Cobra 427​ '66​,1966,580.2,CS,Y,USA,FR,NA,250000,484,1068,3962,1727,1245,FE-427-cammer,6997,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Shelby,Cobra Daytona Coupe​ '64​,1964,556.06,CS,,USA,FR,NA,20000000,384,1043,4610,1753,1422,Windsor-289,4728,V-type 8 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-Shelby,GT350​ '65​,1965,465.52,CM,Y,USA,FR,NA,501000,304,1270,4613,1732,1326,Windsor-289-HiPo,4727,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,BRZ Drift Car​ '17​,2017,632.23,SM,,Japan,FR,T,400000,1037,1433,4492,2004,1271,LS7,7816,V-type 8 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-Subaru,BRZ GT300​ '21​,2021,729.38,RH,,Japan,FR,T,450000,478,1150,4565,1950,1160,EJ20,1994,Flat 4 Cylinders,Gr.3,Racing Car,,,,,,,,,Y,,,,,,,,,,
-Subaru,BRZ S​ '15​,2015,444.57,CS,Y,Japan,FR,NA,30000,197,1230,4240,1775,1300,FA20,1998,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,BRZ S​ '21​,2021,489.39,SH,Y,Japan,FR,NA,32670,231,1270,4265,1775,1310,FA24,2387,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,BRZ STI Sport​ '18​,2018,460.63,SH,Y,Japan,FR,NA,36000,203,1250,4240,1775,1320,FA20,1998,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,Impreza 22B-Sti​ '98​,1998,502.15,SH,Y,Japan,4WD,T,179700,289,1270,4365,1770,1390,EJ22G,2212,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,Impreza Coupe WRX Type R Sti Ver.VI​ '99​,1999,481.29,CS,Y,Japan,4WD,T,61500,276,1260,4350,1690,1405,EJ207,1994,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,VIZIV GT VGT​,2014,693.45,SM,Y,Japan,4WD,T,1000000,630,1380,4835,1930,1187,F4-VIZIV-GT-VGT,2000,Flat 4 Cylinders,,Racing Car,,Y,,,,,Y,,,,,,,,,,,,
-Subaru,WRX Gr.3​,0,708.95,RH,,Japan,FR,T,450000,591,1280,5065,2040,1319,WRX-Gr.3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Subaru,WRX Gr.4​,0,623.6,RH,,Japan,4WD,T,350000,377,1320,4595,1795,1423,F4-WRX-Gr.4,1994,Flat 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Subaru,WRX Gr.B Rally Car​,0,657.69,RH,Y,Japan,4WD,T,450000,521,1280,4692,2038,1409,WRX-Gr.B,,--,Gr.B,Racing Car,,,,,,,,,,,,,,,,,,,
-Subaru,WRX Gr.B Road Car​,0,576.36,SH,Y,Japan,4WD,T,300000,473,1425,5065,2040,1319,WRX-Gr.B-Road,,--,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,WRX STI Isle of Man​ '16​,2016,679.27,RH,Y,Japan,4WD,T,370000,578,1140,4595,1850,1470,EJ20,2000,Flat 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,,,,
-Subaru,WRX STI Type S​ '14​,2014,495.66,SH,Y,Japan,4WD,T,41148,302,1490,4595,1795,1475,EJ20Y,1994,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Super Formula,SF19 Super Formula - Honda​ '19​,2019,953.64,RS,,Japan,MR,T,1000000,639,660,5233,1910,960,HR-417E,2000,Inline 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,Super Formula
-Super Formula,SF19 Super Formula - Toyota​ '19​,2019,953.64,RS,,Japan,MR,T,1000000,639,660,5233,1910,960,TRD-Biz-01F,2000,Inline 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,Super Formula
-Suzuki,Cappuccino (EA11R)​ '91​,1991,292.95,CM,Y,Japan,FR,T,20000,62,700,3295,1395,1185,F6A,657,Inline 3 Cylinders,,Road Car,,,,,Y,,,,,,,,,,,,,,
-Suzuki,Swift Sport​ '07​,2007,397.14,CS,Y,Japan,FF,NA,16275,123,1060,3765,1690,1510,M16A,1586,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Suzuki,Swift Sport​ '17​,2017,426.05,CS,Y,Japan,FF,T,18360,137,970,3890,1735,1500,K14C,1371,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Suzuki,Swift Sport Gr.4​,0,651.99,RH,,Japan,FF,T,350000,345,900,3991,1820,1466,Swift-Gr.4,,--,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Suzuki,V6 Escudo Pikes Peak Special​ '98​,1998,792.58,RH,Y,Japan,4WD,T,1700000,981,800,5050,1900,1510,H25A,2493,V-type 6 Cylinders,,Racing Car,,,,,,,,,,,,,,,Y,Y,,,
-Suzuki,VGT​,2022,610.73,SS,Y,Japan,4WD,NA,1000000,426,970,3995,1825,1145,DXA1,1340,Inline 4 Cylinders,,Road Car,,Y,,,,,Y,,,,,,,,,,,,
-Suzuki,VGT (Gr.3)​,2022,710.47,RH,,Japan,FR,T,450000,577,1220,4200,1840,1145,V8-Suzuki-VGT-Gr.3,2680,V-type 8 Cylinders,Gr.3,Racing Car,,Y,,,,,,,,,,,,,,,,,
-Tesla,Model S Signature Performance​ '12​,2012,536.54,SH,,USA,RR,EV,92000,410,2018,4978,1964,1435,L1S,,--,,Road Car,,,,,,Y,,,,,,,,,,,,,
-Toyota,2000GT​ '67​,1967,397.56,CM,Y,Japan,FR,NA,936000,153,1120,4175,1600,1160,MF10,1988,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,86 Gr.4​,0,633.75,RH,,Japan,FR,NA,350000,358,1200,4278,1784,1229,B4-86-Gr.4,1998,Flat 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Toyota,86 Gr.B Rally Car​,0,664.71,RH,Y,Japan,4WD,NA,450000,516,1180,4340,1990,1599,B4-86-Gr.B,1998,Flat 4 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,,,,,,,
-Toyota,86 GRMN​ '16​,2016,468.27,SH,Y,Japan,FR,NA,64800,214,1220,4287,1775,1300,FA20,1998,Flat 4 Cylinders,,Professionally Tuned,,,,,,,,,,,,,,,,,,,
-Toyota,86 GT​ '15​,2015,444.39,CS,Y,Japan,FR,NA,29052,197,1230,4240,1775,1285,FA20,1998,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,"86 GT""Limited""​ '16​",2016,448.28,CS,Y,Japan,FR,NA,31840,203,1240,4240,1775,1320,FA20,1998,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Alphard Executive Lounge '18,2018,394.88,CM,Y,Japan,4WD,NA,75000,296,2210,4945,1850,1950,2GR-FKS,3456,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Aqua S​ '11​,2011,353.02,CM,Y,Japan,FF,NA,17900,120,1080,3995,1695,1445,1NZ-FXE,1496,Inline 4 Cylinders,,Road Car,,,,,,,Y,,,,,,,,,,,,
-Toyota,Celica GT-Four (ST205)​ '95​,1995,467.43,CS,Y,Japan,4WD,T,78600,250,1380,4420,1750,1305,3S-GTE,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Celica GT-FOUR Rally Car (ST205) '95,1995,583.18,RH,Y,Japan,4WD,T,250000,298,1200,4424,1770,1300,3S-GTE-661E,1998,Inline 4 Cylinders,Gr.B,Racing Car,,,,,,,,,,,,,Y,,,,,,
-Toyota,Corolla Levin 1600GT APEX (AE86)​ '83​,1983,370.42,CM,Y,Japan,FR,NA,47400,127,940,4180,1625,1320,4A-GEU,1587,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Crown Athlete G​ '13​,2013,489.97,CS,Y,Japan,FR,NA,57500,309,1650,4895,1800,1450,2GR-FSE,3456,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Crown Athlete G Safety Car​,0,486.95,CS,,Japan,FR,NA,65000,309,1650,4895,1800,1450,2GR-FSE,3456,V-type 6 Cylinders,,Road Car,,,,Y,,,,,,,,,,,,,,,
-Toyota,FT-1​,2014,598.22,SH,,Japan,FR,T,500000,,,,,,FT-1,,--,,Road Car,,,Y,,,,,,,,,,,,,,,,
-Toyota,FT-1 VGT​,2014,752.32,RH,,Japan,FR,T,1000000,,,,,,FT-1-VGT,,--,,Racing Car,,Y,,,,,Y,,,,,,,,,,,,
-Toyota,FT-1 VGT (Gr.3)​,0,706.77,RH,,Japan,FR,T,450000,544,1280,5029,2080,1180,FT-1-VGT-Gr.3,,--,Gr.3,Racing Car,,Y,,,,,,,,,,,,,,,,,
-Toyota,GR Supra Race Car​ '19​,2019,638.8,RH,,Japan,FR,T,350000,394,1380,4380,1865,1290,GR-Supra-Race,,--,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Toyota,GR Supra Racing Concept​ '18​,2018,723.1,RH,,Japan,FR,T,450000,591,1243,4574,2048,1230,GR-Supra-Racing-Concept,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Toyota,GR Supra RZ​ '19​,2019,536.31,SH,Y,Japan,FR,T,70000,335,1520,4380,1865,1295,B58,2998,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,GR Supra RZ​ '20​,2020,544.59,SH,Y,Japan,FR,T,73000,382,1530,4380,1865,1290,B58,2998,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,GR Yaris RZ “High Performance”​ '20​,2020,504.79,SH,Y,Japan,4WD,T,45600,268,1290,3995,1805,1455,G16E-GTS,1618,Inline 3 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,GR010 Hybrid​ '21​,2021,861.89,RM,,Japan,4WD,T,3000000,670,1040,4900,2000,1150,V6-GR010,3500,V-type 6 Cylinders,Gr.1,Racing Car,,,,,,,Y,,,,Y,,,,,Y,,,
-Toyota,GR86 RZ​ '21​,2021,489.02,SH,Y,Japan,FR,NA,33500,231,1270,4265,1775,1310,FA24,2387,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,MR2 GT-S​ '97​,1997,481.95,CS,Y,Japan,MR,T,57400,241,1270,4170,1695,1235,3S-GTE,1998,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-Toyota,Prius G​ '09​,2009,373.35,CM,Y,Japan,FF,NA,24500,120,1350,4460,1745,1490,2ZR-FXE,1797,Inline 4 Cylinders,,Road Car,,,,,,,Y,,,,,,,,,,,,
-Toyota,SF-R​ '15​,2015,412.6,CS,Y,Japan,FR,NA,19500,133,1050,3990,1695,1320,L4-S-FR,1500,Inline 4 Cylinders,,Road Car,,,Y,,,,,,,,,,,,,,,,
-Toyota,SF-R Racing Concept​ '16​,2016,551.16,SH,,Japan,FR,T,200000,349,1150,4100,1735,1270,L4-S-FR-Racing,1500,Inline 4 Cylinders,,Professionally Tuned,,,Y,,,,,,,,,,,,,,,,
-Toyota,Sports 800​ '65​,1965,232.8,CH,Y,Japan,FR,NA,51000,43,580,3610,1465,1175,2U,790,Flat 2 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Sprinter Trueno 1600GT APEX (AE86)​ '83​,1983,370.4,CM,Y,Japan,FR,NA,48200,127,940,4205,1625,1335,4A-GEU,1587,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Sprinter Trueno 1600GT APEX (S. Shigeno Version)​,2000,510.11,SH,Y,Japan,FR,NA,99000,207,825,4205,1675,1275,4A-GEU,,--,,Professionally Tuned,,,,,,,,,,,,,,,,,,,
-Toyota,Supra 3.0 GT Turbo A​ '88​,1988,470.19,CS,Y,Japan,FR,T,111800,266,1530,4620,1745,1300,7M-GTEU,2954,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,Supra GT500​ '97​,1997,713.02,RH,,Japan,FR,T,1800000,492,1150,4520,1910,1200,3S-GTE-171F,1998,Inline 4 Cylinders,Gr.3,Racing Car,,,,,,,,,,Y,,,,,,,,,
-Toyota,Supra RZ (A80)​ '97​,1997,511.99,SH,Y,Japan,FR,T,191900,325,1510,4520,1810,1275,2JZ-GTE,2997,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Toyota,TS030 Hybrid​ '12​,2012,872.4,RM,,Japan,MR,NA,1000000,529,900,4650,2000,1150,V8-TS030,3400,V-type 8 Cylinders,Gr.1,Racing Car,,,,,,,Y,,,,Y,,,,,Y,,,
-Toyota,TS050 - Hybrid​ '16​,2016,879.84,RM,,Japan,4WD,T,1000000,493,875,4650,1900,1150,V6-TS050,2400,V-type 6 Cylinders,Gr.1,Racing Car,,,,,,,Y,,,,Y,,,,,Y,,,
-Toyota,Tundra TRD Pro​ '19​,2019,421.71,CM,Y,Japan,4WD,NA,62000,379,2555,5815,2030,1930,3UR-FE,5663,V-type 8 Cylinders,,Road Car,,,,,,,,,,,,,,,,,Y,,
-TVR,Tuscan Speed Six​ '00​,2000,562.69,SH,Y,UK,FR,NA,72000,360,1100,4235,1810,1200,SP6,3996,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,1200​ '66​,1966,177.83,CH,Y,Germany,RR,NA,32700,33,780,4070,1540,1500,Type112,1192,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,Beetle Gr.3​,0,724.38,RH,,Germany,FR,T,450000,591,1200,4369,1958,1347,Beetle-Gr.3,,--,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,Golf I GTI​ '83​,1983,353.49,CM,Y,Germany,FF,NA,48300,110,890,3815,1630,1395,EA827-R4(DX),1781,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,Golf VII GTI​ '14​,2014,461.64,CS,Y,Germany,FF,T,38330,216,1390,4275,1800,1450,CHH,1984,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,GTI Roadster VGT​,2014,686.6,RH,,Germany,4WD,T,1000000,551,1200,4130,1870,1325,GTI-VGT,,--,,Racing Car,,Y,,,,,,,,,,,,,,,,,
-Volkswagen,GTI Supersport VGT​,2015,694.06,RH,,Germany,4WD,T,1000000,551,1200,4250,1870,1325,GTI-VGT,,--,,Racing Car,,Y,,,,,,,,,,,,,,,,,
-Volkswagen,GTI VGT (Gr.3)​,0,693.34,RH,,Germany,MR,T,450000,551,1260,4380,1930,1060,GTI-VGT,,--,Gr.3,Racing Car,,Y,,,,,,,,,,,,,,Y,,,
-Volkswagen,ID. R '19,2019,842.66,RH,,Germany,4WD,EV,2000000,670,1030,5200,2350,1200,EV-ID.R,,--,,Racing Car,,,,,,Y,,,,,,,,,,,,,
-Volkswagen,Polo GTI​ '14​,2014,443.74,CS,Y,Germany,FF,T,28000,189,1272,3995,1685,1445,DAJ,1798,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Jaguar,XJ220 '92,1992,592.62,SH,Y,UK,MR,T,615000,515,1372,4860,2000,1150,JRV-6,3498,V-type 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,Y,,,
-AMG,Mercedes-AMG GT3 '20,2020,736.18,RH,,Germany,FR,NA,480000,614,1285,4746,2049,1238,M159,6208,V-type 8 Cylinders,Gr.3,Racing Car,,,,,,,,,,,,,,,,,,,
-Super Formula,SF23 Super Formula / Toyota '23,2023,950.79,RS,,Japan,MR,T,1000000,625,670,5235,1920,960,TRD-01F,2000,Inline 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,Super Formula
-Super Formula,SF23 Super Formula / Honda '23,2023,950.79,RS,,Japan,MR,T,1000000,625,670,5235,1920,960,HR-417E,2000,Inline 4 Cylinders,,Racing Car,,,,,,,,,,,,,,,,Y,,,Super Formula
-Alfa Romeo,Giulia Sprint GT Veloce '67,1967,334.81,CM,Y,Italy,FR,NA,180000,104,1040,4080,1580,1315,AR00536,1570,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Greening Auto Company,Maverick,0,660.37,SM,Y,USA,FR,T,300000,1199,1633,4579,1914,1290,Windsor-351,6997,V-type 8 Cylinders,,Professionally Tuned,,,,,,,,Y,,,,,,,,,,,
-Nissan,GT-R NISMO (R32) '90,1990,508.43,SH,Y,Japan,4WD,T,400000,306,1400,4545,1755,1340,RB26DETT,2568,Inline 6 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,Sambabus Typ 2​ '62​,1962,116.31,CH,Y,Germany,RR,NA,61200,33,1095,4290,1750,1940,Type112,1192,Flat 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,Scirocco Gr.4​,0,645.81,RH,,Germany,FF,T,350000,358,1050,4301,1806,1365,L4-Scirocco-Gr.4,1984,Inline 4 Cylinders,Gr.4,Racing Car,,,,,,,,,,,,,,,,,,,
-Volkswagen,Scirocco R​ '10​,2010,502.86,SH,Y,Germany,FF,T,51500,252,1410,4255,1820,1420,CDL,1984,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Wicked Fabrication,GT 51​,0,518.9,CS,Y,USA,FR,NA,300000,372,1338,4750,1778,1321,Y-block-368,6096,V-type 8 Cylinders,,Professionally Tuned,,,,,,,,Y,,,,,,,,,,,
-Zagato,IsoRivolta Zagato VGT​,2017,662.37,SM,,Italy,FR,NA,1000000,559,1150,4390,2008,1096,V8-Zagato-VGT,4494,V-type 8 Cylinders,,Road Car,,Y,,,,,,,,,,,,,,,,,
-Aston Martin,Valkyrie '21,2021,,,,UK,,,4000000,,,,,,,,,,Road Car,,,,,,,,,,,,,,,,,,,
-Subaru,Lancer Evolution III GSR '95,1995,,,Y,Japan,4WD,T,100000,,,,,,4G63T,,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
-Mitsubishi,Impreza Sedan WRX STi '04,2004,,,Y,Japan,4WD,T,50000,,,,,,,,Inline 4 Cylinders,,Road Car,,,,,,,,,,,,,,,,,,,
+Make	Model	Year	PP	Tyres	Dirt	Region	Drivetrain	Aspiration	Price	Power	Weight	Length	Width	Height	Engine Model	Displacement	Engine Type	Group	Type	#Hyper	#VGT	#Concept	#Safety	#Kei	#Electric	#Hybrid	#GTAward	#GT300	#GT500	#Le Mans	#N24	#WRC	#Kart	#Pikes Peak	#Midship	#Pickup	#GTTrophy	Special
+Abarth	1500 Biposto Bertone B.A.T 1? '52?	1952	259.63	CH	Y	Italy	FR	NA	1000000	73	870	4520	1650	1380	101		--		Road Car																		Y	
+Abarth	500? '09?	2009	403.72	CS	Y	Italy	FF	T	29500	133	1035	3657	1627	1485	312A1	1368	Inline 4 Cylinders		Road Car																			
+Abarth	595? '70?	1970	171.25	CH	Y	Italy	RR	NA	48900	30	470	2970	1320	1325	110F.000-ABA205	594	Inline 2 Cylinders		Road Car																			
+Alfa Romeo	155 2.5 V6 TI? '93?	1993	655.5	RH		Italy	4WD	NA	800000	413	1010	4576	1750	1375	V6-155-V6Ti	2498	V-type 6 Cylinders	Gr.4	Racing Car																			
+Alfa Romeo	4C? '14?	2014	524.46	SH	Y	Italy	MR	T	89100	235	950	3990	1870	1185	960A1	1742	Inline 4 Cylinders		Road Car																Y			
+Alfa Romeo	4C Gr.3?	0	714.51	RH		Italy	MR	T	450000	528	1220	4340	1950	1182	Alfa-4C-Gr.3		--	Gr.3	Racing Car																Y			
+Alfa Romeo	4C Gr.3 Road Car?	0	566.36	SH	Y	Italy	MR	T	300000	443	1320	4340	1950	1182	Alfa-4C-Gr.3-Road		Inline 4 Cylinders		Road Car																Y			
+Alfa Romeo	4C Gr.4?	0	620.1	RH		Italy	MR	T	350000	295	1020	3990	1870	1152	Alfa-4C-Gr.4		--	Gr.4	Racing Car																Y			
+Alfa Romeo	8C 2900B Touring Berlinetta? '37?	1937	390.64	CM	Y	Italy	FR	SC	20000000	179	1310	5000	1700	1500	8C-2900	2905	Inline 8 Cylinders		Road Car																			
+Alfa Romeo	8C Competizione? '08?	2008	553.73	SH	Y	Italy	FR	NA	350000	442	1585	4381	1894	1341	F136YC	4691	V-type 8 Cylinders		Road Car																			
+Alfa Romeo	Giulia GTAm '20	2020	580.88	SH	Y	Italy	FR	T	220000	532	1580	4669	1923	1397	690T	2891	V-type 6 Cylinders		Road Car																			
+Alfa Romeo	Giulia TZ2 carrozzata da Zagato? '65?	1965	489.13	CS		Italy	FR	NA	3450000	168	620	3680	1600	1075	AR00502/A	1570	Inline 4 Cylinders		Racing Car																		Y	
+Alfa Romeo	MiTo? '09?	2009	422.13	CS	Y	Italy	FF	T	28500	152	1145	4070	1720	1475	199A8	1368	Inline 4 Cylinders		Road Car																			
+Alpine	A110? '17?	2017	517.93	SH	Y	France	MR	T	80000	248	1103	4180	1798	1252	Tce-M5P	1800	Inline 4 Cylinders		Road Car																Y			
+Alpine	A110? '72?	1972	415.35	CM	Y	France	RR	NA	140000	138	715	3850	1520	1130	807-24	1565	Inline 4 Cylinders		Road Car																			
+Alpine	A220? '68?	1968	585.9	CS		France	MR	NA	330000	319	690	4080	1740	1030	T62	2996	V-type 8 Cylinders		Racing Car																Y			
+Alpine	VGT?	2015	678.48	SM		France	MR	NA	1000000	443	900	4620	2100	940	V8-Alpine-VGT	4494	V-type 8 Cylinders		Road Car		Y														Y			
+Alpine	VGT? '17?	2017	878.29	RM		France	RR	NA	1000000	594	930	5282	2100	9400	V8-Alpine-VGT-'17	4200	V-type 8 Cylinders	Gr.1	Racing Car		Y																	
+Alpine	VGT Race?	2015	742.44	RH		France	MR	NA	1000000	443	900	5047	2100	940	V8-Alpine-VGT	4494	V-type 8 Cylinders		Racing Car		Y														Y			
+AMG	300 SEL 6.8 AMG? '71?	1971	517.98	SH		Germany	FR	NA	700000	422	1635	5000	1810	1320	M100	6835	V-type 8 Cylinders		Racing Car																			
+AMG	A 45 AMG? '13?	2013	518.55	SH	Y	Germany	4WD	T	64000	355	1555	4359	1780	1417	M133	1991	Inline 4 Cylinders		Road Car																			
+AMG	Mercedes-AMG C 63 S? '15?	2015	568.26	SH	Y	Germany	FR	T	135800	503	1725	4750	1877	1402	M177	3982	V-type 8 Cylinders		Road Car																			
+AMG	Mercedes-AMG GT Black Series? '20?	2020	652.14	SM		Germany	FR	T	420000	719	1540	4604	2075	1280	M178	3982	V-type 8 Cylinders		Road Car																			
+AMG	Mercedes-AMG GT R? '17?	2017	601.54	SH		Germany	FR	T	184000	576	1660	4550	2005	1285	M178	3982	V-type 8 Cylinders		Road Car																			
+AMG	Mercedes-AMG GT S? '15?	2015	592.03	SH		Germany	FR	T	120000	502	1570	4550	1940	1290	M178	3982	V-type 8 Cylinders		Road Car																			
+AMG	Mercedes-AMG GT Safety Car?	0	587.65	SH		Germany	FR	T	200000	502	1570	4550	1940	1290	M178	3982	V-type 8 Cylinders		Road Car				Y															
+AMG	Mercedes-AMG GT3? '16?	2016	730.51	RH		Germany	FR	NA	450000	614	1325	4569	2049	1250	M159	6208	V-type 8 Cylinders	Gr.3	Racing Car																			
+AMG	Mercedes-Benz AMG VGT?	2013	652.65	SM		Germany	FR	T	1000000	576	1385	4820	2000	1110	V8-Mercedes-VGT	5461	V-type 8 Cylinders		Road Car		Y																	
+AMG	Mercedes-Benz AMG VGT Racing Series?	2014	728.43	RH		Germany	FR	T	1000000	590	1300	4820	2000	1110	V8-Mercedes-VGT-Racing	5461	V-type 8 Cylinders		Racing Car		Y																	
+AMG	SLS AMG? '10?	2010	585.75	SH		Germany	FR	NA	360000	570	1620	4638	1939	1262	M156	6208	V-type 8 Cylinders		Road Car																			
+AMG	SLS AMG Gr.4?	0	641.17	RH		Germany	FR	NA	350000	419	1415	4638	1939	1257	SLS-Gr.4		--	Gr.4	Racing Car																			
+AMG	SLS AMG GT3? '11?	2011	728.06	RH		Germany	FR	NA	450000	614	1350	4710	1990	1195	M159		V-type 8 Cylinders	Gr.3	Racing Car																			
+Amuse	NISMO 380RS Super Leggera?	0	567.34	SH		Japan	FR	NA	100000	380	1370	4520	1845	1316	VQ38HR	3798	V-type 6 Cylinders		Professionally Tuned																			
+Amuse	S2000 GT1 Turbo?	0	667.51	SM		Japan	FR	T	250000	616	1120	4226	1829	1198	F20C		Inline 4 Cylinders		Professionally Tuned																			
+Aston Martin	DB11? '16?	2016	577.27	SH		UK	FR	T	238000	599	1770	4739	2060	1279	AE31	5204	V-type 12 Cylinders		Road Car																			
+Aston Martin	DB3S? '53?	1953	481.64	CM		UK	FR	NA	6000000	224	856	3905	1620	1054	Lagonda-DP101	2922	Inline 6 Cylinders		Racing Car																		Y	
+Aston Martin	DB5? '64?	1964	438.97	CM		UK	FR	NA	978000	281	1468	4570	1676	1320	Tadek-Marek-R6	3995	Inline 6 Cylinders		Road Car																			
+Aston Martin	DBR9 GT1? '10?	2010	716.81	RH		UK	FR	NA	800000	599	1100	4687	1978	1195	AM04	5935	V-type 12 Cylinders	Gr.3	Racing Car																			
+Aston Martin	DP-100 VGT?	2014	703.26	RH		UK	4WD	T	1000000	799	1375	4576	2007	1112	V12-DP-100	6000	V-type 12 Cylinders		Road Car		Y														Y			
+Aston Martin	One-77? '11?	2011	628.63	SH		UK	FR	NA	1320000	748	1630	4601	1999	1222	AM21	7312	V-type 12 Cylinders		Road Car																			
+Aston Martin	V12 Vantage GT3 '12	2012	718.56	RH		UK	FR	NA	450000	591	1250	4760	1979	1340	AM08	5935	V-type 12 Cylinders	Gr.3	Racing Car																			
+Aston Martin	V8 Vantage Gr.4?	0	640.87	RH		UK	FR	NA	350000	399	1350	4459	1897	1236	V8-Vantage-Gr.4		V-type 8 Cylinders	Gr.4	Racing Car																			
+Aston Martin	V8 Vantage S? '15?	2015	551.89	SH		UK	FR	NA	180000	429	1610	4385	2022	1260	AJ37	4735	V-type 8 Cylinders		Road Car																			
+Aston Martin	Vulcan? '16?	2016	754.25	RH		UK	FR	NA	3300000	820	1360	4807	2063	1205	V12-Vulcan	6949	V-type 12 Cylinders		Road Car	Y																		
+Audi	e-tron VGT?	2018	842	RM		Germany	4WD	EV	1000000	803	1450	4704	2126	1107	EV-Audi-e-tron-VGT		--		Racing Car		Y				Y													
+Audi	R18? '16?	2016	881.23	RM		Germany	4WD	T	1000000	506	875	4650	1900	1050	V6-R18-'16	4000	V-type 6 Cylinders	Gr.1	Racing Car							Y				Y					Y			
+Audi	R18 TDI? '11?	2011	859.41	RM		Germany	MR	T	3000000	532	900	4650	2000	1100	V6-R18-'11	3700	V-type 6 Cylinders	Gr.1	Racing Car											Y					Y			
+Audi	R8 4.2? '07?	2007	556.57	SH		Germany	4WD	NA	166700	414	1560	4431	1904	1249	BYH	4163	V-type 8 Cylinders		Road Car																Y			
+Audi	R8 LMS? '15?	2015	740.24	RH		Germany	MR	NA	800000	585	1225	4583	1997	1171	DAR	5200	V-type 10 Cylinders	Gr.3	Racing Car												Y				Y			
+Audi	R8 LMS Evo? '19?	2019	738.33	RH		Germany	MR	NA	450000	576	1235	4573	1997	1171	DAR	5200	V-type 10 Cylinders	Gr.3	Racing Car																Y			
+Audi	RS 5 Turbo DTM '19	2019	812.75	RH		Germany	FR	T	1000000	603	986	4958	1950	1150	RC8-2.0-TFSI	2000	Inline 4 Cylinders	Gr.2	Racing Car																			
+Audi	Sport quattro S1? '87?	1987	676.35	RH	Y	Germany	4WD	T	2150000	588	1000	4240	1860	1344	R5-20vT	2110	Inline 5 Cylinders	Gr.B	Racing Car															Y				
+Audi	TT Coupe 3.2 quattro? '03?	2003	466.25	CS	Y	Germany	4WD	NA	57800	239	1520	4041	1764	1345	BHE	3189	V-type 6 Cylinders		Road Car																			
+Audi	TT Cup? '16?	2016	628.87	RH		Germany	FF	T	350000	335	1125	4260	1994	1279	DNU	1984	Inline 4 Cylinders	Gr.4	Racing Car																			
+Audi	TTS Coupe? '14?	2014	530.57	SH	Y	Germany	4WD	T	76800	305	1385	4191	1832	1343	DNU	1984	Inline 4 Cylinders		Road Car																			
+Audi	VGT?	2018	894.61	RM		Germany	4WD	T	1000000	735	1250	4704	2126	1107	V6-Audi-VGT	3400	V-type 6 Cylinders	Gr.1	Racing Car		Y					Y												
+Autobianchi	A112? '85?	1985	300.63	CM	Y	Italy	FF	NA	31100	71	710	3268	1480	1360	A112A2.000	1050	Inline 4 Cylinders		Road Car																			
+BAC	Mono? '16?	2016	625.81	SM		UK	MR	NA	240000	304	580	3952	1836	1110	Duratec-2.5-L4	2488	Inline 4 Cylinders		Road Car																Y			
+BMW	3.0 CSL? '71?	1971	407.46	CM		Germany	FR	NA	146700	177	1165	4660	1710	1370	M30B30V	2986	Inline 6 Cylinders		Road Car																			
+BMW	3.0 CSL? '73?	1973	418.63	CM		Germany	FR	NA	206500	202	1250	4660	1730	1370	M30B32	3153	Inline 6 Cylinders		Road Car																			
+BMW	i3? '15?	2015	394.72	CS		Germany	MR	EV	49900	166	1260	4010	1775	1550	P250		--		Road Car						Y										Y			
+BMW	M2 Competition '18	2018	543.6	SH		Germany	FR	T	91000	405	1575	4461	1854	1410	S55B30A	2979	Inline 6 Cylinders		Road Car																			
+BMW	M3? '03?	2003	519.26	SH		Germany	FR	NA	84000	339	1560	4490	1780	1360	32-6S4	3246	Inline 6 Cylinders		Road Car																			
+BMW	M3? '07?	2007	536.27	SH		Germany	FR	NA	93000	415	1655	4615	1804	1418	S65B40A	3999	V-type 8 Cylinders		Road Car																			
+BMW	M3? '89?	1989	459.1	CS		Germany	FR	NA	89000	212	1200	4345	1680	1370	S14B23	2302	Inline 4 Cylinders		Road Car																			
+BMW	M3 GT? '11?	2011	693.92	RH		Germany	FR	NA	600000	500	1245	4714	1917	1289	P65B40	4000	V-type 8 Cylinders	Gr.3	Racing Car												Y							
+BMW	M3 Sport Evolution? '89?	1989	467.16	CS		Germany	FR	NA	178950	234	1200	4345	1680	1385	S14B25-EVO3	2467	Inline 4 Cylinders		Road Car																			
+BMW	M4? '14?	2014	557.78	SH		Germany	FR	T	120000	425	1497	4671	1869	1381	S55B30A	2979	Inline 6 Cylinders		Road Car																			
+BMW	M4 Gr.4?	0	622.91	RH		Germany	FR	T	350000	394	1365	4777	1869	1350	L6-M4-Gr.4	2979	Inline 6 Cylinders	Gr.4	Racing Car																			
+BMW	M4 Safety Car?	0	557.8	SH		Germany	FR	T	150000	425	1497	4671	1869	1381	S55B30A	2979	Inline 6 Cylinders		Road Car				Y															
+BMW	M6 GT3 Endurance Model? '16?	2016	720.71	RH		Germany	FR	T	450000	584	1300	4944	2046	1277	P63B44		--	Gr.3	Racing Car												Y							
+BMW	M6 GT3 Sprint Model? '16?	2016	721.38	RH		Germany	FR	T	450000	584	1300	4944	2046	1277	P63B44		--	Gr.3	Racing Car																			
+BMW	McLaren F1 GTR Race Car? '97?	1997	815.43	RM		Germany	MR	NA	10000000	602	950	4924	1920	1120	S70/3		V-type 12 Cylinders	Gr.2	Racing Car											Y					Y			
+BMW	VGT?	2014	709.31	RH		Germany	FR	T	1000000	541	1180	4558	1922	1332	L6-BMW-VGT	3000	Inline 6 Cylinders		Racing Car		Y																	
+BMW	Z4 GT3? '11?	2011	706.74	RH		Germany	FR	NA	450000	522	1190	4387	2012	1210	P65B44	4361	V-type 8 Cylinders	Gr.3	Racing Car																			
+BMW	Z8? '01?	2001	534.49	SH		Germany	FR	NA	300000	395	1610	4400	1830	1315	S62B50	4941	V-type 8 Cylinders		Road Car																			
+Bugatti	Chiron '16	2016	696.39	SH		France	4WD	T	3000000	1479	1995	4544	2038	1212	8.0-WR16-64v4T	7993	W-type 16 Cylinders		Road Car																Y			
+Bugatti	Veyron 16.4? '13?	2013	653.62	SH		France	4WD	T	2000000	986	1888	4462	1998	1206	8.0-WR16-64v4T	7993	W-type 16 Cylinders		Road Car																Y			
+Bugatti	Veyron Gr.4?	0	627.04	RH		France	4WD	T	350000	433	1650	4496	2000	1163	W16-Veyron-Gr.4	7993	W-type 16 Cylinders	Gr.4	Racing Car																			
+Bugatti	VGT?	2015	910.39	RH		France	4WD	T	1000000	1626	1400	4752	2123	1133	W16-Bugatti-VGT	7993	W-type 16 Cylinders		Racing Car		Y														Y			
+Bugatti	VGT (Gr.1)?	2015	890.99	RM		France	4WD	T	1000000	641	980	4752	2123	1133	Bugatti-VGT-Gr.1		--	Gr.1	Racing Car		Y														Y			
+Chaparral	2J? '70?	1970	863.85	RH		USA	MR	NA	2500000	683	821	3683	1981	964	Big-Block-465	7600	V-type 8 Cylinders		Racing Car																Y			
+Chaparral	2X VGT?	2025	1038.64	RS		USA			1000000	905	405	4150	1974	880	Laser-Pulse-2X		--		Racing Car		Y																	
+Chevrolet	Camaro SS? '16?	2016	550.08	SH	Y	USA	FR	NA	35000	453	1672	4783	1897	1349	LT1	6162	V-type 8 Cylinders		Road Car																			
+Chevrolet	Camaro Z28? '69?	1969	447.13	CM	Y	USA	FR	NA	105000	289	1415	4724	1880	1311	302	4949	V-type 8 Cylinders		Road Car																			
+Chevrolet	Camaro ZL1 1LE Package? '18?	2018	621.44	SM	Y	USA	FR	SC	79500	649	1732	4784	1897	1330	LT4	6162	V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette (C2)? '63?	1963	506.25	CS	Y	USA	FR	NA	237000	359	1380	4453	1768	1265	Small-Block-327	5354	V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette C7? '14?	2014	570.92	SH	Y	USA	FR	NA	51000	453	1500	4495	1877	1235	LT1	6162	V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette C7 Gr.3?	0	719.47	RH		USA	FR	NA	450000	571	1300	4779	2050	1161	V8-Corvette-Gr.3		V-type 8 Cylinders	Gr.3	Racing Car																			
+Chevrolet	Corvette C7 Gr.3 Road Car?	0	573.77	SH	Y	USA	FR	NA	300000	493	1480	4570	2050	1161	V8-Corvette-Gr.3-Road		V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette C7 Gr.4?	0	648.26	RH		USA	FR	NA	350000	414	1350	4574	1872	1187	V8-Corvette-Gr.4		V-type 8 Cylinders	Gr.4	Racing Car																			
+Chevrolet	Corvette C7 ZR1? '19?	2019	644.36	SM	Y	USA	FR	SC	134000	754	1615	4567	1965	1232	LT5	6162	V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette C8 '20	2020	585.55	SH	Y	USA	MR	NA	85000	494	1530	4630	1934	1234	LT2	6162	V-type 8 Cylinders		Road Car																Y			
+Chevrolet	Corvette Stingray? (C3) '69?	1969	505.01	CS	Y	USA	FR	NA	53300	350	1490	4636	1753	1214	Small-Block-350	5735	V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette Stingray Concept? '59?	1959	517.53	CS		USA	FR	NA	4000000	314	1150	4430	1752	1265	Small-Block-283		V-type 8 Cylinders		Racing Car			Y																
+Chevrolet	Corvette Stingray Convertible? (C3) '69?	1969	448.62	CM	Y	USA	FR	NA	47300	298	1552	4636	1753	1217	Small-Block-350	5735	V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette ZR-1? (C4) '89?	1989	520.83	CS	Y	USA	FR	NA	89600	375	1572	4506	1880	1186	LT5	5735	V-type 8 Cylinders		Road Car																			
+Chevrolet	Corvette ZR1 (C6)? '09?	2009	608.43	SH	Y	USA	FR	SC	120000	639	1508	4475	1928	1245	LS9	6162	V-type 8 Cylinders		Road Car																			
+Chris Holstrom Concepts	CHC 1967 Chevy Nova?	0	616.23	SH	Y	USA	FR	SC	300000	732	1366	4760	1811	1367	LS9	6162	V-type 8 Cylinders		Professionally Tuned								Y											
+Citroen	DS 21 Pallas '70	1970	521.07	CM	Y	France	FF	NA	49600	103	1300	4870	1800	1440	DX2	2175	Inline 4 Cylinders		Road Car																			
+Citroen	GT by Citroen Gr.4?	0	648.06	RH		France	MR	NA	350000	394	1300	4957	2250	1206	GT-by-Citroen-Gr.4		--	Gr.4	Racing Car																Y			
+Citroen	GT by Citroen Race Car (Gr.3)?	0	743.98	RH		France	MR	NA	450000	599	1200	5208	2120	1116	GT-by-Citroen-Gr.3		--	Gr.3	Racing Car																Y			
+Citroen	GT by Citroen Road Car?	0	597.21	SH	Y	France	MR	NA	1000000	500	1450	4954	2075	1089	Modular-5.4L		--		Road Car																Y			
+Daihatsu	Copen? '02?	2002	292.88	CM	Y	Japan	FF	T	18000	62	830	3395	1475	1245	JB-DET	659	Inline 4 Cylinders		Road Car					Y														
+Daihatsu	Copen RJ VGT?	2017	494.27	SH		Japan	FF	T	1000000	146	600	3542	1534	1330	L3-Copen-VGT	660	Inline 3 Cylinders		Racing Car		Y																	
+De Tomaso	Mangusta? '69?	1969	486.05	CM	Y	Italy	MR	NA	245000	300	1185	4275	1830	1100	Windsor-289-HiPo	4727	V-type 8 Cylinders		Road Car																Y			
+De Tomaso	Mangusta (Christian Dior)	0	486.05	CM	Y	Italy	MR	NA	500000	300	1185	4275	1830	1100	Windsor-289-HiPo	4727	V-type 8 Cylinders		Road Car																Y			
+De Tomaso	Pantera? '71?	1971	471.08	CM	Y	Italy	MR	NA	165000	325	1420	4270	1830	1100	Cleveland-351-Mcode	5763	V-type 8 Cylinders		Road Car																Y			
+DMC	DeLorean S2? '04?	2004	449.51	CS	Y	USA	RR	NA	525000	197	1288	4267	1857	1140	PRV	2849	V-type 6 Cylinders		Road Car																			
+Dodge	Challenger R/T? '70?	1970	488.45	CS	Y	USA	FR	NA	306000	425	1724	4864	1943	1295	Hemi-426	6981	V-type 8 Cylinders		Road Car																			
+Dodge	Charger SRT Hellcat? '15?	2015	596.7	SH	Y	USA	FR	SC	76800	707	1980	5088	1885	1478	Hellcat	6161	V-type 8 Cylinders		Road Car																			
+Dodge	Charger SRT Hellcat Safety Car?	0	595.87	SH		USA	FR	SC	100000	707	1980	5088	1885	1478	Hellcat	6161	V-type 8 Cylinders		Road Car				Y															
+Dodge	SRT Tomahawk GTS-R VGT?	2035	1164.9	RS		USA	4WD	NA	1000000	1449	663	5039	2250	950	V10-Tomahawk-GTS-R	7000	V-type 10 Cylinders		Racing Car		Y					Y									Y			
+Dodge	SRT Tomahawk S VGT?	2035	949.94	SM		USA	4WD	NA	1000000	1006	921	5039	2250	950	V10-Tomahawk-S	7000	V-type 10 Cylinders		Road Car		Y					Y									Y			
+Dodge	SRT Tomahawk VGT (Gr.1)?	0	890.13	RM		USA	MR	NA	1000000	693	950	5141	2244	974	Tomahawk-Gr.1		--	Gr.1	Racing Car		Y														Y			
+Dodge	SRT Tomahawk X VGT?	2035	1359.35	RS		USA	4WD	NA	1000000	2586	749	5039	2250	950	V10-Tomahawk-X	7000	V-type 10 Cylinders		Racing Car		Y					Y									Y			
+Dodge	Super Bee? '70?	1970	442.8	CM	Y	USA	FR	NA	71200	225	1533	5334	1948	1346	383-Magnum	6277	V-type 8 Cylinders		Road Car																			
+Dodge	Viper Gr.4?	0	646.19	RH		USA	FR	NA	350000	428	1400	4622	1934	1209	V10-Viper-Gr.4		V-type 10 Cylinders	Gr.4	Racing Car																			
+Dodge	Viper GTS? '02?	2002	558.07	SH	Y	USA	FR	NA	120000	448	1569	4488	1923	1219	SR-I	7997	V-type 10 Cylinders		Road Car																			
+Dodge	Viper GTS? '13?	2013	598.27	SH	Y	USA	FR	NA	140000	640	1556	4463	1941	1246	VX-I		V-type 10 Cylinders		Road Car																			
+Dodge	Viper SRT GT3-R? '15?	2015	740.92	RH		USA	FR	NA	450000	678	1290	4540	2068	1160	VX-I	8383	V-type 10 Cylinders	Gr.3	Racing Car																			
+Dodge	Viper SRT10 Coupe? '06?	2006	573.19	SH	Y	USA	FR	NA	130000	508	1565	4459	1911	1210	ZB-I	8285	V-type 10 Cylinders		Road Car																			
+DS Automobiles	DS 3 Racing? '11?	2011	459.69	CS	Y	France	FF	T	31000	203	1165	3948	1717	1502	5F04	1.598	Inline 4 Cylinders		Road Car																			
+Eckert's Rod & Customs	Mach Forty?	0	630.68	SH	Y	USA	MR	SC	300000	787	1588	4561	1983	1196	Modular-5.4L	5409	V-type 8 Cylinders		Professionally Tuned								Y								Y			
+Ferrari	250 GT Berlinetta passo corto '61?	1961	470.36	CM		Italy	FR	NA	8300000	275	960	4150	1690	1260	Tipo168-comp/61	2953	V-type 12 Cylinders		Road Car																			
+Ferrari	250 GTO? '62?	1962	535.17	CS		Italy	FR	NA	20000000	295	880	4325	1600	1210	Tipo168-comp/62	2953	V-type 12 Cylinders		Racing Car																			
+Ferrari	308 GTB? '75?	1975	469.51	CM	Y	Italy	MR	NA	174500	251	1090	4230	1720	1120	F106AB	2927	V-type 8 Cylinders		Road Car																Y			
+Ferrari	330 P4? '67?	1967	703.91	RH		Italy	MR	NA	9500000	448	792	4185	1810	1000	Tipo237	3967	V-type 12 Cylinders		Racing Car											Y					Y			
+Ferrari	365 GTB4? '71?	1971	541	CS		Italy	FR	NA	690000	347	1200	4425	1760	1245	Tipo251	4390	V-type 12 Cylinders		Road Car																			
+Ferrari	458 Italia? '09?	2009	612.73	SH		Italy	MR	NA	283000	563	1485	4527	1937	1213	F136F	4499	V-type 8 Cylinders		Road Car																Y			
+Ferrari	458 Italia Gr.4?	0	632.71	RH		Italy	MR	NA	350000	374	1350	4554	1937	1153	V8-458-Gr.4	4499	V-type 8 Cylinders	Gr.4	Racing Car																Y			
+Ferrari	458 Italia GT3? '13?	2013	730.41	RH		Italy	MR	NA	450000	542	1215	4599	2034	1157	F136	4497	V-type 8 Cylinders	Gr.3	Racing Car																Y			
+Ferrari	500 Mondial Pinin Farina Coupe? '54?	1954	486.02	SH		Italy	FR	NA	2700000	168	720	3937	1638	965	Lampredi	1985	Inline 4 Cylinders		Road Car																		Y	
+Ferrari	512BB? '76?	1976	533.06	CS		Italy	MR	NA	280600	354	1400	4400	1830	1120	F102B	4942	Flat 12 Cylinders		Road Car																Y			
+Ferrari	Dino 246GT? '71?	1971	440.34	CM		Italy	MR	NA	352300	191	1080	4235	1700	1135	Tipo135CS	2418	V-type 6 Cylinders		Road Car																Y			
+Ferrari	Enzo Ferrari? '02?	2002	652.11	SH		Italy	MR	NA	2500000	658	1255	4702	2035	1147	F140B	5998	V-type 12 Cylinders		Road Car																Y			
+Ferrari	F12berlinetta? '12?	2012	637.13	SH		Italy	FR	NA	373000	730	1525	4618	1942	1273	F140FC	6262	V-type 12 Cylinders		Road Car																			
+Ferrari	F40? '92?	1992	597.31	SH		Italy	MR	T	3000000	471	1100	4358	1970	1124	F120A	2946	V-type 8 Cylinders		Road Car																Y			
+Ferrari	F430? '06?	2006	592.17	SH		Italy	MR	NA	243200	495	1450	4512	1923	1204	F136E	4308	V-type 8 Cylinders		Road Car																Y			
+Ferrari	F50? '95?	1995	610.03	SH		Italy	MR	NA	4300000	511	1230	4480	1986	1120	F130B	4698	V-type 12 Cylinders		Road Car																Y			
+Ferrari	F8 Tributo? '19?	2019	680.12	SM		Italy	MR	T	330500	710	1330	4611	1979	1206	F154CG	3902	V-type 8 Cylinders		Road Car																Y			
+Ferrari	FXX K? '14?	2014	780.25	RH		Italy	MR	NA	3600000	1034	1165	4896	2051	1116	F140	6262	V-type 12 Cylinders		Road Car	Y						Y									Y			
+Ferrari	GTO? '84?	1984	559.21	CS	Y	Italy	MR	T	3550000	393	1160	4290	1910	1120	F114-B000	2855	V-type 8 Cylinders		Road Car																Y			
+Ferrari	LaFerrari? '13?	2013	714.96	SM		Italy	MR	NA	1600000	949	1255	4702	1992	1116	F140FE	6262	V-type 12 Cylinders		Road Car							Y									Y			
+Ferrari	Testarossa? '91?	1991	526.29	CS		Italy	MR	NA	369300	384	1506	4485	1976	1130	F113B	4943	Flat 12 Cylinders		Road Car																Y			
+Ferrari	VGT	2022	938.35	RM		Italy	4WD	T	1000000	1363	1250	4688	2330	1045	V6-Ferrari-VGT	3000	V-type 6 Cylinders		Road Car		Y					Y									Y			
+Fiat	500 1.2 8V Lounge SS? '08?	2008	279.95	CM	Y	Italy	FF	NA	17000	65	1010	3545	1625	1515	169A4	1240	Inline 4 Cylinders		Road Car																			
+Fiat	500 F? '68?	1968	85.97	CH	Y	Italy	RR	NA	16700	16	520	2970	1320	1335	100F.000	499	Inline 2 Cylinders		Road Car																			
+Ford	F-150 SVT Raptor? '11?	2011	434.38	CM	Y	USA	4WD	NA	55000	411	2724	5603	2192	1994	Boss-6.2L	6210	V-type 8 Cylinders		Road Car																	Y		
+Ford	Focus Gr.B Rally Car?	0	670.56	RH	Y	USA	4WD	T	450000	538	1260	4416	2000	1569	L4-Focus-Gr.B	1999	Inline 4 Cylinders	Gr.B	Racing Car																			
+Ford	Focus RS? '18?	2018	521.17	SH	Y	USA	4WD	T	41000	350	1557	4389	1821	1473	YVDA	2261	Inline 4 Cylinders		Road Car																			
+Ford	Focus ST? '15?	2015	491.59	SH	Y	USA	FF	T	29250	250	1462	4361	1821	1483	R9DA	1999	Inline 4 Cylinders		Road Car																			
+Ford	GT? '06?	2006	600.06	SH		USA	MR	SC	460000	550	1451	4643	1953	1125	Modular-5.4L	5409	V-type 8 Cylinders		Road Car																Y			
+Ford	GT? '17?	2017	625.5	SH		USA	MR	T	550000	646	1385	4763	2004	1110	EcoBoost-D35	3497	V-type 6 Cylinders		Road Car																Y			
+Ford	GT LM Race Car Spec II?	0	735.94	RH		USA	MR	SC	1600000	606	1130	4613	1950	1106	V8-Ford-GT-LM	5400	V-type 8 Cylinders	Gr.3	Racing Car																Y			
+Ford	GT LM Spec II Test Car?	0	738.49	RH		USA	MR	SC	1200000	590	1165	4643	1953	1125	V8-Ford-GT-LM-Test	5409	V-type 8 Cylinders	Gr.3	Racing Car																Y			
+Ford	GT Race Car? '18?	2018	722.87	RH		USA	MR	T	1000000	527	1200	4763	2045	1030	V6-Ford-GT-Race-'18	3500	V-type 6 Cylinders	Gr.3	Racing Car																Y			
+Ford	GT40 Mk1? '66?	1966	559.92	CS		USA	MR	NA	6700000	354	1080	4191	1778	1029	Windsor-289	4727	V-type 8 Cylinders		Road Car																Y			
+Ford	Mark IV Race Car? '67?	1967	680.98	RH		USA	MR	NA	6750000	503	1000	4343	1791	978	FE-427	6997	V-type 8 Cylinders		Racing Car											Y					Y			
+Ford	Mustang Boss 429? '69?	1969	497.21	SH	Y	USA	FR	NA	323000	374	1614	4760	1824	1280	Lima-429	7030	V-type 8 Cylinders		Road Car																			
+Ford	Mustang Gr.3?	0	702.69	RH		USA	FR	NA	450000	568	1300	4923	2000	1280	V8-Mustang-Gr.3		V-type 8 Cylinders	Gr.3	Racing Car																			
+Ford	Mustang Gr.3 Road Car?	0	570.53	SH	Y	USA	FR	NA	300000	502	1500	4845	2000	1235	V8-Mustang-Gr.3-Road		V-type 8 Cylinders		Road Car																			
+Ford	Mustang Gr.4?	0	630.69	RH		USA	FR	NA	350000	395	1400	4834	1915	1320	Mustang-Gr.4		--	Gr.4	Racing Car																			
+Ford	Mustang Gr.B Rally Car?	0	647.45	RH	Y	USA	4WD	NA	450000	549	1380	4869	2000	1420	V8-Mustang-Gr.B		V-type 8 Cylinders	Gr.B	Racing Car																			
+Ford	Mustang GT? '15?	2015	537.25	SH	Y	USA	FR	NA	44310	434	1681	4783	1915	1365	Coyote-5.0L	4951	V-type 8 Cylinders		Road Car																			
+Ford	Mustang Mach 1? '71?	1971	438.66	CM	Y	USA	FR	NA	44200	302	1615	4813	1882	1273	Cleveland-351-Mcode	5752	V-type 8 Cylinders		Road Car																			
+Ford	Roadster?	1963	411	CM	Y	USA	FR	NA	400000	179	1115	3734	1664	1422	FirePower-331	5424	V-type 8 Cylinders		Road Car																			
+Ford	Shelby GT350R? '16?	2016	571.29	SH	Y	USA	FR	NA	75000	525	1658	4818	1928	1361	Voodoo-5.2L	5163	V-type 8 Cylinders		Road Car																			
+Ford	Sierra Cosworth RS 500 '87	1987	464.09	CS	Y	USA	FR	T	200000	223	1207	4459	1728	1376	YBD	1993	Inline 4 Cylinders		Road Car																			
+Genesis	G70 3.3T AWD P. Package? '22?	2022	505.53	SH	Y	South Korea	4WD	T	56500	366	1815	4684	1849	1392	Lambda-II-T-GDi	3342	V-type 6 Cylinders		Road Car																			
+Genesis	G70 GR4?	0	639.04	RH		South Korea	4WD	T	350000	414	1400	4730	1883	1377	V6-G70-Gr.4	3342	V-type 6 Cylinders	Gr.4	Racing Car																			
+Genesis	Genesis X GR3?	0	711.02	RH		South Korea	FR	T	450000	547	1280	4924	1992	1330	V6-Genesis-X	3342	V-type 6 Cylinders	Gr.3	Racing Car																			
+Gran Turismo	F1500T-A?	0	940.22	RS		Other	MR	T	1000000	986	540	4235	2146	1003	V6-F1500T-A		V-type 6 Cylinders		Racing Car																Y			
+Gran Turismo	Racing Kart 125 Shifter?	0	584.07	SS		Other	MR	NA	10000	49	105	2030	1368	545	Single-Cylinder-Kart-125		--		Racing Car														Y		Y			
+Gran Turismo	Red Bull X2014 Junior?	2014	675.41	RH		Other	MR	NA	350000	246	550	4399	1824	1000	L4-X2014-Junior	2000	Inline 4 Cylinders		Racing Car																Y			
+Gran Turismo	Red Bull X2014 Standard?	2014	1050.75	RS		Other	MR	T	3000000	798	650	5098	2164	1000	V6-X2014-Standard	2000	V-type 6 Cylinders		Racing Car																Y			
+Gran Turismo	Red Bull X2019 25th Anniversary	2019	943.84	RM		Other	MR	NA	3000000	804	650	5098	2164	1000	X2019		--		Racing Car																Y			
+Gran Turismo	Red Bull X2019 Competition?	2019	943.84	RM		Other	MR	NA	3000000	804	650	5098	2164	1000	X2019		--		Racing Car																Y			
+GReddy	Fugu Z?	0	532.29	SH		USA	FR	NA	300000	294	1100	4140	1826	1285	RB26DE	2593	Inline 6 Cylinders		Professionally Tuned								Y											
+Honda	2-4 powered by RC213V?	2015	569.14	SH		Japan	MR	NA	1000000	211	405	3020	1820	995	SE75E	999	V-type 4 Cylinders		Road Car			Y													Y			
+Honda	Beat? '91?	1991	307.95	CM	Y	Japan	MR	NA	15000	63	760	3295	1395	1175	E07A	656	Inline 3 Cylinders		Road Car					Y											Y			
+Honda	Civic Type R (EK)? '97?	1997	436.09	CS	Y	Japan	FF	NA	51200	176	1050	4180	1695	1360	B16B	1595	Inline 4 Cylinders		Road Car																			
+Honda	Civic Type R (EK)? '98?	1998	437.6	CS	Y	Japan	FF	NA	53500	181	1050	4185	1695	1360	B16B	1595	Inline 4 Cylinders		Road Car																			
+Honda	Civic Type R (EK9) Touring Car?	1997	541.08	SH		Japan	FF	NA	116000	247	845	4180	1695	1305	B16B	1595	Inline 4 Cylinders		Professionally Tuned																			
+Honda	Civic Type R (FK2)? '15?	2015	515.61	SH	Y	Japan	FF	T	42800	305	1380	4390	1880	1460	K20C1	1995	Inline 4 Cylinders		Road Car																			
+Honda	Civic Type R Limited Edition (FK8)? '20?	2020	523.93	SH	Y	Japan	FF	T	55000	315	1370	4560	1875	1435	K20C1	1995	Inline 4 Cylinders		Road Car																			
+Honda	Fit Hybrid? '14?	2014	339.33	CM	Y	Japan	FF	NA	16800	138	1080	3955	1695	1525	LEB	1496	Inline 4 Cylinders		Road Car							Y												
+Honda	Integra Type R (DC2)? '95?	1995	462.02	CS	Y	Japan	FF	NA	67300	197	1060	4380	1695	1320	B18C	1787	Inline 4 Cylinders		Road Car																			
+Honda	Integra Type R (DC2)? '98?	1998	463.87	CS	Y	Japan	FF	NA	62500	198	1080	4380	1695	1330	B18C	1797	Inline 4 Cylinders		Road Car																			
+Honda	NSX? '17?	2017	584.48	SH	Y	Japan	4WD	T	230000	570	1780	4490	1940	1215	JNC	3492	V-type 6 Cylinders		Road Car							Y									Y			
+Honda	NSX Concept-GT? '16?	2016	836.21	RM		Japan	MR	T	800000	603	1049	4675	1950	1210	HR-414E	1995	Inline 4 Cylinders	Gr.2	Racing Car										Y						Y			
+Honda	NSX Gr.3?	0	720.32	RH		Japan	MR	T	450000	568	1300	4613	2036	1169	V6-NSX-Gr.3		V-type 6 Cylinders	Gr.3	Racing Car																Y			
+Honda	NSX Gr.4?	0	639.1	RH		Japan	MR	T	350000	557	1300	4646	2219	1101	V6-NSX-Gr.4	3492	V-type 6 Cylinders	Gr.4	Racing Car																Y			
+Honda	NSX Gr.B Rally Car?	0	666.19	RH	Y	Japan	4WD	T	450000	394	1360	4509	2219	1216	V6-NSX-Gr.B		V-type 6 Cylinders	Gr.B	Racing Car																Y			
+Honda	NSX GT500? '08?	2008	796.65	RM		Japan	MR	NA	800000	518	1150	4610	2000	1100	C32B	3494	V-type 6 Cylinders	Gr.2	Racing Car										Y						Y			
+Honda	NSX Type R? '02?	2002	533.74	SH	Y	Japan	MR	NA	500000	290	1270	4430	1810	1160	C32B	3179	V-type 6 Cylinders		Road Car																Y			
+Honda	NSX Type R? '92?	1992	527.96	SH	Y	Japan	MR	NA	398000	284	1230	4430	1810	1160	C30A	2977	V-type 6 Cylinders		Road Car																Y			
+Honda	RA272 '65	1965	626.39	RH		Japan	MR	NA	2500000	228	498	3950	1675	793	RA272E	1495	V-type 12 Cylinders		Racing Car																Y			
+Honda	S2000? '99?	1999	478.84	CS	Y	Japan	FR	NA	100100	242	1240	4135	1750	1285	F20C	1997	Inline 4 Cylinders		Road Car																			
+Honda	S660? '15?	2015	345.03	CS	Y	Japan	MR	T	19800	63	830	3395	1475	1180	S07A	658	Inline 3 Cylinders		Road Car					Y											Y			
+Honda	S800? '66?	1966	268.43	CH	Y	Japan	FR	NA	44800	68	720	3335	1400	1215	AS800E	791	Inline 4 Cylinders		Road Car																			
+Honda	Sports VGT?	2017	668.14	SM		Japan	MR	T	1000000	403	899	4250	1845	1195	L4-Honda-VGT	1998	Inline 4 Cylinders		Road Car		Y														Y			
+Hyundai	Genesis Coupe 3.8? '13?	2013	513.19	SH	Y	South Korea	FR	NA	33000	343	1557	4630	1864	1384	Lambda-II-RS-MPi	3778	V-type 6 Cylinders		Road Car																			
+Hyundai	Genesis Gr.3?	0	706.98	RH		South Korea	FR	NA	450000	575	1250	4945	2018	1282	Genesis-Gr.3		--	Gr.3	Racing Car																			
+Hyundai	Genesis Gr.4?	0	623.18	RH		South Korea	FR	NA	350000	384	1350	4735	1864	1339	Genesis-Gr.4		--	Gr.4	Racing Car																			
+Hyundai	Genesis Gr.B Rally Car?	0	653.17	RH	Y	South Korea	4WD	NA	450000	499	1250	4806	2080	1424	Genesis-Gr.B		--	Gr.B	Racing Car																			
+Hyundai	N2025 VGT?	2025	939.71	RM		South Korea	4WD	EV	1000000	870	972	4678	2265	933	EV-Hyundai-VGT		--		Racing Car		Y				Y										Y			
+Hyundai	N2025 VGT (Gr.1)?	2025	882.77	RM		South Korea	4WD	NA	1000000	640	972	4678	2265	933	Hyundai-VGT		--	Gr.1	Racing Car		Y														Y			
+Infiniti	Concept VGT?	2014	651.22	SM	Y	USA	FR	NA	1000000	535	1680	4962	2050	1140	V8-Infiniti-VGT	4494	V-type 8 Cylinders		Road Car		Y					Y												
+Italdesign	VGT Off-road Mode	2023	793.38	RH	Y	Italy	4WD	NA	1000000	1219	1000	4600	2100	1350	V10-Italdesign-VGT		V-type 10 Cylinders		Road Car		Y					Y									Y			
+Italdesign	VGT Street Mode	2023	800.45	RH		Italy	4WD	NA	1000000	1219	1000	4600	2100	1200	V10-Italdesign-VGT		V-type 10 Cylinders		Road Car		Y					Y									Y			
+Jaguar	D-Type? '54?	1954	489.48	CM		UK	FR	NA	6000000	249	850	3912	1660	1170	XK6	3442	Inline 6 Cylinders		Racing Car																			
+Jaguar	E-Type Coupe? '61?	1961	443.62	CM		UK	FR	NA	247000	264	1300	4455	1657	1222	XK-3.8L	3781	Inline 6 Cylinders		Road Car																			
+Jaguar	F-type Gr.3?	0	714.63	RH		UK	FR	SC	450000	552	1250	4674	1989	1216	V8-F-type-Gr.3		V-type 8 Cylinders	Gr.3	Racing Car																			
+Jaguar	F-type Gr.4?	0	638.48	RH		UK	FR	SC	350000	399	1350	4609	1925	1256	V8-F-type-Gr.4	4999	V-type 8 Cylinders	Gr.4	Racing Car																			
+Jaguar	F-type R? '14?	2014	569.02	SH		UK	FR	SC	128600	542	1650	4470	1925	1312	AJ133	4999	V-type 8 Cylinders		Road Car																			
+Jaguar	VGT Coupe?	2019	761.72	SM		UK	4WD	EV	1000000	1004	1400	4679	2218	1033	EV-Jaguar-VGT		--		Road Car		Y				Y													
+Jaguar	VGT Roadster?	2022	754.51	SM		UK	4WD	EV	1000000	1004	1400	4679	2218	1033	EV-Jaguar-VGT		--		Road Car		Y				Y													
+Jaguar	VGT SV?	2021	999.22	RM		UK	4WD	EV	1000000	1876	1400	5540	2218	1081	EV-Jaguar-VGT-SV		--		Racing Car		Y				Y													
+Jaguar	XJ13? '66?	1966	681	RH		UK	MR	NA	12000000	510	998	4483	1854	965	V12-XJ13	4994	V-type 12 Cylinders		Racing Car											Y					Y			
+Jaguar	XJR-9? '88?	1988	863.66	RM		UK	MR	NA	2200000	749	894	4800	2000	1030	V12-XJR-9	6995	V-type 12 Cylinders	Gr.1	Racing Car											Y					Y			
+Jeep	Willys MB? '45?	1945	180.07	CH	Y	USA	4WD	NA	30100	60	1113	3360	1575	1822	L-Head-134	1113	Inline 4 Cylinders		Road Car																			
+KTM	X-Bow R? '12?	2012	589.6	SH	Y	Austria	MR	T	100000	298	790	3738	1920	1205	EA888-2.0T	1984	Inline 4 Cylinders		Road Car																Y			
+Lamborghini	Aventador LP 700-4? '11?	2011	622.85	SH		Italy	4WD	NA	400000	690	1575	4780	2030	1136	L539	6498	V-type 12 Cylinders		Road Car																Y			
+Lamborghini	Aventador LP 750-4 SV? '15?	2015	657.72	SM		Italy	4WD	NA	500000	739	1525	4835	2030	1136	L539	6498	V-type 12 Cylinders		Road Car																Y			
+Lamborghini	Countach 25th Anniversary? '88?	1988	532.05	CS		Italy	MR	NA	713300	449	1490	4140	2000	1070	L507-V4	5167	V-type 12 Cylinders		Road Car																Y			
+Lamborghini	Countach LP400? '74?	1974	555.86	CS		Italy	MR	NA	1250000	373	1065	4140	1890	1070	V406	3929	V-type 12 Cylinders		Road Car																Y			
+Lamborghini	Diablo GT? '00?	2000	598.62	SH		Italy	MR	NA	847500	571	1490	4430	2040	1115	L532	5992	V-type 12 Cylinders		Road Car																Y			
+Lamborghini	Huracan Gr.4?	0	649.3	RH		Italy	4WD	NA	350000	404	1365	4539	1943	1141	V10-Huracan-Gr.4	5204	V-type 10 Cylinders	Gr.4	Racing Car																Y			
+Lamborghini	Huracan GT3? '15?	2015	737.22	RH		Italy	MR	NA	450000	576	1230	4458	2050	1130	DGF	5204	V-type 10 Cylinders	Gr.3	Racing Car																Y			
+Lamborghini	Huracan LP 610-4? '15?	2015	625.48	SH		Italy	4WD	NA	297000	601	1422	4459	1923	1165	DKB	5204	V-type 10 Cylinders		Road Car																Y			
+Lamborghini	Lambo V12 VGT?	2020	792.71	SS		Italy	4WD	NA	1000000	774	819	4730	2116	960	V12-Lambo-VGT	6498	V-type 12 Cylinders		Road Car		Y					Y									Y			
+Lamborghini	Miura P400 Bertone Prototype CN.0706? '67?	1967	565.11	SH		Italy	MR	NA	3500000	349	980	4360	1760	1050	L400	3929	V-type 12 Cylinders		Road Car																Y		Y	
+Lamborghini	Murcielago LP 640? '09?	2009	604.23	SH		Italy	4WD	NA	385600	631	1665	4610	2058	1135	L535	6496	V-type 12 Cylinders		Road Car																Y			
+Lamborghini	Veneno? '14?	2014	687.36	SM		Italy	4WD	NA	3640000	739	1450	5019	2075	1171	L539	6498	V-type 12 Cylinders		Road Car	Y															Y			
+Lancia	Delta HF Integrale Evoluzione? '91?	1991	407.57	CM	Y	Italy	4WD	T	107900	209	1350	3900	1770	1365	831E5.000	1995	Inline 4 Cylinders		Road Car																			
+Lancia	Stratos? '73?	1973	443.96	CM	Y	Italy	MR	NA	532100	185	980	3710	1750	1114	829A.000	2418	V-type 6 Cylinders		Road Car																Y			
+Lexus	LC500? '17?	2017	547.82	SH		Japan	FR	NA	150000	469	1940	4770	1920	1345	2UR-GSE	4968	V-type 8 Cylinders		Road Car																			
+Lexus	LF-LC GT VGT?	2015	819.33	RM		Japan	FR	T	1000000	612	1075	5040	2103	1216	LF-LC-GT-VGT		--		Racing Car		Y					Y												
+Lexus	RC F? '14?	2014	548.77	SH		Japan	FR	NA	95300	469	1790	4705	1850	1390	2UR-GSE	4968	V-type 8 Cylinders		Road Car																			
+Lexus	RC F Gr.4?	0	634.46	RH		Japan	FR	NA	350000	419	1400	4760	1850	1345	V8-RC-F-Gr.4	4968	V-type 8 Cylinders	Gr.4	Racing Car																			
+Lexus	RC F GT3? '17	2017	705.5	RH		Japan	FR	NA	450000	535	1300	4846	2030	1310	2UR-GSE	5407	V-type 8 Cylinders	Gr.3	Racing Car																			
+Lexus	RC F GT3 prototype? '16?	2016	702.77	RH		Japan	FR	NA	450000	527	1300	4900	2040	1310	2UR-GSE	5327	V-type 8 Cylinders	Gr.3	Racing Car																			
+Lexus	RC F GT500? '16?	2016	836.21	RM		Japan	FR	T	800000	614	1020	5100	1950	1228	RI4AG	2000	Inline 4 Cylinders	Gr.2	Racing Car										Y									
+Lexus	SC430 GT500? '08?	2008	792.55	RM		Japan	FR	NA	800000	516	1100	4700	1925	1200	3UZ-FE	4480	V-type 8 Cylinders	Gr.2	Racing Car										Y									
+Maserati	A6GCS-53 Spyder? '54?	1954	495.34	CS		Italy	FR	NA	2900000	166	740	3840	1530	1400	A6TR-2.0	1986	Inline 6 Cylinders		Racing Car																		Y	
+Maserati	GranTurismo S? '08?	2008	539.48	SH		Italy	FR	NA	167000	439	1780	4881	1915	1353	F136YE	4691	V-type 8 Cylinders		Road Car																			
+Maserati	Merak SS '80	1980	417.33	CM		Italy	MR	NA	75000	216	1420	4330	1768	1134	AM114.53.30	2965	V-type 6 Cylinders		Road Car																Y			
+Mazda	3 X Burgundy Selection '19	2019	418.76	CS	Y	Japan	4WD	NA	37000	177	1480	4460	1795	1440	HF-VPH	1997	Inline 4 Cylinders		Road Car																			
+Mazda	787B? '91?	1991	842.5	RM		Japan	MR	NA	2200000	690	830	4782	1994	1003	R26B	654x4 cc	4 Rotors	Gr.1	Racing Car											Y					Y			
+Mazda	Atenza Gr.3?	0	703.82	RH		Japan	FR	T	450000	567	1280	5080	2050	1380	L4-Atenza-Gr.3		Inline 4 Cylinders	Gr.3	Racing Car																			
+Mazda	Atenza Gr.3 Road Car?	0	572.85	SH	Y	Japan	FR	T	300000	483	1450	4990	2050	1380	L4-Atenza-Gr.3-Road		Inline 4 Cylinders		Road Car																			
+Mazda	Atenza Gr.4?	0	610.34	RH		Japan	4WD	T	350000	393	1380	4990	1840	1365	L4-Atenza-Gr.4	2188	Inline 4 Cylinders	Gr.4	Racing Car																			
+Mazda	Atenza Sedan XD L Package? '15?	2015	374.68	CM	Y	Japan	4WD	T	39690	172	1600	4865	1840	1450	SH-VPTR	2188	Inline 4 Cylinders		Road Car																			
+Mazda	Demio XD Touring? '15?	2015	322.99	CM	Y	Japan	FF	T	19500	103	1080	4060	1695	1500	S5-DPTS	1498	Inline 4 Cylinders		Road Car																			
+Mazda	Eunos Roadster (NA?) '89?	1989	369.25	CM	Y	Japan	FR	NA	28400	117	940	3970	1675	1235	B6-ZE[RS]	1597	Inline 4 Cylinders		Road Car																			
+Mazda	LM55 VGT?	2014	926.93	RM		Japan	4WD	NA	1000000						LM55-VGT		--		Racing Car		Y														Y			
+Mazda	LM55 VGT (Gr.1)?	2014	895.16	RM		Japan	4WD	NA	1000000	641	880	4750	2035	860	LM55-VGT-Gr.1		--	Gr.1	Racing Car		Y														Y			
+Mazda	Roadster NR-A (ND) '22	2022	417.33	CS	Y	Japan	FR	NA	31000	130	1010	3915	1735	1235	P5-VP[RS]	1496	Inline 4 Cylinders		Road Car																			
+Mazda	Roadster S (ND)? '15?	2015	414.26	CS	Y	Japan	FR	NA	24950	128	990	3915	1735	1235	P5-VP[RS]	1496	Inline 4 Cylinders		Road Car																			
+Mazda	Roadster Touring Car?	0	526.78	SH		Japan	FR	NA	90000	205	795	3968	1782	1189	B6-ZE[RS]		Inline 4 Cylinders		Professionally Tuned																			
+Mazda	RX 500? '70?	1970	469.41	CM	Y	Japan	MR	NA	600000	247	850	4330	1720	1065	10A	491x2 cc	2 Rotors		Road Car																Y			
+Mazda	RX-7 GT-X (FC)? '90?	1990	456.6	CS	Y	Japan	FR	T	56500	203	1250	4335	1690	1270	13B-T	654x2 cc	2 Rotors		Road Car																			
+Mazda	RX-7 Spirit R Type A (FD)? '02?	2002	518.17	SH	Y	Japan	FR	T	250000	292	1270	4285	1760	1230	13B-REW	654x2 cc	2 Rotors		Road Car																			
+Mazda	RX-8 Spirit R? '12?	2012	491.22	SH	Y	Japan	FR	NA	32500	230	1350	4470	1770	1340	13B-MSP	654x2 cc	2 Rotors		Road Car																			
+Mazda	RX-Vision? '15?	2015	618.91	SH		Japan	FR	NA	1000000	517	1290	4389	1926	1160	4-Rotor-RX-Vision		4 Rotors		Road Car			Y																
+Mazda	RX-Vision GT3 Concept?	2020	726.17	RH		Japan	FR	NA	450000	562	1250	4590	2075	1120	RX-Vision-GT3		--	Gr.3	Racing Car																			
+Mazda	RX-Vision GT3 Concept Stealth Model	0	726.17	RH		Japan	FR	NA	450000	562	1250	4590	2075	1120	RX-Vision-GT3		--	Gr.3	Racing Car																			
+McLaren	650S? '14?	2014	629.76	SH		UK	MR	T	340000	641	1330	4512	1908	1199	M838T	3799	V-type 8 Cylinders		Road Car																Y			
+McLaren	650S Gr.4?	0	635.7	RH		UK	MR	T	350000	399	1300	4575	1908	1156	V8-650S-Gr.4	3799	V-type 8 Cylinders	Gr.4	Racing Car																			
+McLaren	650S GT3? '15?	2015	714.42	RH		UK	MR	T	450000	542	1240	4534	2040	1196	M838T	3799	V-type 8 Cylinders	Gr.3	Racing Car																			
+McLaren	F1? '94?	1994	640.95	SH		UK	MR	NA	20000000	626	1140	4288	1820	1140	S70/2	6064	V-type 12 Cylinders		Road Car																Y			
+McLaren	F1 GTR - BMW '95?	1995	749.06	RH		UK	MR	NA	11400000	600	1050	4292	1820	1140	S70/2	6064	V-type 12 Cylinders	Gr.3	Racing Car											Y					Y			
+McLaren	MP4-12C? '10?	2010	619.65	SH		UK	MR	T	225000	600	1350	4509	1908	1199	M838T		V-type 8 Cylinders		Road Car																Y			
+McLaren	MP4/4 '88	1988	894.74	RM		UK	MR	T	8000000	675	540	4394	2134	940	RA168E-XE2	1494	V-type 6 Cylinders		Racing Car																Y			
+McLaren	P1 GTR? '16?	2016	718.18	RH		UK	MR	T	3600000	986	1345	4588	1946	1138	M838TQ	3799	V-type 8 Cylinders		Racing Car							Y									Y			
+McLaren	VGT?	2017	937.89	RM		UK	MR	T	1000000	1134	900	4288	1950	989	V8-McLaren-VGT	3998	V-type 8 Cylinders		Racing Car		Y					Y									Y			
+McLaren	VGT (Gr.1)?	2017	878.55	RM		UK	MR	T	1000000	936	900	4288	1950	989	V8-McLaren-VGT-Gr.1	3998	V-type 8 Cylinders	Gr.1	Racing Car		Y					Y									Y			
+Mercedes-Benz	300 SL (W194)? '52?	1952	434.84	CM		Germany	FR	NA	20000000	178	1080	4220	1790	1265	M194	2996	Inline 6 Cylinders		Racing Car																			
+Mercedes-Benz	300 SL Coupe? '54?	1954	412.97	CM		Germany	FR	NA	1700000	212	1295	4520	1790	1300	M198	2996	Inline 6 Cylinders		Road Car																			
+Mercedes-Benz	CLK-LM? '98?	1998	809.12	RM		Germany	MR	NA	6500000	599	940	4900	1999	1129	M119-GT108B		V-type 8 Cylinders	Gr.2	Racing Car											Y					Y			
+Mercedes-Benz	S Barker Tourer? '29?	1929	342.6	CH		Germany	FR	SC	13000000	177	1270	4700	1700	1600	M06	6800	Inline 6 Cylinders		Road Car																		Y	
+Mercedes-Benz	Sauber Mercedes C9? '89?	1989	852.2	RM		Germany	MR	T	3000000	710	893	4700	1980	1050	M119HL	4973	V-type 8 Cylinders	Gr.1	Racing Car											Y					Y			
+Mercedes-Benz	Mercedes-Benz? SLR McLaren? '09?	2009	596.78	SH		Germany	FR	SC	600000	616	1768	4656	1908	1261	M155	5439	V-type 8 Cylinders		Road Car																			
+MINI	Clubman VGT?	2015	648.11	RH	Y	Germany	4WD	T	1000000	388	1050	4389	1920	1389	MINI-VGT		--		Racing Car		Y																	
+MINI	Cooper S? '05?	2005	436.98	CS	Y	Germany	FF	SC	28500	167	1180	3655	1690	1455	Tritec-T16b4	1598	Inline 4 Cylinders		Road Car																			
+MINI	Cooper 'S'? '65?	1965	257.5	CH	Y	Germany	FF	NA	39900	64	605	3054	1410	1346	9F	970	Inline 4 Cylinders		Road Car																			Mini
+Mitsubishi	Concept XR-PHEV Evolution VGT?	2014	681.83	RH	Y	Japan	4WD	T	1000000	502	1350	4462	2262	1352	V6-XR-PHEV-Evo-VGT	3000	V-type 6 Cylinders		Racing Car		Y					Y												
+Mitsubishi	GTO Twin Turbo? '91?	1991	473.34	CS	Y	Japan	4WD	T	48900	285	1700	4555	1840	1285	6G72	2972	V-type 6 Cylinders		Road Car																			
+Mitsubishi	Lancer Evolution Final? '15?	2015	511.88	SH	Y	Japan	4WD	T	60000	309	1530	4495	1810	1480	4B11	1998	Inline 4 Cylinders		Road Car																			
+Mitsubishi	Lancer Evolution Final Gr.3?	0	710.29	RH		Japan	FR	T	450000	610	1290	4712	2044	1337	Evo-Gr.3		--	Gr.3	Racing Car																			
+Mitsubishi	Lancer Evolution Final Gr.4?	0	622.38	RH		Japan	4WD	T	350000	389	1330	4559	1812	1422	L4-Evo-Final-Gr.4	1998	Inline 4 Cylinders	Gr.4	Racing Car																			
+Mitsubishi	Lancer Evolution Final Gr.B Rally Car?	0	650.65	RH	Y	Japan	4WD	T	450000	521	1290	4652	2044	1447	Evo-Final-Gr.B		--	Gr.B	Racing Car																			
+Mitsubishi	Lancer Evolution Final Gr.B Road Car?	0	556.06	SH	Y	Japan	4WD	T	300000	473	1425	4627	2044	1348	Evo-Final-Gr.B-Road		--		Road Car																			
+Mitsubishi	Lancer Evolution IV? '96?	1996	478.61	CS	Y	Japan	4WD	T	45300	273	1350	4330	1690	1415	4G63T	1997	Inline 4 Cylinders		Road Car																			
+Mitsubishi	Lancer Evolution V GSR? '98?	1998	500.15	CS	Y	Japan	4WD	T	67100	306	1360	4350	1770	1415	4G63T	1997	Inline 4 Cylinders		Road Car																			
+Mitsubishi	Lancer Evolution VI Tommi Makkinen Edition? '99?	1999	505.35	SH	Y	Japan	4WD	T	162400	311	1360	4350	1770	1405	4G63T	1997	Inline 4 Cylinders		Road Car																			
+Nissan	180SX Type X? '96?	1996	458.14	CS	Y	Japan	FR	T	53500	203	1220	4520	1695	1290	SR20DET	1998	Inline 4 Cylinders		Road Car																			Silvia
+Nissan	Concept 2020 VGT?	2015	685.71	SM		Japan	4WD	T	1000000						V6-Nissan-VGT		V-type 6 Cylinders		Road Car		Y					Y												
+Nissan	Fairlady Z (S30) Z432? '69?	1969	401.29	CM	Y	Japan	FR	NA	190000	157	1040	4115	1630	1290	S20	1989	Inline 6 Cylinders		Road Car																			
+Nissan	Fairlady Z (Z32) 300ZX TwinTurbo 2seater? '89?	1989	478.64	CS	Y	Japan	FR	T	52900	276	1510	4310	1790	1250	VG30DETT	2960	V-type 6 Cylinders		Road Car																			
+Nissan	Fairlady Z (Z34)? '08?	2008	515.65	SH	Y	Japan	FR	NA	43750	331	1530	4250	1845	1315	VQ36VHR	3696	V-type 6 Cylinders		Road Car																			
+Nissan	Fairlady Z 240ZG (HS30)? '71?	1971	397.51	CM	Y	Japan	FR	NA	99100	147	1010	4305	1690	1285	L24	2392	Inline 6 Cylinders		Road Car																			
+Nissan	Fairlady Z Version S (Z33)? '07?	2007	516.28	SH	Y	Japan	FR	NA	36300	310	1480	4315	1815	1315	VQ35HR	3498	V-type 6 Cylinders		Road Car																			
+Nissan	GT-R? '17?	2017	588.71	SH	Y	Japan	4WD	T	94770	564	1770	4710	1895	1370	VR38DETT		V-type 6 Cylinders		Road Car																			GT-R
+Nissan	GT-R Gr.4?	0	633.21	RH		Japan	4WD	T	350000	428	1450	4780	1895	1335	V6-GT-R-Gr.4		V-type 6 Cylinders	Gr.4	Racing Car																			
+Nissan	GT-R Gr.B Rally Car?	0	656.3	RH	Y	Japan	4WD	T	450000	542	1350	4780	2036	1350	V6-GT-R-Gr.B	3799	V-type 6 Cylinders	Gr.B	Racing Car																			
+Nissan	GT-R GT500? '08?	2008	796.61	RM		Japan	FR	NA	1000000	527	1100	4800	2000	1100	VK45DE	4498	V-type 8 Cylinders	Gr.2	Racing Car										Y									
+Nissan	GT-R GT500? '99?	1999	708	RH		Japan	FR	T	2700000	498	1200	4600	1885	1220	RB26DETT	2708	Inline 6 Cylinders	Gr.3	Racing Car										Y									
+Nissan	GT-R LM NISMO? '15?	2015	876.51	RM		Japan	FF	T	1000000	604	880	4650	1896	1050	VRX30A	3000	V-type 6 Cylinders	Gr.1	Racing Car							Y				Y								
+Nissan	GT-R Nismo? '17?	2017	616.69	SM	Y	Japan	4WD	T	187000	591	1740	4690	1895	1370	VR38DETT	3799	V-type 6 Cylinders		Road Car																			GT-R
+Nissan	GT-R Nismo GT3? '13?	2013	695.41	RH		Japan	FR	T	450000	591	1300	4780	2036	1350	VR38DETT	3799	V-type 6 Cylinders	Gr.3	Racing Car												Y							
+Nissan	GT-R Nismo GT3 '18	2018	711.81	RH		Japan	FR	T	600000	576	1285	4832	2036	1350	VR38DETT	3799	V-type 6 Cylinders	Gr.3	Racing Car																			
+Nissan	GT-R NISMO GT500? '16?	2016	835.67	RM		Japan	FR	T	800000	612	1020	4775	1950	1190	NR20A	1998	Inline 4 Cylinders	Gr.2	Racing Car										Y									
+Nissan	GT-R Safety Car?	0	590.87	SH		Japan	4WD	T	130000	564	1740	4710	1895	1370	VR38DETT		V-type 6 Cylinders		Road Car				Y															
+Nissan	R32 GT-R V-Spec II? '94?	1994	506.64	SH	Y	Japan	4WD	T	176000	306	1500	4545	1755	1340	RB26DETT	2568	Inline 6 Cylinders		Road Car																			GT-R
+Nissan	R33 GT-R V-Spec? '97?	1997	510.49	SH	Y	Japan	4WD	T	158700	319	1540	4675	1780	1360	RB26DETT	2568	Inline 6 Cylinders		Road Car																			GT-R
+Nissan	R34 GT-R V-Spec II N�r? '02?	2002	517.76	SH	Y	Japan	4WD	T	450000	336	1560	4600	1785	1360	RB26DETT	2568	Inline 6 Cylinders		Road Car																			GT-R
+Nissan	R92CP? '92?	1992	850	RM		Japan	MR	T	3000000	788	900	4800	1990	1100	VRH35Z	3496	V-type 8 Cylinders	Gr.1	Racing Car											Y					Y			
+Nissan	Sileighty? '98?	1998	462.17	CS	Y	Japan	FR	T	78600	203	1170	4470	1690	1290	SR20DET	1998	Inline 4 Cylinders		Road Car																			Silvia
+Nissan	Silvia K's Aero (S14) '96	1996	470.55	SH	Y	Japan	FR	T	60000	216	1250	4520	1730	1295	SR20DET	1998	Inline 4 Cylinders		Road Car																			Silvia
+Nissan	Silvia K's Dia Selection (S13)? '90?	1990	406.74	CM	Y	Japan	FR	T	47000	171	1140	4470	1690	1290	CA18DET	1809	Inline 4 Cylinders		Road Car																			Silvia
+Nissan	Silvia K's Type S (S14) '94	1994	472.25	SH	Y	Japan	FR	T	60000	216	1220	4500	1730	1295	SR20DET	1998	Inline 4 Cylinders		Road Car																			Silvia
+Nissan	Silvia Qs? (S13) '88?	1988	371.71	CM	Y	Japan	FR	T	32700	132	1090	4470	1690	1290	CA18DE	1809	Inline 4 Cylinders		Road Car																			Silvia
+Nissan	Silvia spec-R Aero (S15)? '02?	2002	489.42	SH	Y	Japan	FR	T	68000	246	1240	4445	1695	1285	SR20DET	1998	Inline 4 Cylinders		Road Car																			Silvia
+Nissan	Silvia spec-R Aero (S15) Touring Car?	0	635.88	RH		Japan	FR	T	350000	355	1000	4445	1695	1280	SR20DET	1998	Inline 4 Cylinders	Gr.4	Racing Car																			
+Nissan	Skyline 2000GT-R (KPGC110) '73	1973	381.49	CM	Y	Japan	FR	NA	542000	157	1145	4460	1695	1380	S20	1989	Inline 6 Cylinders		Road Car																			
+Nissan	Skyline Hard Top 2000 GT-R (KPGC10)? '70?	1970	389.09	CM	Y	Japan	FR	NA	170000	157	1100	4330	1665	1370	S20	1989	Inline 6 Cylinders		Road Car																			
+Nissan	Skyline Super Silhouette? '84?	1984	688.5	RH		Japan	FR	T	1150000	561	1005	5065	1980	1239	LZ20B	2083	Inline 4 Cylinders	Gr.3	Racing Car																			
+Nissan	Z Performance? '23?	2023	541.29	SH	Y	Japan	FR	T	69660	399	1543	4380	1845	1315	VR30DDTT	2997	V-type 6 Cylinders		Road Car																			
+Pagani	Huayra? '13?	2013	674.78	SH		Italy	MR	T	1350000	730	1350	4605	2036	1169	M158	5980	V-type 12 Cylinders		Road Car																Y			
+Pagani	Zonda R? '09?	2009	764.67	RH		Italy	MR	NA	1800000	737	1070	4886	2014	1141	M120-E60	5987	V-type 12 Cylinders		Racing Car			Y													Y			
+Peugeot	205 T16 Evolution II Rally Car? '86?	1986	657.29	RH	Y	France	4WD	T	1100000	448	910	3820	1700	1353	PSA-XU8T	1775	Inline 4 Cylinders	Gr.B	Racing Car													Y			Y			
+Peugeot	208 GTi by Peugeot Sport? '14?	2014	457.4	CS	Y	France	FF	T	30000	204	1200	3975	1740	1460	PSA-EP6	1598	Inline 4 Cylinders		Road Car																			
+Peugeot	908 HDI FAP? '10?	2010	895.34	RM		France	MR	T	1000000	700	930	4610	2000	1030	V12-908HDi-FAP	5500	V-type 12 Cylinders	Gr.1	Racing Car											Y					Y			
+Peugeot	L500R HYbrid VGT? 2017	2017	667.82	SH		France	4WD	T	1000000	509	1000	4936	2000	1003	L500R-VGT		--		Road Car		Y					Y												
+Peugeot	L750R HYbrid VGT? 2017	2017	888.68	RM		France	4WD	T	1000000	693	825	5045	2000	1053	L750R-VGT		--	Gr.1	Racing Car		Y					Y									Y			
+Peugeot	RCZ Gr.3?	0	712.03	RH		France	MR	T	450000	520	1200	4751	2053	1324	L4-RCZ-Gr.3		Inline 4 Cylinders	Gr.3	Racing Car																Y			
+Peugeot	RCZ Gr.3 Road Car?	0	556.62	SH	Y	France	MR	T	300000	468	1400	4751	2053	1324	L4-RCZ-Gr.3-Road		Inline 4 Cylinders		Road Car																Y			
+Peugeot	RCZ Gr.4?	0	623.28	RH		France	FF	T	350000	345	1225	4304	1868	1328	L4-RCZ-Gr.4	1598	Inline 4 Cylinders	Gr.4	Racing Car																			
+Peugeot	RCZ Gr.B Rally Car?	0	659.9	RH	Y	France	4WD	T	450000	516	1200	4864	2053	1423	L4-RCZ-Gr.B		Inline 4 Cylinders	Gr.B	Racing Car																Y			
+Peugeot	RCZ GT Line? '15?	2015	432.26	CS	Y	France	FF	T	46600	152	1350	4290	1845	1360	PSA-EP6	1598	Inline 4 Cylinders		Road Car																			
+Peugeot	VGT?	2015	758.21	RH		France	4WD	T	1000000	873	875	4640	2280	1040	V6-Peugeot-VGT	3200	V-type 6 Cylinders		Racing Car		Y														Y			
+Peugeot	VGT (Gr.3)?	0	704.46	RH		France	MR	T	450000	542	1250	4788	2204	969	V6-Peugeot-VGT-Gr.3	3200	V-type 6 Cylinders	Gr.3	Racing Car		Y														Y			
+Plymouth	Superbird? '70?	1970	456.18	CM	Y	USA	FR	NA	510000	425	1755	5588	1941	1560	Hemi-426	6981	V-type 8 Cylinders		Road Car																			
+Plymouth	XNR Ghia Roadster? '60?	1960	416.93	CM	Y	USA	FR	NA	1600000	250	1500	4902	1854	1092	Slant-6-170	2790	Inline 6 Cylinders		Road Car																		Y	
+Pontiac	Firebird Trans Am? '78?	1978	403.53	CM	Y	USA	FR	NA	96200	219	1640	4999	1864	1257	4A	6558	V-type 8 Cylinders		Road Car																			
+Pontiac	GTO 'The Judge' '69	1969	458.42	CM	Y	USA	FR	NA	210000	364	1610	5118	1925	1328	400-Ram-Air-III	6558	V-type 8 Cylinders		Road Car																			
+Porsche	356 A/1500 GS Carrera? '56?	1956	355.73	CM	Y	Germany	RR	NA	615000	97	840	3950	1670	1310	547/1	1498	Flat 4 Cylinders		Road Car																			
+Porsche	356 A/1500 GS GT Carrera Speedster? '56?	1956	371.1	CM	Y	Germany	RR	NA	1500000	107	840	3950	1670	1220	547/1	1498	Flat 4 Cylinders		Road Car																			
+Porsche	911 996 GT1 Strassenversion? '97?	1997	633.98	SH		Germany	MR	T	9000000	533	1200	4710	1950	1173	M96/80	3164	Flat 6 Cylinders		Road Car																Y			
+Porsche	911 Carrera RS (901) '73	1973	481.31	CS		Germany	RR	NA	745000	206	1075	4102	1652	1320	911/83	2687	Flat 6 Cylinders		Road Car																			
+Porsche	911 Carrera RS (964)? '92?	1992	520.29	SH	Y	Germany	RR	NA	221000	255	1230	4250	1660	1270	M64/03	3600	Flat 6 Cylinders		Road Car																			
+Porsche	911 Carrera RS (993)? '95?	1995	530.21	SH	Y	Germany	RR	NA	226000	295	1270	4245	1730	1270	M64/20	3746	Flat 6 Cylinders		Road Car																			
+Porsche	911 Carrera RS CS (993)? '95?	1995	529.56	SH	Y	Germany	RR	NA	421000	295	1235	4245	1735	1270	M64/20	3746	Flat 6 Cylinders		Road Car																			
+Porsche	911 GT3 (996)? '01?	2001	548.92	SH	Y	Germany	RR	NA	180000	354	1350	4430	1765	1270	M96/76	3600	Flat 6 Cylinders		Road Car																			
+Porsche	911 GT3 (997)? '09?	2009	573.43	SH	Y	Germany	RR	NA	160000	428	1395	4465	1808	1280	M97/77	3797	Flat 6 Cylinders		Road Car																			
+Porsche	911 GT3 RS (991)? '16?	2016	627.66	SM	Y	Germany	RR	NA	253000	491	1420	4545	1900	1290	MA1.76	3996	Flat 6 Cylinders		Road Car																			
+Porsche	911 RSR (991)? '17?	2017	709.76	RH		Germany	MR	NA	450000	509	1243	4557	2048	1290	M97/80	4000	Flat 6 Cylinders	Gr.3	Racing Car																Y			
+Porsche	911 Turbo (930)? '81?	1981	507.12	CS	Y	Germany	RR	NA	215500	295	1300	4291	1775	1280	930/60	3299	Flat 6 Cylinders		Road Car																			
+Porsche	917 Living Legend?	0	800.8	RH		Germany	MR	T	1000000	976	1220	4776	2056	1025	F8-917LL	5000	Flat 8 Cylinders		Racing Car																Y			
+Porsche	917K? '70?	1970	744.18	RH		Germany	MR	NA	18000000	598	800	4120	1980	940	912/10	4907	Flat 12 Cylinders		Racing Car																Y			
+Porsche	918 Spyder? '13?	2013	682.61	SM	Y	Germany	4WD	NA	1600000	874	1674	4645	1940	1168	M18.00	4593	V-type 8 Cylinders		Road Car							Y									Y			
+Porsche	919 Hybrid? '16?	2016	887.48	RM		Germany	4WD	T	3000000	499	875	4650	1990	1150	V4-919	2000	V-type 4 Cylinders	Gr.1	Racing Car							Y									Y			
+Porsche	959 '87	1987	557.43	SH	Y	Germany	4WD	T	1750000	443	1450	4260	1840	1280	959.5	2850	Flat 6 Cylinders		Road Car																			
+Porsche	962 C? '88?	1988	843.53	RM		Germany	MR	T	1500000	690	850	4770	1990	1080	935/82	2649	Flat 6 Cylinders		Racing Car											Y					Y			
+Porsche	Carrera GT? '04?	2004	623.37	SH		Germany	MR	NA	2300000	603	1380	4613	1921	1166	M80/01	5733	V-type 10 Cylinders		Road Car																Y			
+Porsche	Carrera GTS (904) '64	1964	511.64	CS		Germany	MR	NA	2500000	179	650	4090	1540	1065	587/3	1966	Flat 4 Cylinders		Racing Car																Y			
+Porsche	Cayman GT4 '16	2016	570.2	SH		Germany	MR	NA	130000	379	1340	4438	1817	1266	MDB.XA	3800	Flat 6 Cylinders		Road Car																Y			
+Porsche	Cayman GT4 Clubsport? '16?	2016	643.36	RH		Germany	MR	NA	350000	379	1300	4438	2002	1261	MDB.XA	3800	Flat 6 Cylinders	Gr.4	Racing Car																Y			
+Porsche	Spyder Type 550/1500 RS? '55?	1955	436.48	CS		Germany	MR	NA	4500000	108	590	3600	1550	1015	547	1498	Flat 4 Cylinders		Racing Car																Y			
+Porsche	Taycan Turbo S? '19?	2019	600.84	SH		Germany	4WD	EV	230000	751	2295	4963	1966	1356	EBG-EBE		--		Road Car						Y													
+Porsche	VGT?	2021	799.71	RH		Germany	4WD	EV	1000000	1098	1390	4325	1890	1020	EV-Porsche-VGT		--		Road Car		Y				Y													
+Porsche	VGT Spyder	2022	794.27	RH		Germany	4WD	EV	1000000	1098	1390	4325	1890	1020	EV-Porsche-VGT		--		Road Car		Y				Y													
+Radical	SR3 SL? '13?	2013	551.22	SH		UK	MR	T	126500	239	775	4100	1790	1130	R9DA	2000	Inline 4 Cylinders		Road Car																Y			
+RE Amemiya	FD3S RX-7?	0	566.42	SH		Japan	FR	T	100000	366	1240	4300	1760	1200	13B-REW	654x2 cc	2 Rotors		Professionally Tuned																			
+Renault	Clio R.S. 220 Trophy? '15?	2015	471.6	CS	Y	France	FF	T	32000	216	1179	4090	1732	1432	M5M	1618	Inline 4 Cylinders		Road Car																			
+Renault	Clio R.S. 220 Trophy? '16?	2016	470.11	CS	Y	France	FF	T	32000	216	1204	4090	1732	1434	M5M	1618	Inline 4 Cylinders		Road Car																			
+Renault	Clio V6 24v? '00?	2000	468.83	CS	Y	France	MR	NA	89600	229	1335	3803	1810	1365	L7X	2946	V-type 6 Cylinders		Road Car																Y			
+Renault	Megane Gr.4	0	639.92	RH		France	FF	T	350000	350	1100	4299	1848	1388	L4-Megane-Gr.4	1998	Inline 4 Cylinders	Gr.4	Racing Car																			
+Renault	Megane R.S. Trophy? '11?	2011	498.65	SH	Y	France	FF	T	38500	261	1387	4299	1848	1435	F4R	1998	Inline 4 Cylinders		Road Car																			
+Renault	Megane R.S. Trophy Safety Car?	0	499.17	SH		France	FF	T	50000	261	1387	4299	1848	1435	F4R	1998	Inline 4 Cylinders		Road Car																			
+Renault	Megane Trophy? '11?	2011	651.39	RH		France	MR	NA	350000	359	955	4375	1910	1235	V4Y	3498	V-type 6 Cylinders	Gr.4	Racing Car																Y			
+Renault	R.S.01? '16?	2016	731.27	RH		France	MR	T	500000	542	1144	4705	2000	1230	VR38DETT	3799	V-type 6 Cylinders		Racing Car																Y			
+Renault	R.S.01 GT3? '16?	2016	721.61	RH		France	MR	T	450000	534	1220	4705	2000	1230	VR38DETT	3799	V-type 6 Cylinders	Gr.3	Racing Car																Y			
+Renault	R5 Turbo? '80?	1980	405.28	CM	Y	France	MR	T	154200	159	970	3665	1750	1325	Cleon-Fonte-C6J	1397	Inline 4 Cylinders		Road Car																Y			
+Renault	R8 Gordini? '66?	1966	351.93	CM	Y	France	RR	NA	32500	101	850	3988	1486	1308	Gordini-812	1255	Inline 4 Cylinders		Racing Car																			
+Roadster Shop	Rampage?	0	654.35	SM	Y	USA	FR	NA	300000	748	1406	4724	2057	1311	LS7	6997	V-type 8 Cylinders		Professionally Tuned								Y											
+RUF	CTR3? '07?	2007	655.13	SM		Germany	MR	T	900000	690	1400	4445	1944	1200	CTR38	3746	Flat 6 Cylinders		Road Car																Y			
+Shelby	Cobra 427? '66?	1966	580.2	CS	Y	USA	FR	NA	250000	484	1068	3962	1727	1245	FE-427-cammer	6997	V-type 8 Cylinders		Road Car																			
+Shelby	Cobra Daytona Coupe? '64?	1964	556.06	CS		USA	FR	NA	20000000	384	1043	4610	1753	1422	Windsor-289	4728	V-type 8 Cylinders		Racing Car																			
+Shelby	GT350? '65?	1965	465.52	CM	Y	USA	FR	NA	501000	304	1270	4613	1732	1326	Windsor-289-HiPo	4727	V-type 8 Cylinders		Road Car																			
+Subaru	BRZ Drift Car? '17?	2017	632.23	SM		Japan	FR	T	400000	1037	1433	4492	2004	1271	LS7	7816	V-type 8 Cylinders		Racing Car																			
+Subaru	BRZ GT300? '21?	2021	729.38	RH		Japan	FR	T	450000	478	1150	4565	1950	1160	EJ20	1994	Flat 4 Cylinders	Gr.3	Racing Car									Y										
+Subaru	BRZ S? '15?	2015	444.57	CS	Y	Japan	FR	NA	30000	197	1230	4240	1775	1300	FA20	1998	Flat 4 Cylinders		Road Car																			
+Subaru	BRZ S? '21?	2021	489.39	SH	Y	Japan	FR	NA	32670	231	1270	4265	1775	1310	FA24	2387	Flat 4 Cylinders		Road Car																			
+Subaru	BRZ STI Sport? '18?	2018	460.63	SH	Y	Japan	FR	NA	36000	203	1250	4240	1775	1320	FA20	1998	Flat 4 Cylinders		Road Car																			
+Subaru	Impreza 22B-Sti? '98?	1998	502.15	SH	Y	Japan	4WD	T	179700	289	1270	4365	1770	1390	EJ22G	2212	Flat 4 Cylinders		Road Car																			
+Subaru	Impreza Coupe WRX Type R Sti Ver.VI? '99?	1999	481.29	CS	Y	Japan	4WD	T	61500	276	1260	4350	1690	1405	EJ207	1994	Flat 4 Cylinders		Road Car																			
+Subaru	VIZIV GT VGT?	2014	693.45	SM	Y	Japan	4WD	T	1000000	630	1380	4835	1930	1187	F4-VIZIV-GT-VGT	2000	Flat 4 Cylinders		Racing Car		Y					Y												
+Subaru	WRX Gr.3?	0	708.95	RH		Japan	FR	T	450000	591	1280	5065	2040	1319	WRX-Gr.3		--	Gr.3	Racing Car																			
+Subaru	WRX Gr.4?	0	623.6	RH		Japan	4WD	T	350000	377	1320	4595	1795	1423	F4-WRX-Gr.4	1994	Flat 4 Cylinders	Gr.4	Racing Car																			
+Subaru	WRX Gr.B Rally Car?	0	657.69	RH	Y	Japan	4WD	T	450000	521	1280	4692	2038	1409	WRX-Gr.B		--	Gr.B	Racing Car																			
+Subaru	WRX Gr.B Road Car?	0	576.36	SH	Y	Japan	4WD	T	300000	473	1425	5065	2040	1319	WRX-Gr.B-Road		--		Road Car																			
+Subaru	WRX STI Isle of Man? '16?	2016	679.27	RH	Y	Japan	4WD	T	370000	578	1140	4595	1850	1470	EJ20	2000	Flat 4 Cylinders		Racing Car																			
+Subaru	WRX STI Type S? '14?	2014	495.66	SH	Y	Japan	4WD	T	41148	302	1490	4595	1795	1475	EJ20Y	1994	Flat 4 Cylinders		Road Car																			
+Super Formula	SF19 Super Formula - Honda? '19?	2019	953.64	RS		Japan	MR	T	1000000	639	660	5233	1910	960	HR-417E	2000	Inline 4 Cylinders		Racing Car																Y			Super Formula
+Super Formula	SF19 Super Formula - Toyota? '19?	2019	953.64	RS		Japan	MR	T	1000000	639	660	5233	1910	960	TRD-Biz-01F	2000	Inline 4 Cylinders		Racing Car																Y			Super Formula
+Suzuki	Cappuccino (EA11R)? '91?	1991	292.95	CM	Y	Japan	FR	T	20000	62	700	3295	1395	1185	F6A	657	Inline 3 Cylinders		Road Car					Y														
+Suzuki	Swift Sport? '07?	2007	397.14	CS	Y	Japan	FF	NA	16275	123	1060	3765	1690	1510	M16A	1586	Inline 4 Cylinders		Road Car																			
+Suzuki	Swift Sport? '17?	2017	426.05	CS	Y	Japan	FF	T	18360	137	970	3890	1735	1500	K14C	1371	Inline 4 Cylinders		Road Car																			
+Suzuki	Swift Sport Gr.4?	0	651.99	RH		Japan	FF	T	350000	345	900	3991	1820	1466	Swift-Gr.4		--	Gr.4	Racing Car																			
+Suzuki	V6 Escudo Pikes Peak Special? '98?	1998	792.58	RH	Y	Japan	4WD	T	1700000	981	800	5050	1900	1510	H25A	2493	V-type 6 Cylinders		Racing Car															Y	Y			
+Suzuki	VGT?	2022	610.73	SS	Y	Japan	4WD	NA	1000000	426	970	3995	1825	1145	DXA1	1340	Inline 4 Cylinders		Road Car		Y					Y												
+Suzuki	VGT (Gr.3)?	2022	710.47	RH		Japan	FR	T	450000	577	1220	4200	1840	1145	V8-Suzuki-VGT-Gr.3	2680	V-type 8 Cylinders	Gr.3	Racing Car		Y																	
+Tesla	Model S Signature Performance? '12?	2012	536.54	SH		USA	RR	EV	92000	410	2018	4978	1964	1435	L1S		--		Road Car						Y													
+Toyota	2000GT? '67?	1967	397.56	CM	Y	Japan	FR	NA	936000	153	1120	4175	1600	1160	MF10	1988	Inline 6 Cylinders		Road Car																			
+Toyota	86 Gr.4?	0	633.75	RH		Japan	FR	NA	350000	358	1200	4278	1784	1229	B4-86-Gr.4	1998	Flat 4 Cylinders	Gr.4	Racing Car																			
+Toyota	86 Gr.B Rally Car?	0	664.71	RH	Y	Japan	4WD	NA	450000	516	1180	4340	1990	1599	B4-86-Gr.B	1998	Flat 4 Cylinders	Gr.B	Racing Car																			
+Toyota	86 GRMN? '16?	2016	468.27	SH	Y	Japan	FR	NA	64800	214	1220	4287	1775	1300	FA20	1998	Flat 4 Cylinders		Professionally Tuned																			
+Toyota	86 GT? '15?	2015	444.39	CS	Y	Japan	FR	NA	29052	197	1230	4240	1775	1285	FA20	1998	Flat 4 Cylinders		Road Car																			
+Toyota	"86 GT""Limited""? '16?"	2016	448.28	CS	Y	Japan	FR	NA	31840	203	1240	4240	1775	1320	FA20	1998	Flat 4 Cylinders		Road Car																			
+Toyota	Alphard Executive Lounge '18	2018	394.88	CM	Y	Japan	4WD	NA	75000	296	2210	4945	1850	1950	2GR-FKS	3456	V-type 6 Cylinders		Road Car																			
+Toyota	Aqua S? '11?	2011	353.02	CM	Y	Japan	FF	NA	17900	120	1080	3995	1695	1445	1NZ-FXE	1496	Inline 4 Cylinders		Road Car							Y												
+Toyota	Celica GT-Four (ST205)? '95?	1995	467.43	CS	Y	Japan	4WD	T	78600	250	1380	4420	1750	1305	3S-GTE	1998	Inline 4 Cylinders		Road Car																			
+Toyota	Celica GT-FOUR Rally Car (ST205) '95	1995	583.18	RH	Y	Japan	4WD	T	250000	298	1200	4424	1770	1300	3S-GTE-661E	1998	Inline 4 Cylinders	Gr.B	Racing Car													Y						
+Toyota	Corolla Levin 1600GT APEX (AE86)? '83?	1983	370.42	CM	Y	Japan	FR	NA	47400	127	940	4180	1625	1320	4A-GEU	1587	Inline 4 Cylinders		Road Car																			
+Toyota	Crown Athlete G? '13?	2013	489.97	CS	Y	Japan	FR	NA	57500	309	1650	4895	1800	1450	2GR-FSE	3456	V-type 6 Cylinders		Road Car																			
+Toyota	Crown Athlete G Safety Car?	0	486.95	CS		Japan	FR	NA	65000	309	1650	4895	1800	1450	2GR-FSE	3456	V-type 6 Cylinders		Road Car				Y															
+Toyota	FT-1?	2014	598.22	SH		Japan	FR	T	500000						FT-1		--		Road Car			Y																
+Toyota	FT-1 VGT?	2014	752.32	RH		Japan	FR	T	1000000						FT-1-VGT		--		Racing Car		Y					Y												
+Toyota	FT-1 VGT (Gr.3)?	0	706.77	RH		Japan	FR	T	450000	544	1280	5029	2080	1180	FT-1-VGT-Gr.3		--	Gr.3	Racing Car		Y																	
+Toyota	GR Supra Race Car? '19?	2019	638.8	RH		Japan	FR	T	350000	394	1380	4380	1865	1290	GR-Supra-Race		--	Gr.4	Racing Car																			
+Toyota	GR Supra Racing Concept? '18?	2018	723.1	RH		Japan	FR	T	450000	591	1243	4574	2048	1230	GR-Supra-Racing-Concept		--	Gr.3	Racing Car																			
+Toyota	GR Supra RZ? '19?	2019	536.31	SH	Y	Japan	FR	T	70000	335	1520	4380	1865	1295	B58	2998	Inline 6 Cylinders		Road Car																			
+Toyota	GR Supra RZ? '20?	2020	544.59	SH	Y	Japan	FR	T	73000	382	1530	4380	1865	1290	B58	2998	Inline 6 Cylinders		Road Car																			
+Toyota	GR Yaris RZ �High Performance�? '20?	2020	504.79	SH	Y	Japan	4WD	T	45600	268	1290	3995	1805	1455	G16E-GTS	1618	Inline 3 Cylinders		Road Car																			
+Toyota	GR010 Hybrid? '21?	2021	861.89	RM		Japan	4WD	T	3000000	670	1040	4900	2000	1150	V6-GR010	3500	V-type 6 Cylinders	Gr.1	Racing Car							Y				Y					Y			
+Toyota	GR86 RZ? '21?	2021	489.02	SH	Y	Japan	FR	NA	33500	231	1270	4265	1775	1310	FA24	2387	Flat 4 Cylinders		Road Car																			
+Toyota	MR2 GT-S? '97?	1997	481.95	CS	Y	Japan	MR	T	57400	241	1270	4170	1695	1235	3S-GTE	1998	Inline 4 Cylinders		Road Car																Y			
+Toyota	Prius G? '09?	2009	373.35	CM	Y	Japan	FF	NA	24500	120	1350	4460	1745	1490	2ZR-FXE	1797	Inline 4 Cylinders		Road Car							Y												
+Toyota	SF-R? '15?	2015	412.6	CS	Y	Japan	FR	NA	19500	133	1050	3990	1695	1320	L4-S-FR	1500	Inline 4 Cylinders		Road Car			Y																
+Toyota	SF-R Racing Concept? '16?	2016	551.16	SH		Japan	FR	T	200000	349	1150	4100	1735	1270	L4-S-FR-Racing	1500	Inline 4 Cylinders		Professionally Tuned			Y																
+Toyota	Sports 800? '65?	1965	232.8	CH	Y	Japan	FR	NA	51000	43	580	3610	1465	1175	2U	790	Flat 2 Cylinders		Road Car																			
+Toyota	Sprinter Trueno 1600GT APEX (AE86)? '83?	1983	370.4	CM	Y	Japan	FR	NA	48200	127	940	4205	1625	1335	4A-GEU	1587	Inline 4 Cylinders		Road Car																			
+Toyota	Sprinter Trueno 1600GT APEX (S. Shigeno Version)?	2000	510.11	SH	Y	Japan	FR	NA	99000	207	825	4205	1675	1275	4A-GEU		--		Professionally Tuned																			
+Toyota	Supra 3.0 GT Turbo A? '88?	1988	470.19	CS	Y	Japan	FR	T	111800	266	1530	4620	1745	1300	7M-GTEU	2954	Inline 6 Cylinders		Road Car																			
+Toyota	Supra GT500? '97?	1997	713.02	RH		Japan	FR	T	1800000	492	1150	4520	1910	1200	3S-GTE-171F	1998	Inline 4 Cylinders	Gr.3	Racing Car										Y									
+Toyota	Supra RZ (A80)? '97?	1997	511.99	SH	Y	Japan	FR	T	191900	325	1510	4520	1810	1275	2JZ-GTE	2997	Inline 6 Cylinders		Road Car																			
+Toyota	TS030 Hybrid? '12?	2012	872.4	RM		Japan	MR	NA	1000000	529	900	4650	2000	1150	V8-TS030	3400	V-type 8 Cylinders	Gr.1	Racing Car							Y				Y					Y			
+Toyota	TS050 - Hybrid? '16?	2016	879.84	RM		Japan	4WD	T	1000000	493	875	4650	1900	1150	V6-TS050	2400	V-type 6 Cylinders	Gr.1	Racing Car							Y				Y					Y			
+Toyota	Tundra TRD Pro? '19?	2019	421.71	CM	Y	Japan	4WD	NA	62000	379	2555	5815	2030	1930	3UR-FE	5663	V-type 8 Cylinders		Road Car																	Y		
+TVR	Tuscan Speed Six? '00?	2000	562.69	SH	Y	UK	FR	NA	72000	360	1100	4235	1810	1200	SP6	3996	Inline 6 Cylinders		Road Car																			
+Volkswagen	1200? '66?	1966	177.83	CH	Y	Germany	RR	NA	32700	33	780	4070	1540	1500	Type112	1192	Flat 4 Cylinders		Road Car																			
+Volkswagen	Beetle Gr.3?	0	724.38	RH		Germany	FR	T	450000	591	1200	4369	1958	1347	Beetle-Gr.3		--	Gr.3	Racing Car																			
+Volkswagen	Golf I GTI? '83?	1983	353.49	CM	Y	Germany	FF	NA	48300	110	890	3815	1630	1395	EA827-R4(DX)	1781	Inline 4 Cylinders		Road Car																			
+Volkswagen	Golf VII GTI? '14?	2014	461.64	CS	Y	Germany	FF	T	38330	216	1390	4275	1800	1450	CHH	1984	Inline 4 Cylinders		Road Car																			
+Volkswagen	GTI Roadster VGT?	2014	686.6	RH		Germany	4WD	T	1000000	551	1200	4130	1870	1325	GTI-VGT		--		Racing Car		Y																	
+Volkswagen	GTI Supersport VGT?	2015	694.06	RH		Germany	4WD	T	1000000	551	1200	4250	1870	1325	GTI-VGT		--		Racing Car		Y																	
+Volkswagen	GTI VGT (Gr.3)?	0	693.34	RH		Germany	MR	T	450000	551	1260	4380	1930	1060	GTI-VGT		--	Gr.3	Racing Car		Y														Y			
+Volkswagen	ID. R '19	2019	842.66	RH		Germany	4WD	EV	2000000	670	1030	5200	2350	1200	EV-ID.R		--		Racing Car						Y													
+Volkswagen	Polo GTI? '14?	2014	443.74	CS	Y	Germany	FF	T	28000	189	1272	3995	1685	1445	DAJ	1798	Inline 4 Cylinders		Road Car																			
+Jaguar	XJ220 '92	1992	592.62	SH	Y	UK	MR	T	615000	515	1372	4860	2000	1150	JRV-6	3498	V-type 6 Cylinders		Road Car																Y			
+AMG	Mercedes-AMG GT3 '20	2020	736.18	RH		Germany	FR	NA	480000	614	1285	4746	2049	1238	M159	6208	V-type 8 Cylinders	Gr.3	Racing Car																			
+Super Formula	SF23 Super Formula / Toyota '23	2023	950.79	RS		Japan	MR	T	1000000	625	670	5235	1920	960	TRD-01F	2000	Inline 4 Cylinders		Racing Car																Y			Super Formula
+Super Formula	SF23 Super Formula / Honda '23	2023	950.79	RS		Japan	MR	T	1000000	625	670	5235	1920	960	HR-417E	2000	Inline 4 Cylinders		Racing Car																Y			Super Formula
+Alfa Romeo	Giulia Sprint GT Veloce '67	1967	334.81	CM	Y	Italy	FR	NA	180000	104	1040	4080	1580	1315	AR00536	1570	Inline 4 Cylinders		Road Car																			
+Greening Auto Company	Maverick	0	660.37	SM	Y	USA	FR	T	300000	1199	1633	4579	1914	1290	Windsor-351	6997	V-type 8 Cylinders		Professionally Tuned								Y											
+Nissan	GT-R NISMO (R32) '90	1990	508.43	SH	Y	Japan	4WD	T	400000	306	1400	4545	1755	1340	RB26DETT	2568	Inline 6 Cylinders		Road Car																			
+Volkswagen	Sambabus Typ 2? '62?	1962	116.31	CH	Y	Germany	RR	NA	61200	33	1095	4290	1750	1940	Type112	1192	Flat 4 Cylinders		Road Car																			
+Volkswagen	Scirocco Gr.4?	0	645.81	RH		Germany	FF	T	350000	358	1050	4301	1806	1365	L4-Scirocco-Gr.4	1984	Inline 4 Cylinders	Gr.4	Racing Car																			
+Volkswagen	Scirocco R? '10?	2010	502.86	SH	Y	Germany	FF	T	51500	252	1410	4255	1820	1420	CDL	1984	Inline 4 Cylinders		Road Car																			
+Wicked Fabrication	GT 51?	0	518.9	CS	Y	USA	FR	NA	300000	372	1338	4750	1778	1321	Y-block-368	6096	V-type 8 Cylinders		Professionally Tuned								Y											
+Zagato	IsoRivolta Zagato VGT?	2017	662.37	SM		Italy	FR	NA	1000000	559	1150	4390	2008	1096	V8-Zagato-VGT	4494	V-type 8 Cylinders		Road Car		Y																	
+Aston Martin	Valkyrie '21	2021	842.07	SS		UK	MR	NA	4000000	1139	1270	4506	1920	1060	RA	6500	V-type 12 Cylinders		Road Car	Y						Y									Y			
+Mitsubishi	Lancer Evolution III GSR '95	1995	474.33	CS	Y	Japan	4WD	T	100000	264	1260	4310	1695	1420	4G63T	1997	Inline 4 Cylinders		Road Car																			
+Subaru	Impreza Sedan WRX STi '04	2004	491.59	SH	Y	Japan	4WD	T	50000	286	1460	4415	1740	1425	EJ207	1994	Flat 4 Cylinders		Road Car																			
