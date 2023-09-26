@@ -16,7 +16,7 @@ Here are the three tabs:
 
 ![image](https://github.com/cheeseofpiece/gt7rando/assets/88277510/355bc3ef-ef50-413f-b216-c06e1094b865)
 
-![image](https://github.com/cheeseofpiece/gt7rando/assets/88277510/bea7d853-0edf-4604-b129-dee743ebb0b8)
+![image](https://github.com/cheeseofpiece/gt7rando/assets/88277510/8330de59-01cc-400c-97a0-1b6440c0de29)
 
 ![image](https://github.com/cheeseofpiece/gt7rando/assets/88277510/42f31239-10ee-47b9-9722-9a8c388b07ab)
 
