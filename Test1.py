@@ -109,10 +109,23 @@ def randomize_race():
     else:
         car_label.configure(text="No eligible cars found")
         
+    print(f"Car Override: {car_override_var.get()}")
+    print(f"Track Override: {track_override_var.get()}")
+	
 def randomize_custom():
 
     # Choose a random car and event
-    picked_car = random.choice(cars_list)
+    if car_override_var.get():
+        picked_car = car_combobox.get()
+        picked_car = car_combobox_map.get(picked_car)
+    else:
+        picked_car = random.choice(cars_list)
+	
+    if track_override_var.get():
+        chosen_track = track_combobox.get()
+        chosen_track = track_combobox_map.get(chosen_track)
+    else:
+        chosen_track = random.choice(tracks_list)
 
     # Get the value from the miles_entry box
     miles_chosen = convert_to_int(miles_entry.get())
@@ -121,7 +134,6 @@ def randomize_custom():
 
     # Randomly choose a car from CarsList.csv
     if len(cars_list) > 0:
-        picked_car = random.choice(cars_list)
         car_label_custom.configure(text=f"Random Car: {picked_car[0]} {picked_car[1]}")
         if generate_opponents_enabled.get():
             
@@ -178,14 +190,12 @@ def randomize_custom():
             opponents_text = "\n".join([car[0] + " " + car[1] if isinstance(car, list) else car for car in opponents_cars])
             opponents_label_custom.configure(text=f"Opponent Cars:\n{opponents_text}", justify="left")
         else:
-            picked_car = random.choice(cars_list)
             car_label_custom.configure(text=f"Random Car: {picked_car[0]} {picked_car[1]}")
     else:
         car_label_custom.configure(text="No cars available")
 
     # Randomly choose a track from TracksList.csv
     if len(tracks_list) > 0:
-        chosen_track = random.choice(tracks_list)
         track_label_custom.configure(text=f"Random Track: {chosen_track[0]} - {chosen_track[1]}")
         laps = random.randint(1, int(miles_chosen) // float(chosen_track[2]))
         
@@ -229,7 +239,7 @@ def randomize_custom():
                                      "R07", "R08"])
         race_info_label.configure(text=f"Random Laps: {laps} - Random Time: {time} - Random Weather: {weather}")
     else:
-        track_label_custom.configure(text="No tracks available")   
+        track_label_custom.configure(text="No tracks available")
 
 # Define lists for paint materials and decal finishes
 paint_materials = ['Solid', 'Metallic', 'Pearl']
@@ -312,6 +322,25 @@ randomize_button.configure(command=randomize_race)
 # Custom Tab
 custom_tab = ttk.Frame(tab_control)
 tab_control.add(custom_tab, text="Custom")
+
+car_combobox_map = {car[0] + " " + car[1]: car for car in cars_list}
+track_combobox_map = {track[1]: track for track in tracks_list}
+
+car_combobox = ttk.Combobox(custom_tab, values=[car[0] + " " + car[1] for car in cars_list], width=70)
+car_combobox.set(cars_list[0][0] + " " + cars_list[0][1])
+car_combobox.grid(row=5, column=1, sticky="e")
+
+car_override_var = tk.BooleanVar(value=False)
+car_override_checkbox = tk.Checkbutton(custom_tab, text="Override Car Selection", variable=car_override_var)
+car_override_checkbox.grid(row=6, column=1, sticky="e")
+
+track_combobox = ttk.Combobox(custom_tab, values=[track[1] for track in tracks_list], width=70)
+track_combobox.set(tracks_list[0][1])
+track_combobox.grid(row=7, column=1, sticky="e")
+
+track_override_var = tk.BooleanVar(value=False)
+track_override_checkbox = tk.Checkbutton(custom_tab, text="Override Track Selection", variable=track_override_var)
+track_override_checkbox.grid(row=8, column=1, sticky="e")
 
 opponent_limits_heading = ttk.Label(custom_tab, text="Opponent limits")
 opponent_limits_heading.grid(row=0, column=0, sticky="w")
