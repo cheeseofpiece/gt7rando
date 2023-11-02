@@ -21,7 +21,7 @@ I have also updated the Race and Custom tabs to have more functionality!
 Here are the three tabs:
 
 
-![image](https://github.com/cheeseofpiece/gt7rando/assets/88277510/b191cbaa-2fc8-4fac-be91-910a9398ea19)
+![image](https://github.com/cheeseofpiece/gt7rando/assets/88277510/4850688c-50fc-41f1-9139-25ba3b54ac70)
 
 
 ![image](https://github.com/cheeseofpiece/gt7rando/assets/88277510/bc581537-08ef-467a-96f0-fe1d70183665)
