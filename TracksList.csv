@@ -1,4 +1,4 @@
-﻿Location,Track Name,Length,Rain,Early Dawn,Dawn,Sunrise,Early Morning,Late Morning,Afternoon,Evening,Sunset,Twilight,Night,Midnight
+Location,Track Name,Length,Rain,Early Dawn,Dawn,Sunrise,Early Morning,Late Morning,Afternoon,Evening,Sunset,Twilight,Night,Midnight
 Europe,24 Heures du Mans Racing Circuit Full Course,8.47,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
 Europe,24 Heures du Mans Racing Circuit No Chicane,8.43,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
 Europe,Alsace Test Course,1.32,,,Y,Y,Y,Y,Y,Y,Y,Y,Y,
@@ -108,3 +108,9 @@ Americas,Willow Springs International Horse Thief Mile,1.01,,,,,Y,Y,Y,Y,,,,
 Americas,Willow Springs International Horse Thief Mile Reverse,1.01,,,,,Y,Y,Y,Y,,,,
 Americas,Willow Springs International Streets of Willow Springs,1.66,,,,,Y,Y,Y,Y,Y,Y,Y,
 Americas,Willow Springs International Streets of Willow Springs Reverse,1.66,,,,,Y,Y,Y,Y,Y,Y,Y,
+Americas,Lake Louise - Tri-Oval,1.91,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,
+Americas,Lake Louise - Short Track,1.6,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,
+Americas,Lake Louise - Long Track,2.3,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,
+Americas,Lake Louise - Tri-Oval Reverse,1.91,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,
+Americas,Lake Louise - Short Track Reverse,1.6,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,
+Americas,Lake Louise - Long Track Reverse,2.3,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,
