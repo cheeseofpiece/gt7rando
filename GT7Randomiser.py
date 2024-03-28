@@ -3,10 +3,12 @@ import random
 import tkinter as tk
 from tkinter import ttk
 import colorsys
+from math import ceil
 
 # Created by GTP_CON360
 
 eligible_cars = []
+eligible_cars_custom = []
 
 def read_csv(file_path):
     data = []
@@ -57,7 +59,7 @@ def randomize_race():
             (not pp_opt_enabled.get() or event[10] == "" or (car[2] != "" and float(car[3]) <= int(event[10]))) and
             (tyre_limit_enabled.get() or event[11] == "" or car[4][0] == event[11] or car[4] == event[11]) and
             (event[12] == "" or car[5] == event[12]) and
-            (event[13] == "" or car[6] in event[13:20]) and
+            (event[13] == "" or car[6] in event[13:19]) and
             (event[20] == "" or car[7] == event[20]) and
             (event[21] == "" or car[8] == event[21]) and
             (event[22] == "" or (car[9] != "" and int(car[9]) >= int(event[22]))) and
@@ -96,7 +98,8 @@ def randomize_race():
             (event[57] == "" or car[35] == event[57]) and
             (event[58] == "" or car[36] == event[58]) and
             (event[59] == "" or car[37] == event[59]) and
-            (event[60] == "" or car[38] == event[60])
+            (event[60] == "" or event[60] in (car[38], car[39], car[40])) and
+            (event[61] == "" or car[41] == event[61])
         ):
             eligible_cars.append(car)
 
@@ -113,6 +116,182 @@ def randomize_race():
     else:
         car_label.configure(text="No eligible cars found")
 	
+def randomize_race_race():
+
+    # Access the global eligible_cars variable
+    global eligible_cars_custom, tyre_limit_enabled
+       
+    # Choose a random event from EventList.csv
+    event_c = random.choice(custom_event_list)
+    
+    filtered_tracks_c = []
+    for track_c in tracks_list:
+        if (event_c[11] == "" or track_c[15] == event_c[11]) and (event_c[11] != "" or track_c[15] == ""):
+            filtered_tracks_c.append(track_c)
+    
+    if not filtered_tracks_c:
+        # No eligible tracks found
+        event_label_race.configure(text=f"No eligible tracks found\nEvent: {event_c[0]}")
+        car_label_race.configure(text="No eligible cars found")
+        opponents_label_custom_race.configure(text="No eligible cars found")
+        conditions_label_race.configure(text="No eligible tracks found")
+    else:
+        # Choose a random track from the filtered list
+        chosen_track_c = random.choice(filtered_tracks_c)
+    
+    # Clear the eligible_cars list
+    eligible_cars_custom.clear()
+
+    # Apply restrictions and filter eligible cars from CarsList.csv
+    if custom_cars_race_race.get():
+        all_cars_2 = cars_list + custom_cars_list
+    else:
+        all_cars_2 = cars_list
+        
+    for car_c in all_cars_2:
+        if (
+            (event_c[4] == "" or car_c[0] == event_c[4]) and
+            (event_c[5] == "" or car_c[1] == event_c[5]) and
+            (event_c[6] == "" or (car_c[2] != "" and int(car_c[2]) >= int(event_c[6]))) and
+            (event_c[7] == "" or (car_c[2] != "" and int(car_c[2]) <= int(event_c[7]))) and
+            (event_c[8] == "" or (car_c[3] != "" and float(car_c[3]) >= int(event_c[8]))) and
+            (event_c[9] == "" or (car_c[3] != "" and float(car_c[3]) <= int(event_c[9]))) and
+            (tyre_limit_enabled_race.get() or event_c[10] == "" or car_c[4][0] == event_c[10] or car_c[4] == event_c[10]) and
+            (event_c[11] == "" or car_c[5] == event_c[11]) and
+            (event_c[12] == "" or car_c[6] in event_c[12:18]) and
+            (event_c[19] == "" or car_c[7] == event_c[19]) and
+            (event_c[20] == "" or car_c[8] == event_c[20]) and
+            (event_c[21] == "" or (car_c[9] != "" and int(car_c[9]) >= int(event_c[21]))) and
+            (event_c[22] == "" or (car_c[9] != "" and int(car_c[9]) <= int(event_c[22]))) and
+            (event_c[23] == "" or (car_c[10] != "" and int(car_c[10]) >= int(event_c[23]))) and
+            (event_c[24] == "" or (car_c[10] != "" and int(car_c[10]) <= int(event_c[24]))) and
+            (event_c[25] == "" or (car_c[11] != "" and int(car_c[11]) >= int(event_c[25]))) and
+            (event_c[26] == "" or (car_c[11] != "" and int(car_c[11]) <= int(event_c[26]))) and
+            (event_c[27] == "" or (car_c[12] != "" and int(car_c[12]) >= int(event_c[27]))) and
+            (event_c[28] == "" or (car_c[12] != "" and int(car_c[12]) <= int(event_c[28]))) and
+            (event_c[29] == "" or (car_c[13] != "" and int(car_c[13]) >= int(event_c[29]))) and
+            (event_c[30] == "" or (car_c[13] != "" and int(car_c[13]) <= int(event_c[30]))) and
+            (event_c[31] == "" or (car_c[14] != "" and int(car_c[14]) >= int(event_c[31]))) and
+            (event_c[32] == "" or (car_c[14] != "" and int(car_c[14]) <= int(event_c[32]))) and
+            (event_c[33] == "" or car_c[15] == event_c[33]) and
+            (event_c[34] == "" or (car_c[16] != "" and int(car_c[16]) >= int(event_c[34]))) and
+            (event_c[35] == "" or (car_c[16] != "" and int(car_c[16]) <= int(event_c[35]))) and
+            (event_c[36] == "" or car_c[17] == event_c[36]) and
+            (event_c[37] == "" or car_c[18] == event_c[37]) and
+            (event_c[38] == "" or car_c[19] in event_c[38:40]) and
+            (event_c[41] == "" or car_c[20] == event_c[41]) and
+            (event_c[42] == "" or car_c[21] == event_c[42]) and
+            (event_c[43] == "" or car_c[22] == event_c[43]) and
+            (event_c[44] == "" or car_c[23] == event_c[44]) and
+            (event_c[45] == "" or car_c[24] == event_c[45]) and
+            (event_c[46] == "" or car_c[25] == event_c[46]) and
+            (event_c[47] == "" or car_c[26] == event_c[47]) and
+            (event_c[48] == "" or car_c[27] == event_c[48]) and
+            (event_c[49] == "" or car_c[28] == event_c[49]) and
+            (event_c[50] == "" or car_c[29] == event_c[50]) and
+            (event_c[51] == "" or car_c[30] == event_c[51]) and
+            (event_c[52] == "" or car_c[31] == event_c[52]) and
+            (event_c[53] == "" or car_c[32] == event_c[53]) and
+            (event_c[54] == "" or car_c[33] == event_c[54]) and
+            (event_c[55] == "" or car_c[34] == event_c[55]) and
+            (event_c[56] == "" or car_c[35] == event_c[56]) and
+            (event_c[57] == "" or car_c[36] == event_c[57]) and
+            (event_c[58] == "" or car_c[37] == event_c[58]) and
+            (event_c[59] == "" or event_c[59] in (car_c[38], car_c[39], car_c[40])) and
+            (event_c[60] == "" or car_c[41] == event_c[60]) ):
+                eligible_cars_custom.append(car_c)
+
+    # Choose a random car from the eligible cars
+    if eligible_cars_custom:
+        genned_car = random.choice(eligible_cars_custom)
+    else:
+        genned_car = ["No eligible cars found"]
+
+    # Display the chosen event and car in the UI
+    event_label_race.configure(text=f"Track: {chosen_track_c[0]} - {chosen_track_c[1]}\nEvent: {event_c[0]}")
+    if len(genned_car) >= 2:  # Check if chosen_car has at least two elements
+        car_label_race.configure(text=f"Car: {genned_car[0]} {genned_car[1]}")
+    else:
+        car_label_race.configure(text="No eligible cars found")
+        
+    # Randomly select 19 cars from filtered_cars_list
+    if len(eligible_cars_custom) == 0:
+        opponents_label_custom_race.configure(text="No eligible cars found")
+    else:
+        if len(eligible_cars_custom) >= 19:
+            random.shuffle(eligible_cars_custom)
+            opponents_cars_race = eligible_cars_custom[:19]
+            # Generate a random index to place "Player Car Here!" within the 19 cars
+            player_car_index_race = random.randint(0, 19)
+            # Insert the "Player Car Here!" text at the randomly chosen index
+            opponents_cars_race.insert(player_car_index_race, "Player Car Here!")
+            # Display the opponents cars
+            opponents_text_race = "\n".join([car_c[0] + " " + car_c[1] if isinstance(car_c, list) else car_c for car_c in opponents_cars_race])
+            opponents_label_custom_race.configure(text=f"Opponent Cars:\n{opponents_text_race}")
+        else:
+            opponents_cars_race = random.choices(eligible_cars_custom, k=19)
+            # Generate a random index to place "Player Car Here!" within the 19 cars
+            player_car_index_race = random.randint(0, 19)
+            # Insert the "Player Car Here!" text at the randomly chosen index
+            opponents_cars_race.insert(player_car_index_race, "Player Car Here!")
+            # Display the opponents cars
+            opponents_text_race = "\n".join([car_c[0] + " " + car_c[1] if isinstance(car_c, list) else car_c for car_c in opponents_cars_race])
+            opponents_label_custom_race.configure(text=f"Opponent Cars:\n{opponents_text_race}")
+            
+        
+        #laps_c = random.randint(1, ceil(float(event_c[2]) // float(chosen_track_c[2])))
+        c_max_distance = float(event_c[3])
+        c_min_distance = float(event_c[2])
+        c_track_length = float(chosen_track_c[2])
+        
+        if c_max_distance >= c_track_length:
+            laps_c = random.randint(ceil(c_min_distance / c_track_length), ceil(c_max_distance / c_track_length))
+        else:
+            laps_c = 1
+        #laps_c = random.randint(int(event_c[2]), int(event_c[3]))
+        
+        # Randomly choose a time name from the given options
+        available_times_c = []
+        if chosen_track_c[4] != "":
+            available_times_c.append("Early Dawn")
+        if chosen_track_c[5] != "":
+            available_times_c.append("Dawn")
+        if chosen_track_c[6] != "":
+            available_times_c.append("Sunrise")
+        if chosen_track_c[7] != "":
+            available_times_c.append("Early Morning")
+        if chosen_track_c[8] != "":
+            available_times_c.append("Late Morning")
+        if chosen_track_c[9] != "":
+            available_times_c.append("Afternoon")
+        if chosen_track_c[10] != "":
+            available_times_c.append("Evening")
+        if chosen_track_c[11] != "":
+            available_times_c.append("Sunset")
+        if chosen_track_c[12] != "":
+            available_times_c.append("Twilight")
+        if chosen_track_c[13] != "":
+            available_times_c.append("Night")
+        if chosen_track_c[14] != "":
+            available_times_c.append("Midnight")
+
+        if available_times_c:
+            time_c = random.choice(available_times_c)
+        else:
+            time_c = "No available time"
+            
+        if chosen_track_c[3] == "":
+            weather_c = random.choice(["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08", "S09", "S10",
+                                     "S11", "S12", "S13", "S14", "S15", "S16", "S17", "S18", "C01", "C02",
+                                     "C03", "C04", "C05", "C06"])
+        else:
+            weather_c = random.choice(["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08", "S09", "S10",
+                                     "S11", "S12", "S13", "S14", "S15", "S16", "S17", "S18", "C01", "C02",
+                                     "C03", "C04", "C05", "C06", "R01", "R02", "R03", "R04", "R05", "R06",
+                                     "R07", "R08"])
+                                     
+        conditions_label_race.configure(text=f"Laps: {laps_c}, Time: {time_c}, Weather: {weather_c}")
+
 def randomize_custom():
 
     # Choose a random car and event
@@ -211,7 +390,13 @@ def randomize_custom():
     # Randomly choose a track from TracksList.csv
     if len(tracks_list) > 0:
         track_label_custom.configure(text=f"Track: {chosen_track[0]} - {chosen_track[1]}")
-        laps = random.randint(1, int(miles_chosen) // float(chosen_track[2]))
+        #laps = random.randint(1, ceil(int(miles_chosen) // float(chosen_track[2])))
+        max_distance = int(miles_chosen)
+        track_length = float(chosen_track[2])
+        if max_distance >= track_length:
+            laps = random.randint(1, ceil(max_distance / track_length))
+        else:
+            laps = 1
         
         # Randomly choose a time name from the given options
         available_times = []
@@ -297,6 +482,7 @@ wheels = read_csv('WheelsList.csv')
 paint = read_csv('PaintsList.csv')
 tracks_list = read_csv('TracksList.csv')
 custom_cars_list = read_csv('CustomCars.csv')
+custom_event_list = read_csv('CustomEvents.csv')
 
 window = tk.Tk()
 window.title("Randomizer")
@@ -339,6 +525,41 @@ randomize_button.pack(expand=True, pady=50)
 randomize_button.config(font=("Arial", 12), width=20)
 
 randomize_button.configure(command=randomize_race)
+
+#Custom Race Tab
+
+custom_race_tab = ttk.Frame(tab_control)
+tab_control.add(custom_race_tab, text="Custom Race")
+
+tyre_limit_enabled_race = tk.BooleanVar(value=False)
+tyre_limit_checkbox_race = tk.Checkbutton(custom_race_tab, text="Disable tyre limit checking", variable=tyre_limit_enabled_race)
+tyre_limit_checkbox_race.pack(anchor="nw", padx=10, pady=10)
+
+custom_cars_race_race = tk.BooleanVar(value=False)
+custom_cars_checkbox_race = tk.Checkbutton(custom_race_tab, text="Include Custom Cars", variable=custom_cars_race_race)
+custom_cars_checkbox_race.pack(anchor="nw", padx=10, pady=10)
+
+event_label_race = tk.Label(custom_race_tab, text="Track\nEvent")
+event_label_race.pack(expand=False, anchor="n", pady=(10))
+event_label_race.config(font=("Arial", 16))
+
+car_label_race = tk.Label(custom_race_tab, text="Make Model")
+car_label_race.pack(expand=False, anchor="n", pady=(10))
+car_label_race.config(font=("Arial", 14))
+
+conditions_label_race = tk.Label(custom_race_tab, text="Laps, Time, Weather")
+conditions_label_race.pack(expand=False, anchor='n', pady=(10))
+conditions_label_race.config(font=("Arial", 14))
+
+randomize_button_race = tk.Button(custom_race_tab, text="Randomize", command=randomize_race_race)
+randomize_button_race.pack(expand=False, anchor="n", pady=30)
+randomize_button_race.config(font=("Arial", 12), width=20)
+
+randomize_button_race.configure(command=randomize_race_race)
+
+opponents_label_custom_race = tk.Label(custom_race_tab, text="Opponent Cars:")
+opponents_label_custom_race.pack(anchor="n", pady=10)
+opponents_label_custom_race.config(font=("Arial", 10))
 
 # Custom Tab
 custom_tab = ttk.Frame(tab_control)
